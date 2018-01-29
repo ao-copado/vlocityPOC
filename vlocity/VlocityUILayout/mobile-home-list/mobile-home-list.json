@@ -1,0 +1,17 @@
+{
+    "Cards": [
+    ],
+    "dataSource": {
+        "contextVariables": [
+        ],
+        "type": "Inherit",
+        "value": {
+            "resultVar": "Stories"
+        }
+    },
+    "templates": {
+        "0": {
+            "templateUrl": "vdo-mobile-consumer-home"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+/*** STYLES ***/
+.vlocity {
+  /* Always use vlocity class as a wrapper */ }
+  .vlocity .np-product-highlight-card {
+    color: #16325c;
+    width: 100%;
+    width: 300px;
+    min-width: 260px; }
+    .vlocity .np-product-highlight-card .np-product--title {
+      font-size: 20px;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      overflow: hidden; }
+    .vlocity .np-product-highlight-card
+.np-card {
+      background: #F8FBFE !important;
+      border-color: #e8eef5 !important;
+      min-height: 380px;
+      position: relative; }
+      .vlocity .np-product-highlight-card
+.np-card .np-sale {
+        position: absolute;
+        top: -10px;
+        left: -10px;
+        width: 100px;
+        height: 40px;
+        background: #ff7900;
+        color: #FFF;
+        box-shadow: 1px 1px 1px #9eaabf;
+        line-height: 40px;
+        font-size: 14px;
+        text-align: center;
+        padding-left: 10px;
+        display: none; }
+        .vlocity .np-product-highlight-card
+.np-card .np-sale img {
+          position: absolute;
+          width: 35px;
+          height: 35px;
+          margin-left: -5px;
+          border: 3px solid #fff;
+          border-radius: 35px;
+          top: -10px;
+          left: -10px; }
+      .vlocity .np-product-highlight-card
+.np-card .sale {
+        display: block !important; }
+      .vlocity .np-product-highlight-card
+.np-card:hover {
+        background: #e8eef5 !important;
+        cursor: pointer; }
+    .vlocity .np-product-highlight-card img {
+      width: 100%;
+      margin: 0 auto; }
+    .vlocity .np-product-highlight-card
+.price {
+      text-decoration: line-through;
+      font-size: 18px; }
+    .vlocity .np-product-highlight-card
+.offer-price {
+      color: #ff7900;
+      font-size: 18px; }

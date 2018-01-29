@@ -1,0 +1,8 @@
+.cards-background {
+  background-size: cover;
+  background-image: url("https://vdo-cmt--c.na30.content.force.com/servlet/servlet.ImageServer?id=01536000003Kc2B&oid=00D36000000qC4j&lastMod=1508524642000");
+  display: table;
+  width: 100%; }
+
+html, body, .via-slds {
+  background: transparent !important; }

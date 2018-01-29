@@ -1,0 +1,10 @@
+/*** MIXINS ***/
+.via-slds-story-cards--header {
+  border: 1px solid #d8dde6;
+  border-radius: 0.25rem; }
+
+.via-slds-story-cards--header-title {
+  position: relative; }
+
+.via-slds-feed-item:last-child .slds-media--timeline:before {
+  display: none; }

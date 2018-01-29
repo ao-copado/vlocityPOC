@@ -1,0 +1,18 @@
+{
+    "%vlocity_namespace%__AttributeAssignment__c": "Business-Continuity_AttributeAssignments.json",
+    "%vlocity_namespace%__DataSourceType__c": "",
+    "%vlocity_namespace%__DataSource__c": "",
+    "%vlocity_namespace%__Description__c": "Let us worry about your services so you don't have to. Our unparalleled availability means you are always prepared.",
+    "%vlocity_namespace%__EffectiveDate__c": "",
+    "%vlocity_namespace%__ExpirationDate__c": "",
+    "%vlocity_namespace%__Headline__c": "",
+    "%vlocity_namespace%__IsActive__c": true,
+    "%vlocity_namespace%__SubTitle__c": "",
+    "%vlocity_namespace%__TargetObjectKey__c": "B2B Bundle Order",
+    "%vlocity_namespace%__TargetObjectType__c": "VlocityAction",
+    "Attachment": "Business-Continuity_Attachments.json",
+    "Name": "Business Continuity",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__VqResource__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__VqResource__c/Business Continuity"
+}

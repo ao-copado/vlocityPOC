@@ -1,0 +1,24 @@
+{
+    "%vlocity_namespace%__AdditionalInformation__c": "Place a new order for recommended products.",
+    "%vlocity_namespace%__Element__c": [
+        "VDO_Account-Order-Upsell_English_Element_Choose-Upsell-Products.json",
+        "VDO_Account-Order-Upsell_English_Element_Configure-Order.json",
+        "VDO_Account-Order-Upsell_English_Element_Create-Cart.json",
+        "VDO_Account-Order-Upsell_English_Element_Create-Order.json",
+        "VDO_Account-Order-Upsell_English_Element_Get-Price-List.json",
+        "VDO_Account-Order-Upsell_English_Element_Get-Upsell-Products.json",
+        "VDO_Account-Order-Upsell_English_Element_Recommended-Products.json",
+        "VDO_Account-Order-Upsell_English_Element_Set-Order-Id.json"
+    ],
+    "%vlocity_namespace%__IsActive__c": true,
+    "%vlocity_namespace%__IsProcedure__c": false,
+    "%vlocity_namespace%__IsReusable__c": false,
+    "%vlocity_namespace%__Language__c": "English",
+    "%vlocity_namespace%__PropertySet__c": "VDO_Account-Order-Upsell_English_PropertySet.json",
+    "%vlocity_namespace%__SubType__c": "Account Order Upsell",
+    "%vlocity_namespace%__Type__c": "VDO",
+    "Name": "Account Order Upsell",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__OmniScript__c/VDO/Account Order Upsell/English"
+}

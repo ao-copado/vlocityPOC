@@ -1,0 +1,106 @@
+.vlocity .profile-box {
+  height: auto;
+  background-color: #456B8E;
+  box-sizing: border-box;
+  padding: 10px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: white;
+  font-size: 11px;
+  font-weight: lighter; }
+  .vlocity .profile-box * {
+    color: white; }
+  .vlocity .profile-box .customer-type {
+    display: inline;
+    position: absolute;
+    top: 5px;
+    right: 15px; }
+    .vlocity .profile-box .customer-type .sentiment {
+      width: 23px;
+      height: 23px;
+      margin: 0px 3px;
+      display: inline-block; }
+      .vlocity .profile-box .customer-type .sentiment.disgruntled {
+        background-image: url("{{'CustomerIcons' | resource}}/sentiment/Disgruntled.png"); }
+      .vlocity .profile-box .customer-type .sentiment.dissatisfied {
+        background-image: url("{{'CustomerIcons' | resource}}/sentiment/Dissatisfied.png"); }
+      .vlocity .profile-box .customer-type .sentiment.neutral {
+        background-image: url("{{'CustomerIcons' | resource}}/sentiment/Neutral.png"); }
+      .vlocity .profile-box .customer-type .sentiment.promoter {
+        background-image: url("{{'CustomerIcons' | resource}}/sentiment/Promoter.png"); }
+      .vlocity .profile-box .customer-type .sentiment.satisfied {
+        background-image: url("{{'CustomerIcons' | resource}}/sentiment/Satisfied.png"); }
+    .vlocity .profile-box .customer-type .value-type {
+      width: 18px;
+      height: 23px;
+      margin: 0px 3px;
+      display: inline-block; }
+      .vlocity .profile-box .customer-type .value-type.bronze {
+        background-image: url("{{'CustomerIcons' | resource}}/value/Bronze.png"); }
+      .vlocity .profile-box .customer-type .value-type.gold {
+        background-image: url("{{'CustomerIcons' | resource}}/value/Gold.png"); }
+      .vlocity .profile-box .customer-type .value-type.platinum {
+        background-image: url("{{'CustomerIcons' | resource}}/value/Platinum.png"); }
+      .vlocity .profile-box .customer-type .value-type.silver {
+        background-image: url("{{'CustomerIcons' | resource}}/value/Silver.png"); }
+  .vlocity .profile-box .profile-box-img {
+    align-items: center;
+    justify-content: center; }
+  @media (min-width: 400px) {
+    .vlocity .profile-box .profile-box-img {
+      display: table-cell;
+      vertical-align: top;
+      padding: 8px; }
+    .vlocity .profile-box .profile-box-details {
+      display: table-cell;
+      vertical-align: top;
+      padding-left: 10px;
+      padding-top: 10px;
+      text-align: left; }
+      .vlocity .profile-box .profile-box-details .title-card {
+        text-align: left; }
+      .vlocity .profile-box .profile-box-details .social {
+        text-align: left; }
+      .vlocity .profile-box .profile-box-details .profile-links {
+        text-align: left; } }
+  .vlocity .profile-box .title-card {
+    margin: 2% auto;
+    text-align: center; }
+    .vlocity .profile-box .title-card h1 {
+      text-transform: capitalize;
+      color: white;
+      margin: 10px 0 5px;
+      font-size: 16px; }
+  .vlocity .profile-box #customer-since {
+    color: white;
+    font-size: 10px;
+    font-weight: lighter;
+    text-align: center; }
+  .vlocity .profile-box .profile-img {
+    min-width: 90px;
+    min-height: 90px;
+    display: inline-block;
+    border: 2px solid white !important; }
+  .vlocity .profile-box .social {
+    text-align: center;
+    margin: 15px auto;
+    color: white; }
+    .vlocity .profile-box .social i {
+      cursor: pointer; }
+    .vlocity .profile-box .social i::before {
+      font-size: 20px; }
+    .vlocity .profile-box .social i:hover {
+      color: green; }
+  .vlocity .profile-box .profile-links {
+    color: #6a7672;
+    font-size: 11px;
+    text-align: center; }
+    .vlocity .profile-box .profile-links a {
+      color: white;
+      font-size: 10px;
+      font-weight: lighter;
+      cursor: pointer;
+      text-transform: uppercase; }
+    .vlocity .profile-box .profile-links .separator {
+      line-height: 15px;
+      color: white;
+      padding: 0px 5px; }

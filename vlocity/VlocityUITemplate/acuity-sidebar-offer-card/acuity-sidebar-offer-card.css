@@ -1,0 +1,25 @@
+.via-acuity-sidebar-offer-card:hover {
+  cursor: pointer; }
+
+/* mixin for multiline */
+.via-acuity-sidebar-offer-card p {
+  overflow: hidden;
+  position: relative;
+  line-height: 1.5em;
+  max-height: 4.5em;
+  text-align: justify;
+  margin-right: 0;
+  padding-right: 1em; }
+  .via-acuity-sidebar-offer-card p:before {
+    content: '...';
+    position: absolute;
+    right: 0;
+    bottom: 0; }
+  .via-acuity-sidebar-offer-card p:after {
+    content: '';
+    position: absolute;
+    right: 0;
+    width: 1em;
+    height: 1em;
+    margin-top: 0.2em;
+    background: white; }

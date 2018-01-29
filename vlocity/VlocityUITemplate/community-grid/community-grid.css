@@ -1,0 +1,14 @@
+/*** VARIABLES ***/
+/*** COMMUNITY VARIABLES ***/
+/* Breakpoints */
+/* ipad mini/ipad width is 768px */
+.vlocity .community {
+  /* Side bar styles */ }
+  .vlocity .community .sidebar-wrapper {
+    padding-right: 5px; }
+  @media (min-width: 992px) {
+    .vlocity .community .community-body {
+      padding: 0px 30px 30px; } }
+  @media (max-width: 767px) {
+    .vlocity .community .sidebar-wrapper {
+      padding: 0px; } }

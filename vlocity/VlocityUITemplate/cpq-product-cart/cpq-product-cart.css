@@ -1,0 +1,84 @@
+/*** CPQ Theme VARIABLES ***/
+/*** 
+   ***** CPQ THEME VARIABLES ****
+   Add only the theme file here. Don't add any code here.
+   It's easier to swap the theme here rather than swapping in every other template.
+   If you swap the theme here, all templates will automatically get the latest.
+   Note: You need to re save all the templates once you change the theme. Also, if you change theme files, refresh the browser and then save the templates.
+***/
+/*** CPQ BASE THEME VARIABLES ***/
+/*** CPQ BASE VARIABLES ***/
+/*** 
+    Do not modify this variables, Instead use Themes.
+    Modify only when you are sure what you are doing and the impact it may have.
+    These variables are used in different templates/themes.
+**/
+/*** SLDS VARIABLES ***/
+/*** MIXINS ***/
+/*** MIXINS ***/
+/*** STYLES ***/
+.vlocity .cpq-product-cart {
+  position: absolute;
+  top: 0;
+  right: 8px;
+  bottom: 0;
+  left: 8px;
+  height: calc(100% - 80px); }
+  .vlocity .cpq-product-cart .errors-container-sticky {
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    top: 31px;
+    /* fix for Firefox */ }
+    .vlocity .cpq-product-cart .errors-container-sticky .border-radius {
+      border-radius: 4px 4px 0 0; }
+  .vlocity .cpq-product-cart .cart-container-padding {
+    padding-top: 40px; }
+  .vlocity .cpq-product-cart .cart-errors {
+    padding: 10px 16px;
+    color: white; }
+    .vlocity .cpq-product-cart .cart-errors h2 {
+      font-size: 14px; }
+    .vlocity .cpq-product-cart .cart-errors a {
+      text-decoration: none;
+      font-weight: 300;
+      font-size: 1rem;
+      line-height: 1.25;
+      background-color: inherit; }
+    .vlocity .cpq-product-cart .cart-errors .slds-button {
+      line-height: 1.25;
+      color: white; }
+
+.vlocity .cpq-product-cart-tabs {
+  margin-top: -10px; }
+
+.vlocity .cpq-product-cart-items {
+  background-color: #FFFFFF;
+  overflow-y: auto; }
+  .vlocity .cpq-product-cart-items .cpq-product-cart-items-tab-content {
+    padding-top: 0px; }
+    .vlocity .cpq-product-cart-items .cpq-product-cart-items-tab-content .cpq-no-cart-items-msg {
+      padding: 40px 10px; }
+  .vlocity .cpq-product-cart-items .next-product {
+    padding: 10px; }
+    .vlocity .cpq-product-cart-items .next-product .slds-spinner_container {
+      position: relative;
+      padding-top: 10px; }
+
+.vlocity .cpq-cart-promotions-tab-container {
+  min-height: 300px; }
+
+.vlocity .fix-slds-close-switch {
+  transform: rotate(-90deg); }
+
+@media screen and (max-width: 64em) {
+  .vlocity .cpq-product-cart {
+    left: 0;
+    right: 0; }
+    .vlocity .cpq-product-cart .cpq-product-cart-global-tabs ul.cpq-product-cart-tabs {
+      padding-left: 1.5rem; } }
+
+@media screen and (max-width: 64em) {
+  [dir=rtl] .vlocity .cpq-product-cart .cpq-product-cart-global-tabs ul.cpq-product-cart-tabs {
+    padding-left: 0;
+    padding-right: 1.5rem; } }

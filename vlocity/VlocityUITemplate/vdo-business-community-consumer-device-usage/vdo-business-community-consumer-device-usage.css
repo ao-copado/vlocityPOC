@@ -1,0 +1,8 @@
+.via-slds .vdo-consumer-device-usage {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 20px; }
+  .via-slds .vdo-consumer-device-usage .vdo-device-graph {
+    max-width: 500px; }
+  .via-slds .vdo-consumer-device-usage .vdo-consumer-device-usage-label {
+    color: #333;
+    font-size: 120%; }

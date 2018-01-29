@@ -1,0 +1,20 @@
+{
+    "Cards": [
+        "Mobile-Actions-Account"
+    ],
+    "dataSource": {
+        "contextVariables": [
+        ],
+        "type": "Custom",
+        "value": {
+            "body": "{\"result\":[]}",
+            "query": "SELECT Id, User_Role__c FROM User Where Id = '{{params.Id}}'",
+            "resultVar": "result"
+        }
+    },
+    "templates": {
+        "0": {
+            "templateUrl": "card-canvas-1x-simple-slds"
+        }
+    }
+}

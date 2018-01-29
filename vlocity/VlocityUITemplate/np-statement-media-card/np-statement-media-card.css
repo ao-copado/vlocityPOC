@@ -1,0 +1,25 @@
+/*** STYLES ***/
+.vlocity {
+  /* Always use vlocity class as a wrapper */ }
+  .vlocity .statement-media--card {
+    position: relative;
+    cursor: pointer; }
+    .vlocity .statement-media--card
+.custom-statement-icon {
+      fill: #2972cb; }
+    .vlocity .statement-media--card
+.custom-button-close {
+      fill: #B0BBCD;
+      position: absolute;
+      top: 8px;
+      right: 8px;
+      cursor: pointer; }
+    .vlocity .statement-media--card.custom-bg {
+      background: #f9fbfe;
+      border: none;
+      border-radius: 0px;
+      height: 100%; }
+    .vlocity .statement-media--card img {
+      max-width: 50px; }
+    .vlocity .statement-media--card:hover {
+      background: #e8eef5; }

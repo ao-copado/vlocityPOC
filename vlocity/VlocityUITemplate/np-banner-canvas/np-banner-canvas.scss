@@ -1,0 +1,58 @@
+@import "npVariables";
+.vlocity{/* Always use vlocity class as a wrapper */
+.np-hero-resource-card{
+    position:relative;
+    .np-hero-resource-card-carouse--buttons input {
+        display: none;
+    }
+    .np-hero-resource-card-carouse--buttons {
+        left:0;
+        right:0;
+        bottom:20px;
+        position:absolute;
+        text-align:center;
+        li{
+            padding:0 10px;
+            display: inline-block;
+        label {
+        background-color: #EEF1F6;
+        bottom: 0;
+        border-radius: 100%;
+        cursor: pointer;
+        height: 8px;
+        transition: .25s;
+        width: 8px;
+        z-index: 10;
+        left: 50%;
+        }
+    }
+}
+    .np-hero-resource-card-carouse--buttons input:checked + label {
+        background-color: rgb(224,106,26); ;
+    }
+    .np-hero-resource-card--desc{
+            color: #fff;
+            font-size: $font-large-banner;
+            position: absolute;
+            top: 12%;
+            left: 5%;
+            padding-right:10%;
+            line-height: 62px;
+        .np-hero-resource-card--link{
+            color:#fff;
+            font-size:12px;
+            }
+    }
+
+}
+@media  screen and (max-width:767px){
+    &.via-slds{
+   .np-hero-resource-card{ 
+     .np-hero-resource-card--desc{
+         font-size: $font-mobile-banner;
+          line-height:42px;
+     }
+     }
+    }
+}
+}

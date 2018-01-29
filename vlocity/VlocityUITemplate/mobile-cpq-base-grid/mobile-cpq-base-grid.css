@@ -1,0 +1,48 @@
+/*** CPQ THEME VARIABLES ***/
+/*** 
+   ***** CPQ THEME VARIABLES ****
+   Add only the theme file here. Don't add any code here.
+   It's easier to swap the theme here rather than swapping in every other template.
+   If you swap the theme here, all templates will automatically get the latest.
+   Note: You need to re save all the templates once you change the theme. Also, if you change theme files, refresh the browser and then save the templates.
+***/
+/*** CPQ BASE THEME VARIABLES ***/
+/*** CPQ BASE VARIABLES ***/
+/*** 
+    Do not modify this variables, Instead use Themes.
+    Modify only when you are sure what you are doing and the impact it may have.
+    These variables are used in different templates/themes.
+**/
+/*** SLDS VARIABLES ***/
+/*** MIXINS ***/
+/*** MIXINS ***/
+/*** STYLES ***/
+.vlocity .cpq-module {
+  background-color: #f4f6f9;
+  /* Fixed the input to shadow issue on iPad*/ }
+  @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+    .vlocity .cpq-module input {
+      -webkit-appearance: none; } }
+
+.vlocity .cpq-container {
+  padding: 16px 8px;
+  height: calc(100vh - 81px); }
+
+.vlocity .show-hide-button {
+  margin-left: -10px;
+  width: 10px;
+  height: initial;
+  border-radius: 0px;
+  border: none;
+  color: #000000;
+  font-weight: 600;
+  font-size: 40px; }
+
+.vlocity .show-hide-button:focus {
+  box-shadow: none; }
+
+.vlocity .cursor-point-west {
+  cursor: w-resize; }
+
+.vlocity .cursor-point-east {
+  cursor: e-resize; }

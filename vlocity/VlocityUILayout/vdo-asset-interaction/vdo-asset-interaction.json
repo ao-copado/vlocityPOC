@@ -1,0 +1,35 @@
+{
+    "Cards": [
+        "VDO Interaction Asset Hierarchy",
+        "VDO Interaction TV Offer Grid",
+        "VDO Interaction Mobile Offer Grid",
+        "VDO Interaction Internet Offer Grid"
+    ],
+    "bypassSave": true,
+    "dataSource": {
+        "contextVariables": [
+            {
+                "name": "params.id",
+                "val": "a3L36000000I7PK"
+            }
+        ],
+        "type": "ApexRemote",
+        "value": {
+            "inputMap": {
+                "interactionId": "{{params.id}}"
+            },
+            "optionsMap": {
+                "vlcClass": "GetInteractionAssets"
+            },
+            "remoteClass": "VDOGetInteractionAssetsV2",
+            "remoteMethod": "getInteractionAssets",
+            "remoteNSPrefix": null,
+            "resultVar": "records"
+        }
+    },
+    "templates": {
+        "0": {
+            "templateUrl": "card-canvas-3x-slds"
+        }
+    }
+}

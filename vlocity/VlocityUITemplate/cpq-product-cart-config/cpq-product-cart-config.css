@@ -1,0 +1,50 @@
+/*** CPQ Theme VARIABLES ***/
+/*** 
+   ***** CPQ THEME VARIABLES ****
+   Add only the theme file here. Don't add any code here.
+   It's easier to swap the theme here rather than swapping in every other template.
+   If you swap the theme here, all templates will automatically get the latest.
+   Note: You need to re save all the templates once you change the theme. Also, if you change theme files, refresh the browser and then save the templates.
+***/
+/*** CPQ BASE THEME VARIABLES ***/
+/*** CPQ BASE VARIABLES ***/
+/*** 
+    Do not modify this variables, Instead use Themes.
+    Modify only when you are sure what you are doing and the impact it may have.
+    These variables are used in different templates/themes.
+**/
+/*** SLDS VARIABLES ***/
+/*** MIXINS ***/
+/*** MIXINS ***/
+/*** STYLES ***/
+.vlocity .cpq-product-cart-config {
+  background-color: #FFFFFF;
+  position: absolute;
+  top: 30px;
+  right: 8px;
+  bottom: 0;
+  left: 8px; }
+  .vlocity .cpq-product-cart-config .cpq-product-cart-config-header {
+    padding: 10px 16px; }
+  .vlocity .cpq-product-cart-config .cpq-product-cart-config-form {
+    margin-bottom: 60px;
+    overflow-y: scroll;
+    margin-top: -10px;
+    padding: 0px 16px 20px; }
+    .vlocity .cpq-product-cart-config .cpq-product-cart-config-form .cpq-product-cart-config-form-savebar {
+      position: absolute;
+      bottom: 0px;
+      left: 0px;
+      right: 0px;
+      padding: 15px 15px 18px;
+      background: #FFFFFF; }
+    .vlocity .cpq-product-cart-config .cpq-product-cart-config-form .error-msg {
+      color: #f65327;
+      font-size: 0.75rem;
+      margin-top: 0.5rem; }
+
+@media screen and (max-width: 64em) {
+  .vlocity .cpq-product-cart-config {
+    position: static; }
+    .vlocity .cpq-product-cart-config .cpq-product-cart-config-form .cpq-product-cart-config-form-savebar {
+      position: static; } }

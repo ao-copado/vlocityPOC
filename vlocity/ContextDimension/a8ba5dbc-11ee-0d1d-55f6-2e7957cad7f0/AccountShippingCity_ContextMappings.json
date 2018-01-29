@@ -1,0 +1,24 @@
+[
+    {
+        "%vlocity_namespace%__ContextScopeId__c": {
+            "%vlocity_namespace%__GlobalKey__c": null,
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:a3r1N000000R6gdQAC",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__ContextScope__c"
+        },
+        "%vlocity_namespace%__Dimension__c": {
+            "%vlocity_namespace%__GlobalKey__c": "a8ba5dbc-11ee-0d1d-55f6-2e7957cad7f0",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__ContextDimension__c/a8ba5dbc-11ee-0d1d-55f6-2e7957cad7f0",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__ContextDimension__c"
+        },
+        "%vlocity_namespace%__EffectiveFromDate__c": "2017-01-01T00:00:00.000Z",
+        "%vlocity_namespace%__InitializationPolicy__c": "Always Reinitialize",
+        "%vlocity_namespace%__InitializationType__c": "Source Expression",
+        "%vlocity_namespace%__IsActive__c": true,
+        "%vlocity_namespace%__Sequence__c": 1,
+        "%vlocity_namespace%__Source__c": "ShippingCity",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__ContextMapping__c"
+    }
+]

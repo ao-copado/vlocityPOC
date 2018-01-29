@@ -1,0 +1,17 @@
+{
+    "%vlocity_namespace%__DataSourceType__c": "",
+    "%vlocity_namespace%__DataSource__c": "",
+    "%vlocity_namespace%__Description__c": "Essential Phone Discount",
+    "%vlocity_namespace%__EffectiveDate__c": "",
+    "%vlocity_namespace%__ExpirationDate__c": "",
+    "%vlocity_namespace%__Headline__c": "",
+    "%vlocity_namespace%__IsActive__c": true,
+    "%vlocity_namespace%__SubTitle__c": "",
+    "%vlocity_namespace%__TargetObjectKey__c": "Mobile Order",
+    "%vlocity_namespace%__TargetObjectType__c": "VlocityAction",
+    "Attachment": "Essential-Phone_Attachments.json",
+    "Name": "Essential Phone",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__VqResource__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__VqResource__c/Essential Phone"
+}

@@ -1,0 +1,61 @@
+/*** CPQ Theme VARIABLES ***/
+/*** 
+   ***** CPQ THEME VARIABLES ****
+   Add only the theme file here. Don't add any code here.
+   It's easier to swap the theme here rather than swapping in every other template.
+   If you swap the theme here, all templates will automatically get the latest.
+   Note: You need to re save all the templates once you change the theme. Also, if you change theme files, refresh the browser and then save the templates.
+***/
+/*** CPQ BASE THEME VARIABLES ***/
+/*** CPQ BASE VARIABLES ***/
+/*** 
+    Do not modify this variables, Instead use Themes.
+    Modify only when you are sure what you are doing and the impact it may have.
+    These variables are used in different templates/themes.
+**/
+/*** SLDS VARIABLES ***/
+/*** MIXINS ***/
+/*** MIXINS ***/
+/*** STYLES ***/
+.vlocity .cpq-product-item {
+  border-bottom: 3px solid #f4f6f9; }
+  .vlocity .cpq-product-item .cpq-product-item-container {
+    padding: 10px 0px;
+    margin: 0px 16px; }
+    .vlocity .cpq-product-item .cpq-product-item-container .cpq-product-item-select-checkbox {
+      padding: 10px;
+      margin-top: -5px; }
+    .vlocity .cpq-product-item .cpq-product-item-container .product-name {
+      font-weight: 600;
+      line-height: 30px; }
+    .vlocity .cpq-product-item .cpq-product-item-container .product-link {
+      line-height: 30px;
+      color: #0070d2; }
+    .vlocity .cpq-product-item .cpq-product-item-container .product-price div {
+      padding-right: 16px;
+      padding-top: 10px;
+      color: #7c7c7c; }
+      .vlocity .cpq-product-item .cpq-product-item-container .product-price div:last-child {
+        padding-bottom: 10px; }
+      .vlocity .cpq-product-item .cpq-product-item-container .product-price div .price-label {
+        font-size: 11px; }
+    .vlocity .cpq-product-item .cpq-product-item-container .product-price .cpq-item-product-messages {
+      font-size: 95%; }
+      .vlocity .cpq-product-item .cpq-product-item-container .product-price .cpq-item-product-messages .cpq-error-msg {
+        color: #f65327; }
+      .vlocity .cpq-product-item .cpq-product-item-container .product-price .cpq-item-product-messages .cpq-warning-msg {
+        color: #eac438; }
+    .vlocity .cpq-product-item .cpq-product-item-container .offers-count {
+      background-color: #FDB734;
+      color: white;
+      margin-left: 5px; }
+  .vlocity .cpq-product-item .cpq-product-actions {
+    padding-top: 10px;
+    padding-bottom: 10px; }
+    .vlocity .cpq-product-item .cpq-product-actions .add-button {
+      padding-left: 10px;
+      padding-right: 10px; }
+
+[dir=rtl] .vlocity .cpq-product-item .cpq-product-item-container .product-price div {
+  padding-right: 0;
+  padding-left: 16px; }

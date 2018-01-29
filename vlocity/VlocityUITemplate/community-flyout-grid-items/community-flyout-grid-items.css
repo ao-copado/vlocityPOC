@@ -1,0 +1,41 @@
+/*** VARIABLES ***/
+/*** COMMUNITY VARIABLES ***/
+/* Breakpoints */
+/* ipad mini/ipad width is 768px */
+.vlocity .community-flyout-grid-items-card {
+  float: left;
+  width: 280px;
+  max-width: 400px;
+  padding: 10px; }
+  .vlocity .community-flyout-grid-items-card .item-name {
+    padding: 10px 0px;
+    font-weight: bold;
+    text-transform: uppercase; }
+  .vlocity .community-flyout-grid-items-card ul {
+    list-style-type: none;
+    padding-left: 0px; }
+    .vlocity .community-flyout-grid-items-card ul li span {
+      font-size: 12px;
+      color: #9999a7; }
+    .vlocity .community-flyout-grid-items-card ul li label {
+      padding-right: 20px;
+      width: 120px;
+      text-transform: uppercase;
+      font-weight: bold; }
+  .vlocity .community-flyout-grid-items-card .actions {
+    text-transform: uppercase;
+    padding-top: 10px; }
+    .vlocity .community-flyout-grid-items-card .actions a {
+      font-size: 12px; }
+    .vlocity .community-flyout-grid-items-card .actions .separator {
+      color: #d4d4d4;
+      padding: 0px 5px; }
+
+@media only screen and (max-width: 725px) {
+  .vlocity .community-flyout-grid-items-card {
+    float: none;
+    width: auto; } }
+
+@media only screen and (min-width: 1020px) {
+  .vlocity .community-flyout-grid-items-card {
+    width: calc(100% / 2 - 20px); } }

@@ -1,0 +1,162 @@
+[
+    {
+        "%vlocity_namespace%__VqMachineId__c": {
+            "Name": "Offers",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__VqMachine__c/Offers",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachine__c"
+        },
+        "%vlocity_namespace%__VqMachineId__r.Name": "Offers",
+        "%vlocity_namespace%__VqResourceId__c": {
+            "Name": "Business Continuity",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__VqResource__c/Business Continuity",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqResource__c"
+        },
+        "%vlocity_namespace%__VqResourceId__r.Name": "Business Continuity",
+        "Name": "Business Continuity Services",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachineResource__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__VqMachineResource__c/Business Continuity Services"
+    },
+    {
+        "%vlocity_namespace%__VqMachineId__c": {
+            "Name": "Offers",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__VqMachine__c/Offers",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachine__c"
+        },
+        "%vlocity_namespace%__VqMachineId__r.Name": "Offers",
+        "%vlocity_namespace%__VqResourceId__c": {
+            "Name": "Fibre Internet",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__VqResource__c/Fibre Internet",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqResource__c"
+        },
+        "%vlocity_namespace%__VqResourceId__r.Name": "Fibre Internet",
+        "Name": "Fibre Internet",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachineResource__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__VqMachineResource__c/Fibre Internet"
+    },
+    {
+        "%vlocity_namespace%__VqMachineId__c": {
+            "Name": "Offers",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__VqMachine__c/Offers",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachine__c"
+        },
+        "%vlocity_namespace%__VqMachineId__r.Name": "Offers",
+        "%vlocity_namespace%__VqResourceId__c": {
+            "Name": "Movies",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__VqResource__c/Movies",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqResource__c"
+        },
+        "%vlocity_namespace%__VqResourceId__r.Name": "Movies",
+        "Name": "Movies",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachineResource__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__VqMachineResource__c/Movies"
+    },
+    {
+        "%vlocity_namespace%__VqMachineId__c": {
+            "Name": "Offers",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__VqMachine__c/Offers",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachine__c"
+        },
+        "%vlocity_namespace%__VqMachineId__r.Name": "Offers",
+        "%vlocity_namespace%__VqResourceId__c": {
+            "Name": "Netflix",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__VqResource__c/Netflix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqResource__c"
+        },
+        "%vlocity_namespace%__VqResourceId__r.Name": "Netflix",
+        "Name": "Netflix",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachineResource__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__VqMachineResource__c/Netflix"
+    },
+    {
+        "%vlocity_namespace%__VqMachineId__c": {
+            "Name": "Offers",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__VqMachine__c/Offers",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachine__c"
+        },
+        "%vlocity_namespace%__VqMachineId__r.Name": "Offers",
+        "%vlocity_namespace%__VqResourceId__c": {
+            "Name": "Samsung Galaxy S8",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__VqResource__c/Samsung Galaxy S8",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqResource__c"
+        },
+        "%vlocity_namespace%__VqResourceId__r.Name": "Samsung Galaxy S8",
+        "Name": "Samsung Galaxy S7",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachineResource__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__VqMachineResource__c/Samsung Galaxy S7"
+    },
+    {
+        "%vlocity_namespace%__VqMachineId__c": {
+            "Name": "Offers",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__VqMachine__c/Offers",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachine__c"
+        },
+        "%vlocity_namespace%__VqMachineId__r.Name": "Offers",
+        "%vlocity_namespace%__VqResourceId__c": {
+            "Name": "Sports",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__VqResource__c/Sports",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqResource__c"
+        },
+        "%vlocity_namespace%__VqResourceId__r.Name": "Sports",
+        "Name": "Sports",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachineResource__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__VqMachineResource__c/Sports"
+    },
+    {
+        "%vlocity_namespace%__VqMachineId__c": {
+            "Name": "Offers",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__VqMachine__c/Offers",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachine__c"
+        },
+        "%vlocity_namespace%__VqMachineId__r.Name": "Offers",
+        "%vlocity_namespace%__VqResourceId__c": {
+            "Name": "Spotify",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__VqResource__c/Spotify",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqResource__c"
+        },
+        "%vlocity_namespace%__VqResourceId__r.Name": "Spotify",
+        "Name": "Spotify",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachineResource__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__VqMachineResource__c/Spotify"
+    },
+    {
+        "%vlocity_namespace%__VqMachineId__c": {
+            "Name": "Offers",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__VqMachine__c/Offers",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachine__c"
+        },
+        "%vlocity_namespace%__VqMachineId__r.Name": "Offers",
+        "%vlocity_namespace%__VqResourceId__c": {
+            "Name": "iPhone 8",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__VqResource__c/iPhone 8",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqResource__c"
+        },
+        "%vlocity_namespace%__VqResourceId__r.Name": "iPhone 8",
+        "Name": "iPhone 7",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachineResource__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__VqMachineResource__c/iPhone 7"
+    }
+]

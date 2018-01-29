@@ -1,0 +1,30 @@
+/*** VARIABLES ***/
+/*** COMMUNITY VARIABLES ***/
+/* Breakpoints */
+/* ipad mini/ipad width is 768px */
+.vlocity .community {
+  /* Payment card details */ }
+  .vlocity .community .payment-card .upsell {
+    background-color: #05252E;
+    padding: 10px 10px 5px;
+    color: #ffffff;
+    line-height: 25px;
+    vertical-align: top; }
+    .vlocity .community .payment-card .upsell i.icon {
+      font-size: 25px; }
+    .vlocity .community .payment-card .upsell .upsell-title {
+      line-height: 25px;
+      vertical-align: top; }
+  .vlocity .community .payment-card .content {
+    background-color: #05A6DF;
+    text-align: center;
+    padding: 10px;
+    color: #ffffff; }
+    .vlocity .community .payment-card .content .date {
+      font-weight: bold; }
+    .vlocity .community .payment-card .content .amount {
+      font-size: 32px;
+      margin: 15px 0px; }
+    .vlocity .community .payment-card .content button {
+      margin-top: 5px;
+      padding: 5px 20px; }

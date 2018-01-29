@@ -1,0 +1,121 @@
+/*** CPQ Theme VARIABLES ***/
+/*** 
+   ***** CPQ THEME VARIABLES ****
+   Add only the theme file here. Don't add any code here.
+   It's easier to swap the theme here rather than swapping in every other template.
+   If you swap the theme here, all templates will automatically get the latest.
+   Note: You need to re save all the templates once you change the theme. Also, if you change theme files, refresh the browser and then save the templates.
+***/
+/*** CPQ BASE THEME VARIABLES ***/
+/*** CPQ BASE VARIABLES ***/
+/*** 
+    Do not modify this variables, Instead use Themes.
+    Modify only when you are sure what you are doing and the impact it may have.
+    These variables are used in different templates/themes.
+**/
+/*** SLDS VARIABLES ***/
+/*** MIXINS ***/
+/*** MIXINS ***/
+/*** STYLES ***/
+.vlocity .cpq-product-item-details .cpq-product-item-details-gallery {
+  margin-top: 20px; }
+  .vlocity .cpq-product-item-details .cpq-product-item-details-gallery ul {
+    height: 140px;
+    overflow-x: auto;
+    white-space: nowrap;
+    padding: 10px 0px; }
+    .vlocity .cpq-product-item-details .cpq-product-item-details-gallery ul li {
+      width: 120px;
+      height: 100px;
+      padding: 10px;
+      margin-right: 10px;
+      display: inline-block;
+      border: 1px solid #dedede;
+      vertical-align: middle;
+      text-align: center; }
+      .vlocity .cpq-product-item-details .cpq-product-item-details-gallery ul li:hover img {
+        transform: scale(1.5, 1.5);
+        transition: .3s transform; }
+      .vlocity .cpq-product-item-details .cpq-product-item-details-gallery ul li img {
+        max-width: 100%;
+        height: auto;
+        transform: translateZ(0); }
+
+.vlocity .cpq-product-item-details .cpq-product-item-details-features {
+  margin-top: 20px; }
+
+.vlocity .cpq-product-item-details .cpq-product-item-details-form {
+  max-width: 400px; }
+
+.vlocity .cpq-product-item-details .cpq-product-item-details-addon {
+  position: relative; }
+  .vlocity .cpq-product-item-details .cpq-product-item-details-addon .cpq-product-item-title {
+    font-weight: 600; }
+  .vlocity .cpq-product-item-details .cpq-product-item-details-addon .cpq-product-item-details-addon-details ul {
+    text-align: center; }
+    .vlocity .cpq-product-item-details .cpq-product-item-details-addon .cpq-product-item-details-addon-details ul li {
+      display: inline-block;
+      margin: 0 8px;
+      vertical-align: top; }
+      .vlocity .cpq-product-item-details .cpq-product-item-details-addon .cpq-product-item-details-addon-details ul li .cpq-product-item-attr-value {
+        font-weight: 600;
+        color: #7c7c7c; }
+      .vlocity .cpq-product-item-details .cpq-product-item-details-addon .cpq-product-item-details-addon-details ul li .cpq-product-item-attr-label {
+        font-size: 11px;
+        text-transform: uppercase; }
+
+.vlocity .cpq-product-item-details .cpq-product-details-qty-input {
+  padding: 0 3px;
+  margin-top: 2px;
+  text-align: center;
+  width: 50px;
+  height: 25px;
+  min-height: calc(25px + 2px); }
+
+.vlocity .cpq-product-item-details .slds-tree_container {
+  max-width: 100%; }
+
+.vlocity .cpq-product-item-details .slds-grid {
+  width: 100%; }
+
+.vlocity .cpq-product-item-details .Table {
+  display: flex;
+  flex-flow: column nowrap;
+  box-pack: justify;
+  justify-content: space-between; }
+
+.vlocity .cpq-product-item-details .Table-header {
+  font-weight: bold; }
+
+.vlocity .cpq-product-item-details .Table-row {
+  display: flex;
+  flex-flow: row nowrap;
+  flex: 1 1 auto; }
+
+.vlocity .cpq-product-item-details .Table-row-item {
+  display: flex;
+  flex-flow: row nowrap;
+  flex: 1 0 auto;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  /*   padding: 10px; */ }
+
+.vlocity .cpq-product-item-details .u-Flex-icon {
+  flex: 0 0 25px; }
+
+.vlocity .cpq-product-item-details .u-Flex-product {
+  flex: 1 1 300px; }
+
+.vlocity .cpq-product-item-details .u-Flex-childProduct {
+  flex: 1 1 255px; }
+
+.vlocity .cpq-product-item-details .u-Flex-grandChildProduct {
+  flex: 1 1 230px; }
+
+.vlocity .cpq-product-item-details .u-Flex-recur {
+  flex: 1 0 150px;
+  justify-content: flex-end; }
+
+.vlocity .cpq-product-item-details .u-Flex-onetime {
+  flex: 1 0 150px;
+  justify-content: flex-end; }

@@ -1,0 +1,40 @@
+/*** VARIABLES ***/
+.vlocity .vloc-action-grid {
+  margin-top: 60px;
+  background-color: #FFFFFF;
+  padding-right: 8px;
+  padding-top: 8px; }
+  .vlocity .vloc-action-grid:after {
+    clear: both;
+    content: '';
+    display: block; }
+  .vlocity .vloc-action-grid .vloc-action-grid-cell {
+    padding-left: 8px;
+    margin: auto;
+    min-width: 70px;
+    float: left;
+    width: 20%; }
+  .vlocity .vloc-action-grid a {
+    background-color: #f8f8f8;
+    display: block;
+    height: 100px;
+    max-width: 300px;
+    text-align: center;
+    cursor: pointer;
+    color: #05a6df;
+    margin: 0 0 8px;
+    padding: 30px 2px;
+    overflow: hidden;
+    text-decoration: none; }
+    .vlocity .vloc-action-grid a i, .vlocity .vloc-action-grid a p {
+      color: #05a6df; }
+    .vlocity .vloc-action-grid a i {
+      font-size: 24px; }
+    .vlocity .vloc-action-grid a p {
+      text-transform: capitalize; }
+    .vlocity .vloc-action-grid a:hover, .vlocity .vloc-action-grid a:active, .vlocity .vloc-action-grid a:focus {
+      background: #05a6df;
+      text-decoration: none; }
+      .vlocity .vloc-action-grid a:hover i, .vlocity .vloc-action-grid a:hover p, .vlocity .vloc-action-grid a:active i, .vlocity .vloc-action-grid a:active p, .vlocity .vloc-action-grid a:focus i, .vlocity .vloc-action-grid a:focus p {
+        color: #FFFFFF;
+        text-decoration: none; }

@@ -1,0 +1,9 @@
+/*** VARIABLES ***/
+/*** COMMUNITY VARIABLES ***/
+/* Breakpoints */
+/* ipad mini/ipad width is 768px */
+.vlocity .community .header {
+  background-color: #05252E;
+  height: 60px; }
+  .vlocity .community .header .navbar-header {
+    float: left; }

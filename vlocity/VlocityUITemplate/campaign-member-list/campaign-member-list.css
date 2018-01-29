@@ -1,0 +1,136 @@
+/*** VARIABLES ***/
+/*** MIXINS ***/
+/*** MIXINS ***/
+.campaign-member-list .campaign-list-spinner {
+  top: 10rem; }
+
+.campaign-member-list .refresh-icon {
+  position: relative;
+  left: -.5rem;
+  top: -0.5rem; }
+
+.campaign-member-list .filter-active {
+  background-color: #f4f6f9; }
+
+.campaign-member-list .nav-btns {
+  width: 48.4%;
+  padding: 0;
+  margin: 0; }
+
+.campaign-member-list .filter-modal-footer {
+  width: 100%;
+  box-shadow: none;
+  border-top: none;
+  border-left: 1px solid #d8dde6;
+  border-right: 1px solid #d8dde6;
+  border-bottom: 1px solid #d8dde6; }
+
+.campaign-member-list .filter-list {
+  width: 19.8rem;
+  min-height: 37rem; }
+
+.campaign-member-list .filter-list-items {
+  border-left: 1px solid #d8dde6;
+  border-right: 1px solid #d8dde6;
+  border-bottom: 1px solid #d8dde6; }
+
+.campaign-member-list .slds-button.slds-button--brand.list-footer {
+  width: 5rem; }
+
+.campaign-member-list .target-call-date {
+  font-style: italic; }
+
+.campaign-member-list .campaign-list-member {
+  cursor: pointer; }
+
+.campaign-member-list .slds-icon {
+  fill: #0070d2;
+  width: 1em; }
+  .campaign-member-list .slds-icon.status {
+    fill: #d8dde6;
+    width: 1em; }
+  .campaign-member-list .slds-icon.past-due {
+    width: 1.2em;
+    fill: #d4504c; }
+
+.campaign-member-list .slds-text-body--small {
+  font-size: 10px; }
+
+.campaign-member-list .slds-has-dividers--left > .slds-item:after {
+  margin-left: .3em;
+  margin-right: .3em; }
+
+.campaign-member-list .slds-has-dividers--left {
+  padding-top: 1px; }
+
+.campaign-member-list .slds-form-element.container {
+  width: calc(100% - 10px);
+  margin: 0;
+  min-height: 58px;
+  padding: .2em;
+  padding-top: 8px; }
+  .campaign-member-list .slds-form-element.container li.slds-item {
+    display: inline-block; }
+
+.campaign-member-list section {
+  width: 100%;
+  min-height: 58px;
+  padding-left: 4px;
+  overflow-y: hidden;
+  border-right: 6px solid transparent; }
+  .campaign-member-list section:hover, .campaign-member-list section:active, .campaign-member-list section:focus, .campaign-member-list section .selected {
+    transform: translateZ(0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 0.4s;
+    transition-property: background-color;
+    border-color: #0070d2; }
+
+.campaign-member-list .status-icon {
+  font-size: 1.3rem;
+  float: right;
+  color: #0070d2;
+  width: 64px;
+  text-align: center;
+  min-height: 100%;
+  position: relative;
+  top: .4rem; }
+  .campaign-member-list .status-icon.past-due {
+    fill: #d4504c;
+    font-size: 1.6rem; }
+
+li.vlc-list-card-row {
+  list-style: none;
+  display: block;
+  cursor: pointer; }
+  li.vlc-list-card-row section {
+    padding: 20px 0; }
+    li.vlc-list-card-row section:hover, li.vlc-list-card-row section:active, li.vlc-list-card-row section:focus, li.vlc-list-card-row section .selected {
+      transform: translateZ(0);
+      backface-visibility: hidden;
+      -moz-osx-font-smoothing: grayscale;
+      transition-duration: 0.4s;
+      transition-property: background-color; }
+      li.vlc-list-card-row section:hover .vlc-list-card div, li.vlc-list-card-row section:hover .vlc-list-card ul.actions > li > a > .icon, li.vlc-list-card-row section:active .vlc-list-card div, li.vlc-list-card-row section:active .vlc-list-card ul.actions > li > a > .icon, li.vlc-list-card-row section:focus .vlc-list-card div, li.vlc-list-card-row section:focus .vlc-list-card ul.actions > li > a > .icon, li.vlc-list-card-row section .selected .vlc-list-card div, li.vlc-list-card-row section .selected .vlc-list-card ul.actions > li > a > .icon {
+        color: white; }
+
+.vlc-list-card {
+  display: block; }
+  .vlc-list-card div {
+    text-transform: uppercase;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    background: blue;
+    padding-left: 10px; }
+    .vlc-list-card div .sub-data:first-child {
+      margin-left: 10px; }
+  .vlc-list-card ul.actions {
+    padding: 0;
+    margin: 0 4px;
+    list-style: none;
+    float: right; }
+    .vlc-list-card ul.actions > li {
+      float: left; }
+      .vlc-list-card ul.actions > li > a > .icon:before {
+        font-size: 18px; }

@@ -1,0 +1,78 @@
+/* variables */
+/* colors */
+/* font sizes */
+/* line heights */
+.vlocity .activity-feed-timeline-card {
+  margin-top: 30px;
+  color: #16325c; }
+  .vlocity .activity-feed-timeline-card .activity-feed-card_items {
+    padding: 0;
+    position: relative; }
+    .vlocity .activity-feed-timeline-card .activity-feed-card_items:before {
+      content: '';
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 2px;
+      background: #ff6e0d;
+      left: 96px; }
+    .vlocity .activity-feed-timeline-card .activity-feed-card_items.hideLine:before {
+      display: none; }
+    .vlocity .activity-feed-timeline-card .activity-feed-card_items a {
+      color: #2972CB; }
+    .vlocity .activity-feed-timeline-card .activity-feed-card_items li {
+      position: relative; }
+      .vlocity .activity-feed-timeline-card .activity-feed-card_items li .activity-feed-timeline--circle {
+        width: 18px;
+        height: 18px;
+        position: absolute;
+        background: #ff6e0d;
+        border-radius: 50%;
+        text-align: center;
+        left: 88px;
+        top: 0;
+        border: 6px solid #fff; }
+      .vlocity .activity-feed-timeline-card .activity-feed-card_items li .activity-feed-card_item--date {
+        display: block;
+        width: 120px;
+        position: absolute; }
+      .vlocity .activity-feed-timeline-card .activity-feed-card_items li .activity-feed-timeline--label {
+        margin-left: 125px;
+        font-weight: 300;
+        position: relative; }
+      .vlocity .activity-feed-timeline-card .activity-feed-card_items li
+.custom-text-bold {
+        font-weight: bold; }
+      .vlocity .activity-feed-timeline-card .activity-feed-card_items li span {
+        display: block; }
+  @media screen and (max-width: 360px) {
+    .vlocity .activity-feed-timeline-card .activity-feed-card_items:before {
+      content: '';
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 2px;
+      background: #ff6e0d;
+      left: 8px; }
+    .vlocity .activity-feed-timeline-card .activity-feed-card_items li {
+      position: relative; }
+      .vlocity .activity-feed-timeline-card .activity-feed-card_items li .activity-feed-timeline--circle {
+        width: 18px;
+        height: 18px;
+        position: absolute;
+        border-radius: 50%;
+        text-align: center;
+        left: 0px;
+        top: 0;
+        background: #ff6e0d;
+        border: 6px solid #fff; }
+      .vlocity .activity-feed-timeline-card .activity-feed-card_items li .activity-feed-card_item--date {
+        display: block;
+        width: 120px;
+        left: 30px;
+        position: absolute; }
+      .vlocity .activity-feed-timeline-card .activity-feed-card_items li .activity-feed-timeline--label {
+        margin-left: 30px;
+        font-weight: 300;
+        top: 20px;
+        position: relative; } }

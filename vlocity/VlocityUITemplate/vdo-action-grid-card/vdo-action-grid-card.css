@@ -1,0 +1,47 @@
+/*** VARIABLES ***/
+.vlocity .vloc-action-grid {
+  background-color: #FFFFFF;
+  padding: 0px; }
+  .vlocity .vloc-action-grid:after {
+    clear: both;
+    content: '';
+    display: block; }
+  .vlocity .vloc-action-grid .vloc-action-grid-cell {
+    padding-left: 0px;
+    margin: auto;
+    min-width: 50px;
+    float: left;
+    margin-right: 5px;
+    overflow: hidden;
+    border-radius: 3px; }
+  .vlocity .vloc-action-grid a {
+    background-color: #F8FBFE !important;
+    display: block;
+    height: 35px;
+    max-width: 300px;
+    text-align: center;
+    cursor: pointer;
+    color: #16325C !important;
+    overflow: hidden;
+    text-decoration: none;
+    border: 1px solid #e8eef5 !important;
+    padding: 0px 10px;
+    line-height: 33px; }
+    .vlocity .vloc-action-grid a p {
+      color: #16325C !important; }
+    .vlocity .vloc-action-grid a i {
+      font-size: 20px;
+      float: left;
+      padding-top: 7px;
+      position: relative;
+      right: 5px;
+      color: #0070d2 !important; }
+    .vlocity .vloc-action-grid a p {
+      text-transform: capitalize;
+      display: table; }
+    .vlocity .vloc-action-grid a:hover, .vlocity .vloc-action-grid a:active, .vlocity .vloc-action-grid a:focus {
+      background: #05a6df;
+      text-decoration: none; }
+      .vlocity .vloc-action-grid a:hover i, .vlocity .vloc-action-grid a:hover p, .vlocity .vloc-action-grid a:active i, .vlocity .vloc-action-grid a:active p, .vlocity .vloc-action-grid a:focus i, .vlocity .vloc-action-grid a:focus p {
+        color: #FFFFFF;
+        text-decoration: none; }

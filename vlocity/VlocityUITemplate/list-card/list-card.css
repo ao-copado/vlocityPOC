@@ -1,0 +1,38 @@
+/*** VARIABLES ***/
+/*** VARIABLES ***/
+/*** MIXINS ***/
+/*** MIXINS ***/
+li.vlc-list-card-row {
+  list-style: none;
+  border-bottom: 1px solid #d8d8d8;
+  display: block;
+  cursor: pointer; }
+  li.vlc-list-card-row section {
+    padding: 20px 0; }
+    li.vlc-list-card-row section:hover, li.vlc-list-card-row section:active, li.vlc-list-card-row section:focus, li.vlc-list-card-row section .selected {
+      transform: translateZ(0);
+      backface-visibility: hidden;
+      -moz-osx-font-smoothing: grayscale;
+      transition-duration: 0.4s;
+      transition-property: background-color;
+      background: #05a6df; }
+      li.vlc-list-card-row section:hover .vlc-list-card div, li.vlc-list-card-row section:hover .vlc-list-card ul.actions > li > a > .icon, li.vlc-list-card-row section:active .vlc-list-card div, li.vlc-list-card-row section:active .vlc-list-card ul.actions > li > a > .icon, li.vlc-list-card-row section:focus .vlc-list-card div, li.vlc-list-card-row section:focus .vlc-list-card ul.actions > li > a > .icon, li.vlc-list-card-row section .selected .vlc-list-card div, li.vlc-list-card-row section .selected .vlc-list-card ul.actions > li > a > .icon {
+        color: white; }
+
+.vlc-list-card {
+  display: block; }
+  .vlc-list-card div {
+    color: #05a6df;
+    text-transform: uppercase;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis; }
+  .vlc-list-card ul.actions {
+    padding: 0;
+    margin: 0 4px;
+    list-style: none;
+    float: right; }
+    .vlc-list-card ul.actions > li {
+      float: left; }
+      .vlc-list-card ul.actions > li > a > .icon:before {
+        font-size: 18px; }

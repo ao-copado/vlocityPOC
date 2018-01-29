@@ -1,0 +1,43 @@
+/*** CPQ Theme VARIABLES ***/
+/*** 
+   ***** CPQ THEME VARIABLES ****
+   Add only the theme file here. Don't add any code here.
+   It's easier to swap the theme here rather than swapping in every other template.
+   If you swap the theme here, all templates will automatically get the latest.
+   Note: You need to re save all the templates once you change the theme. Also, if you change theme files, refresh the browser and then save the templates.
+***/
+/*** CPQ BASE THEME VARIABLES ***/
+/*** CPQ BASE VARIABLES ***/
+/*** 
+    Do not modify this variables, Instead use Themes.
+    Modify only when you are sure what you are doing and the impact it may have.
+    These variables are used in different templates/themes.
+**/
+/*** SLDS VARIABLES ***/
+/*** MIXINS ***/
+/*** MIXINS ***/
+/*** STYLES ***/
+.vlocity .cpq-cart-item-details .cart-errors {
+  padding: 10px 16px;
+  color: white; }
+  .vlocity .cpq-cart-item-details .cart-errors h2 {
+    font-size: 14px; }
+  .vlocity .cpq-cart-item-details .cart-errors a {
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 1.25; }
+  .vlocity .cpq-cart-item-details .cart-errors .slds-button {
+    line-height: 1.25;
+    color: white; }
+
+.vlocity .cpq-cart-item-details .cpq-product-cart-item-container {
+  border-bottom: none; }
+
+.vlocity .lineitem-details-form {
+  display: inline; }
+  .vlocity .lineitem-details-form .modal-content-position {
+    position: relative; }
+  .vlocity .lineitem-details-form .modal-spinner-position {
+    right: 85px;
+    float: right; }

@@ -1,0 +1,13 @@
+/* variables */
+/* colors */
+/* font sizes */
+/* line heights */
+/*** Styles ***/
+.vlocity {
+  /* Always use vlocity class as a wrapper */ }
+  .vlocity .npActionlinks a {
+    font-size: 16px; }
+  .vlocity .slds-card__tile {
+    width: 15rem; }
+  .vlocity .via-slds .slds-media__body, .vlocity .via-slds .slds-media__body > :last-child {
+    margin-bottom: 5px; }

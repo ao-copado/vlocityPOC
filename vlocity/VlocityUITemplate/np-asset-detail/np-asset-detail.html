@@ -1,0 +1,93 @@
+<div ng-controller="npTableListPlusController" class="np-table-list slds-row slds-p-bottom--x-small" data-card="card-{{cardIndex}}" data-popover-flyout="true"  ng-init="setRowData(obj, cardIndex)">
+    
+    <div class="slds-size--1-of-1 np-asset-plus-title" title="{{field.label}}"> 
+        {{placeholder.Title.value}}
+    </div>
+    <div class="slds-grid slds-wrap slds-grid--pull-padded slds-m-top--xx-large">
+    <div class="slds-size--5-of-12 ">
+          <vloc-layout  layout-name="np-product-image" productid="{{obj.Product2Id.value}}"></vloc-layout>
+     </div> 
+    <div class="slds-size--7-of-12 slds-p-horizontal--large">
+        
+     <div class="slds-col slds-grid slds-wrap slds-m-top--large">
+        <div class="slds-grid slds-size--1-of-1 slds-m-bottom--x-small" ng-repeat="field in data.fields">
+              <div class="slds-size--1-of-2"> 
+              <span >
+                  {{field.label}} 
+              </span>
+            </div>
+          <div class="slds-size--1-of-2">
+                <div>
+                <div ng-repeat="field in data.fields"></div>
+                  <div>
+                    <div>
+                      <span>  {{obj | getter: field | picker: field.type }}</span>
+                  </div>
+                </div>
+            </div>
+        </div>
+      </div>
+  </div>
+        
+        
+        
+     <div class="slds-col slds-grid slds-wrap">
+        <div class="slds-grid slds-size--1-of-1 slds-m-top--x-small slds-m-bottom--x-small" ng-repeat="field in row.attrs.slice(0,1)">
+              <div class="slds-size--1-of-2" title="{{field.label}}"> 
+              <span >
+                  {{field.label}} 
+              </span>
+            </div>
+          <div class="slds-size--1-of-2">
+                <div>
+                <div ng-repeat="value in field.values" ng-if="value.value === field.userValues"><span ng-init="field.userValues = value"></span></div>
+                  <div>
+                    <div>
+                      <span> {{field.values[0].label}}</span>
+                  </div>
+                </div>
+            </div>
+            <div class="slds-grid" ng-if="field.inputType !== 'dropdown'">
+              <div class="slds-size--1-of-1 slds-m-right--large">
+                    <span>{{field.userValues.value}}</span>
+              </div>
+            </div>
+        </div>
+          <div class="slds-no-flex vloc-attr-showmore" ng-if="row.attrs.length > 1">
+           
+          </div>
+      </div>
+  </div>
+  <div class="slds-grid slds-wrap slds-size--1-of-1 " data-card="card-{{cardIndex}}" data-popover-flyout="true" >
+        <div class="slds-grid slds-wrap slds-size--1-of-1 slds-m-top--x-small slds-m-bottom--x-small"  style="position: relative" ng-repeat="field in row.attrs.slice(1,row.attrs.length)">
+            <div class="slds-size--1-of-2" title="{{field.label}}"> 
+              <div class="np-table-list-plus-text slds-truncate">
+                  {{field.label}} 
+              </div>
+            </div>
+          <div class="slds-size--1-of-2">
+            <div ng-if="field.inputType === 'dropdown'">
+                <div ng-repeat="value in field.values" ng-if="value.value === field.userValues"><span ng-init="field.userValues = value"></span></div>
+                  <div >
+                    <div>
+                        
+                      <span>
+                          {{field.values[0].label}}
+                      </span>
+                      
+                  </div>
+                </div>
+            </div>
+            <div class="slds-grid" ng-if="field.inputType !== 'dropdown'  && field.inputType !== 'checkbox'">
+              <div class="slds-size--3-of-4">
+                    <span>
+                        {{field.userValues}}
+                        </span>
+              </div>
+            </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      </div>
+  </div>

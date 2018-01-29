@@ -1,0 +1,17 @@
+[
+    {
+        "%vlocity_namespace%__AccountRecordType__c": "Billing",
+        "%vlocity_namespace%__AccountSLA__c": "Bronze",
+        "%vlocity_namespace%__Product2Id__c": {
+            "%vlocity_namespace%__GlobalKey__c": null,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYfgQAH",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "%vlocity_namespace%__RuleBasis__c": "Account Record Type",
+        "%vlocity_namespace%__StartDate__c": "2017-01-01",
+        "Name": "Not Available to Billing Accounts with Bronze SLA",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__ProductEligibility__c"
+    }
+]

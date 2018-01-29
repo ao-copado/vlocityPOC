@@ -1,0 +1,9 @@
+{
+    "%vlocity_namespace%__GlobalKey__c": "",
+    "%vlocity_namespace%__SystemInterface__c": "Provisioning_SystemInterfaces.json",
+    "%vlocity_namespace%__URL__c": "https://tranquil-fjord-95123.herokuapp.com/",
+    "Name": "Provisioning",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__System__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__System__c/Provisioning"
+}

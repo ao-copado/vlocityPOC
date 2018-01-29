@@ -1,0 +1,238 @@
+/*** VARIABLES ***/
+/*** VARIABLES ***/
+/*** MIXINS ***/
+/*** MIXINS ***/
+/*** STYLES ***/
+body {
+  background: #f2f2f2;
+  padding: 0;
+  margin: 0; }
+
+.vlocity {
+  /*End of Flyout specific CSS*/ }
+  .vlocity ul li, .vlocity ol li {
+    margin-left: 0px; }
+  .vlocity a:hover, .vlocity a:active, .vlocity a:focus, .vlocity a:visited {
+    text-decoration: none; }
+  .vlocity .cards-container {
+    overflow: hidden;
+    width: auto;
+    padding: 10px;
+    position: relative;
+    background-color: #f2f2f2; }
+    .vlocity .cards-container:before, .vlocity .cards-container:after {
+      content: " ";
+      display: table; }
+    .vlocity .cards-container:after {
+      clear: both; }
+    .vlocity .cards-container form {
+      padding: 10px; }
+  .vlocity section.console-card {
+    float: left;
+    width: 31.5165%;
+    /*fallback */
+    width: calc(100% / 3 - 20px);
+    margin: 10px;
+    min-height: 360px;
+    max-height: 360px;
+    overflow-y: auto;
+    background-color: #FFFFFF;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
+    box-sizing: border-box; }
+    .vlocity section.console-card.selected {
+      outline: 2px solid #05A6E0; }
+    .vlocity section.console-card.hotkey-highlight {
+      outline: 2px solid #67CCEC; }
+      .vlocity section.console-card.hotkey-highlight.selected {
+        outline: 2px solid #05A6E0; }
+    .vlocity section.console-card .card-top {
+      padding: 15px 20px 7px;
+      border-bottom: 2px solid #f2f2f2; }
+      .vlocity section.console-card .card-top:before, .vlocity section.console-card .card-top:after {
+        content: " ";
+        display: table; }
+      .vlocity section.console-card .card-top:after {
+        clear: both; }
+      .vlocity section.console-card .card-top h2 {
+        margin: 0 0 4px 0;
+        text-transform: uppercase;
+        font: normal 300 14px/18px "proxima-nova", sans-serif;
+        font-size: 28px;
+        line-height: 28px;
+        height: 28px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        cursor: default;
+        display: inline-block;
+        max-width: 100%; }
+      .vlocity section.console-card .card-top span {
+        letter-spacing: 0.02em; }
+        .vlocity section.console-card .card-top span.account-number {
+          float: left;
+          font-size: 14px;
+          font-weight: 600; }
+        .vlocity section.console-card .card-top span.expires {
+          float: right;
+          font-size: 12px;
+          position: relative; }
+          .vlocity section.console-card .card-top span.expires i.icon {
+            color: #eac438;
+            font-size: 22px;
+            position: absolute;
+            top: -3px;
+            left: -32px; }
+            .vlocity section.console-card .card-top span.expires i.icon + .tooltip .tooltip-inner {
+              text-transform: none; }
+  .vlocity section.console-flyout {
+    float: left;
+    position: relative;
+    cursor: default;
+    width: 98%;
+    /*fallback*/
+    min-height: 300px;
+    width: calc(100% - 20px);
+    margin: 10px;
+    background-color: #FFFFFF;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.15);
+    box-sizing: border-box; }
+    .vlocity section.console-flyout.flyout {
+      transition: all 0.3s ease-in-out; }
+      .vlocity section.console-flyout.flyout .animate-leave {
+        opacity: 1;
+        top: 0;
+        border: 10px red;
+        height: 30px; }
+      .vlocity section.console-flyout.flyout .card-info {
+        padding-top: 15px; }
+      .vlocity section.console-flyout.flyout .flyout-arrow {
+        display: inline-block;
+        position: absolute;
+        z-index: 10;
+        border-bottom: 18px solid #ffffff;
+        border-left: 18px solid transparent;
+        border-right: 18px solid transparent;
+        height: 0;
+        width: 0;
+        pointer-events: none;
+        bottom: 100%;
+        top: -17px; }
+      .vlocity section.console-flyout.flyout .flyout-close {
+        display: inline-block;
+        position: absolute;
+        right: 5px;
+        top: 5px;
+        cursor: pointer; }
+        .vlocity section.console-flyout.flyout .flyout-close i {
+          font-size: 30px; }
+      .vlocity section.console-flyout.flyout .card-info {
+        padding: 5px 20px; }
+        .vlocity section.console-flyout.flyout .card-info:before, .vlocity section.console-flyout.flyout .card-info:after {
+          content: " ";
+          display: table; }
+        .vlocity section.console-flyout.flyout .card-info:after {
+          clear: both; }
+        .vlocity section.console-flyout.flyout .card-info ul {
+          list-style: none;
+          padding: 0;
+          margin: 0; }
+          .vlocity section.console-flyout.flyout .card-info ul.details {
+            float: left;
+            padding: 10px 5px 0px 0px;
+            width: 48%;
+            /* fallback */
+            width: calc(100% - 150px);
+            cursor: pointer;
+            word-wrap: break-word; }
+            .vlocity section.console-flyout.flyout .card-info ul.details li {
+              margin-bottom: 16px; }
+              .vlocity section.console-flyout.flyout .card-info ul.details li:last-of-type {
+                margin: 0; }
+            .vlocity section.console-flyout.flyout .card-info ul.details span {
+              display: block; }
+              .vlocity section.console-flyout.flyout .card-info ul.details span.detail-label {
+                font-weight: 600;
+                font-size: 12px;
+                text-transform: uppercase; }
+              .vlocity section.console-flyout.flyout .card-info ul.details span.value {
+                text-transform: none;
+                color: #9999a7;
+                font-size: 14px;
+                font-weight: 300; }
+          .vlocity section.console-flyout.flyout .card-info ul.actions {
+            float: right;
+            width: 150px;
+            word-wrap: break-word; }
+            .vlocity section.console-flyout.flyout .card-info ul.actions a {
+              display: table;
+              width: 100%;
+              height: 53px;
+              border-bottom: 2px solid #f2f2f2; }
+              .vlocity section.console-flyout.flyout .card-info ul.actions a img {
+                width: 29px;
+                height: 29px;
+                margin: 5px 9px;
+                display: table-cell;
+                vertical-align: middle; }
+              .vlocity section.console-flyout.flyout .card-info ul.actions a i.icon {
+                display: table-cell;
+                vertical-align: middle;
+                font-size: 25px;
+                line-height: 34px;
+                color: #05a6df;
+                width: 40px; }
+                .vlocity section.console-flyout.flyout .card-info ul.actions a i.icon:before {
+                  font-weight: 100;
+                  line-height: 34px; }
+              .vlocity section.console-flyout.flyout .card-info ul.actions a span {
+                font-size: 12px;
+                color: #9999a7;
+                line-height: 1;
+                display: table-cell;
+                vertical-align: middle; }
+              .vlocity section.console-flyout.flyout .card-info ul.actions a:hover {
+                text-decoration: none; }
+                .vlocity section.console-flyout.flyout .card-info ul.actions a:hover i.icon {
+                  color: #008ab3; }
+                .vlocity section.console-flyout.flyout .card-info ul.actions a:hover span {
+                  color: #05a6df; }
+            .vlocity section.console-flyout.flyout .card-info ul.actions li:last-of-type a {
+              border: none; }
+  @media only screen and (min-width: 1575px) {
+    .vlocity .cards-container {
+      padding: 10px; }
+      .vlocity .cards-container section.console-card {
+        width: 23.4%;
+        /* fallback */
+        width: calc(100% / 4 - 20px);
+        margin: 10px 10px 10px; }
+      .vlocity .cards-container section.console-flyout.flyout {
+        margin: 10px 10px 10px;
+        width: calc(100% - 20px); }
+        .vlocity .cards-container section.console-flyout.flyout .flyout-arrow {
+          border-width: 12px;
+          margin-left: -12px;
+          top: -12px; } }
+  @media only screen and (max-width: 1050px) {
+    .vlocity .cards-container {
+      padding: 7px; }
+      .vlocity .cards-container section.console-card {
+        width: 48.4%;
+        /* fallback */
+        width: calc(100% / 2 - 14px);
+        margin: 7px 7px 7px; }
+      .vlocity .cards-container section.console-flyout.flyout {
+        margin: 7px 7px 7px;
+        width: calc(100% - 14px); }
+        .vlocity .cards-container section.console-flyout.flyout .flyout-arrow {
+          border-width: 12px;
+          margin-left: -12px;
+          top: -12px; } }
+  @media only screen and (max-width: 725px) {
+    .vlocity .cards-container {
+      padding: 7px; }
+      .vlocity .cards-container section.console-card {
+        width: 98%;
+        /* fallback */
+        width: calc(100% - 14px);
+        margin: 7px 7px 7px; } }

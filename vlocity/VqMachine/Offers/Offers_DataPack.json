@@ -1,0 +1,12 @@
+{
+    "%vlocity_namespace%__AcceptDecayMinutes__c": "",
+    "%vlocity_namespace%__Config__c": "{\"Id\":\"a3G36000000R7bqEAC\",\"Name\":\"Offers\",\"scoringInterfaces\":[{\"categoryLabels\":{\"VLO-PER-0001\":\"Personal Interests\",\"VLO-PER-0002\":\"Product Interests\",\"VLO-PER-0003\":\"Noted Concerns\",\"VLO-PER-0004\":\"Analysis\",\"VLO-PER-0005\":\"Purchasing Criteria\",\"VLO-PER-0006\":\"Family Information\",\"VLO-PER-0007\":\"Profile\"},\"categoryWeights\":{\"VLO-PER-0001\":\"4\",\"VLO-PER-0002\":\"8\",\"VLO-PER-0003\":\"3\",\"VLO-PER-0004\":\"1\",\"VLO-PER-0005\":\"2\",\"VLO-PER-0006\":\"2\",\"VLO-PER-0007\":\"2\"},\"name\":\"VqScoringImplProfileMatch\",\"weight\":1}]}",
+    "%vlocity_namespace%__RejectDecayMinutes__c": "",
+    "%vlocity_namespace%__RestResourceName__c": "localoptions",
+    "%vlocity_namespace%__ViewDecayMinutes__c": "",
+    "%vlocity_namespace%__VqMachineResource__c": "Offers_VqMachineResources.json",
+    "Name": "Offers",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachine__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__VqMachine__c/Offers"
+}

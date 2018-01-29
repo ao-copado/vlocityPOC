@@ -1,0 +1,83 @@
+.campaign-member-log-actions {
+  transition: max-height .5s linear;
+  max-height: 2.7rem;
+  position: relative;
+  z-index: 5; }
+  .campaign-member-log-actions .member-log-actions-tabs .slds-tabs--scoped__nav {
+    position: relative;
+    border-radius: 0.25rem;
+    transition: all .5s linear;
+    background-color: #e4e8ee; }
+    .campaign-member-log-actions .member-log-actions-tabs .slds-tabs--scoped__nav li.tabs-icon {
+      width: 2.5rem;
+      text-align: center; }
+      .campaign-member-log-actions .member-log-actions-tabs .slds-tabs--scoped__nav li.tabs-icon .slds-icon_container {
+        line-height: 2.45rem; }
+        .campaign-member-log-actions .member-log-actions-tabs .slds-tabs--scoped__nav li.tabs-icon .slds-icon_container .slds-icon {
+          fill: white;
+          position: relative;
+          top: -1px; }
+    .campaign-member-log-actions .member-log-actions-tabs .slds-tabs--scoped__nav .slds-tabs--scoped__item {
+      background-color: #f4f6f9;
+      margin-bottom: 0; }
+      .campaign-member-log-actions .member-log-actions-tabs .slds-tabs--scoped__nav .slds-tabs--scoped__item .slds-tabs--scoped__link {
+        transition: all .15s linear;
+        border-left-color: #d8dde6;
+        border-right-color: #d8dde6; }
+      .campaign-member-log-actions .member-log-actions-tabs .slds-tabs--scoped__nav .slds-tabs--scoped__item:first-child {
+        border-top-left-radius: 0.25rem;
+        border-bottom-left-radius: 0.25rem; }
+      .campaign-member-log-actions .member-log-actions-tabs .slds-tabs--scoped__nav .slds-tabs--scoped__item.slds-active {
+        background-color: white; }
+        .campaign-member-log-actions .member-log-actions-tabs .slds-tabs--scoped__nav .slds-tabs--scoped__item.slds-active .slds-tabs--scoped__link {
+          height: calc(100% + 1px);
+          border-bottom: 1px solid white; }
+  .campaign-member-log-actions .member-log-actions-tabs .slds-tabs--scoped__content {
+    position: relative;
+    transform: scaleY(0);
+    transform-origin: top;
+    transition: transform .4s linear;
+    transition-delay: .1s; }
+    .campaign-member-log-actions .member-log-actions-tabs .slds-tabs--scoped__content:before {
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 1;
+      content: '';
+      display: block;
+      width: 100%;
+      height: 100%;
+      transition: opacity .5s linear;
+      opacity: 1;
+      visibility: visible;
+      background-color: white; }
+  .campaign-member-log-actions .member-log-actions-tabs .slds-form--stacked .slds-button--brand, .campaign-member-log-actions .member-log-actions-tabs .slds-form--stacked .slds-button--neutral {
+    min-width: 7rem; }
+  .campaign-member-log-actions.via-toggle-tabs-collapsed {
+    max-height: 2.7rem; }
+    .campaign-member-log-actions.via-toggle-tabs-collapsed .member-log-actions-tabs .slds-tabs--scoped__content {
+      transform: scaleY(0); }
+      .campaign-member-log-actions.via-toggle-tabs-collapsed .member-log-actions-tabs .slds-tabs--scoped__content:before {
+        opacity: 1;
+        visibility: visible; }
+  .campaign-member-log-actions.via-toggle-tabs-expanded {
+    max-height: 35rem; }
+    .campaign-member-log-actions.via-toggle-tabs-expanded .member-log-actions-tabs .slds-tabs--scoped__nav {
+      border-bottom-left-radius: 0;
+      border-bottom-right-radius: 0; }
+      .campaign-member-log-actions.via-toggle-tabs-expanded .member-log-actions-tabs .slds-tabs--scoped__nav .slds-tabs--scoped__item {
+        margin-bottom: -1px; }
+        .campaign-member-log-actions.via-toggle-tabs-expanded .member-log-actions-tabs .slds-tabs--scoped__nav .slds-tabs--scoped__item:first-child {
+          border-bottom-left-radius: 0; }
+    .campaign-member-log-actions.via-toggle-tabs-expanded .member-log-actions-tabs .slds-tabs--scoped__content {
+      transform: scaleY(1); }
+      .campaign-member-log-actions.via-toggle-tabs-expanded .member-log-actions-tabs .slds-tabs--scoped__content:before {
+        opacity: 0;
+        visibility: hidden; }
+  .campaign-member-log-actions .slds-dropdown.slds-datepicker.timepicker .slds-button {
+    min-width: 2.5rem; }
+    .campaign-member-log-actions .slds-dropdown.slds-datepicker.timepicker .slds-button + .slds-button {
+      margin-left: 0; }
+  .campaign-member-log-actions .slds-dropdown.slds-datepicker.timepicker td .slds-day.slds-is-selected {
+    background: #005FB2;
+    color: #fff; }

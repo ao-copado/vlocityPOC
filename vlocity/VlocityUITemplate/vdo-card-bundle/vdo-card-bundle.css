@@ -1,0 +1,179 @@
+/*** VARIABLES ***/
+/*** COMMUNITY VARIABLES ***/
+/* Breakpoints */
+/* ipad mini/ipad width is 768px */
+.vlocity {
+  /* Account details styles */ }
+  .vlocity .account-card {
+    background-color: #F8FBFE;
+    border: 1px solid #e8eef5;
+    margin: 10px;
+    border-radius: .25rem;
+    float: left;
+    width: calc(100% - 20px); }
+    .vlocity .account-card .card-top {
+      padding: 15px 20px 15px;
+      background-color: #e8eef5;
+      border-bottom: 2px solid #e8eef5; }
+      .vlocity .account-card .card-top h1 {
+        margin: 0;
+        color: #4a4a4a;
+        margin: 0 0 4px 0;
+        font-size: 18px;
+        line-height: 20px;
+        height: 20px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        cursor: default;
+        display: inline-block;
+        text-align: left;
+        font-weight: 300; }
+      .vlocity .account-card .card-top .card-image {
+        width: 45px;
+        height: 45px;
+        margin-right: 15px;
+        float: left; }
+        .vlocity .account-card .card-top .card-image img {
+          width: 45px;
+          height: 45px; }
+      .vlocity .account-card .card-top .account-number {
+        font-size: 13px;
+        color: #16325c;
+        font-weight: 400; }
+      .vlocity .account-card .card-top .rightActions {
+        float: right;
+        color: #9a9a9a;
+        cursor: pointer; }
+        .vlocity .account-card .card-top .rightActions i {
+          color: #05A6DF; }
+        .vlocity .account-card .card-top .rightActions .actions {
+          margin-right: -15px; }
+          .vlocity .account-card .card-top .rightActions .actions i {
+            font-size: 30px; }
+      .vlocity .account-card .card-top .showHideParent {
+        display: inline-block; }
+        .vlocity .account-card .card-top .showHideParent.hideMore .hideButton {
+          display: inline-block; }
+        .vlocity .account-card .card-top .showHideParent.hideMore .showButton {
+          display: none; }
+        .vlocity .account-card .card-top .showHideParent .hideButton {
+          display: none; }
+    .vlocity .account-card .showMore {
+      transition: max-height 0.3s ease-in-out;
+      max-height: 0;
+      overflow: hidden; }
+      .vlocity .account-card .showMore.show {
+        max-height: 600px;
+        overflow-y: scroll; }
+      .vlocity .account-card .showMore ul {
+        overflow: auto;
+        padding: 10px 0px;
+        margin-bottom: 10px;
+        background-color: #f5f6f7; }
+        .vlocity .account-card .showMore ul li {
+          list-style-type: none; }
+          .vlocity .account-card .showMore ul li label {
+            color: #9a9a9a;
+            width: 150px;
+            text-transform: uppercase; }
+          .vlocity .account-card .showMore ul li .asset-image {
+            margin: 5px 0px; }
+            .vlocity .account-card .showMore ul li .asset-image img {
+              width: 100px;
+              height: 50px; }
+    .vlocity .account-card .card-info {
+      padding: 10px 15px;
+      transition: all 0.3s ease-in-out; }
+      .vlocity .account-card .card-info ul.details {
+        overflow: auto;
+        clear: both;
+        padding: 0;
+        transition: max-height 0.3s ease-in-out;
+        max-height: 600px;
+        padding-top: 10px; }
+        .vlocity .account-card .card-info ul.details li {
+          list-style-type: none;
+          float: left;
+          margin-bottom: 20px; }
+          .vlocity .account-card .card-info ul.details li.detail .detail-label {
+            text-transform: uppercase;
+            color: #54698d;
+            font-size: 13px;
+            display: block;
+            margin: 0; }
+          .vlocity .account-card .card-info ul.details li.detail .value {
+            font-size: 16px;
+            color: #16325c;
+            font-weight: 100; }
+      @media (max-width: 767px) {
+        .vlocity .account-card .card-info ul.details {
+          border-top: 1px solid #dcdce4;
+          padding-top: 10px; } }
+      .vlocity .account-card .card-info .actions-wrapper ul.actions {
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+        border-top: 1px solid #f2f2f2; }
+        .vlocity .account-card .card-info .actions-wrapper ul.actions li {
+          list-style-type: none;
+          float: left;
+          margin: 10px 5px 0px;
+          padding-right: 15px;
+          border-right: 1px solid #dcdce4; }
+          .vlocity .account-card .card-info .actions-wrapper ul.actions li.last {
+            border-right: none; }
+          .vlocity .account-card .card-info .actions-wrapper ul.actions li a {
+            text-decoration: none; }
+            .vlocity .account-card .card-info .actions-wrapper ul.actions li a:hover > span {
+              color: #000; }
+          .vlocity .account-card .card-info .actions-wrapper ul.actions li i {
+            font-size: 20px; }
+          .vlocity .account-card .card-info .actions-wrapper ul.actions li .title {
+            color: #9a9a9a;
+            line-height: 20px;
+            vertical-align: top; }
+      @media (max-width: 767px) {
+        .vlocity .account-card .card-info .actions-wrapper {
+          position: fixed;
+          bottom: 0px;
+          right: 0px;
+          left: 0px;
+          background-color: transparent;
+          border-top: none;
+          transition: all 0.3s ease-in-out; }
+          .vlocity .account-card .card-info .actions-wrapper .page-cover-layer {
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 100%;
+            width: 100%;
+            z-index: 5;
+            background-color: rgba(0, 0, 0, 0.5); }
+          .vlocity .account-card .card-info .actions-wrapper .actions-container {
+            position: relative;
+            z-index: 10; }
+            .vlocity .account-card .card-info .actions-wrapper .actions-container .actions-cancel {
+              margin-top: 10px;
+              padding: 12px;
+              text-align: center;
+              color: #05A6DF;
+              background-color: #ffffff; }
+            .vlocity .account-card .card-info .actions-wrapper .actions-container ul {
+              background-color: #ffffff; }
+              .vlocity .account-card .card-info .actions-wrapper .actions-container ul.actions li {
+                display: block;
+                float: none;
+                border-right: none;
+                border-bottom: 1px solid #dcdce4;
+                margin: 0px 10px; }
+                .vlocity .account-card .card-info .actions-wrapper .actions-container ul.actions li a {
+                  padding: 12px 5px;
+                  display: block; }
+                  .vlocity .account-card .card-info .actions-wrapper .actions-container ul.actions li a .title {
+                    color: #4a4a4a; } }
+  @media (max-width: 767px) {
+    .vlocity .form-group label {
+      display: none; }
+    .vlocity .form-group input.form-control {
+      margin-top: 20px; } }

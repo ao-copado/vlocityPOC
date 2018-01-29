@@ -1,0 +1,39 @@
+.account-header {
+  font-size: 1em;
+  color: #001c3f;
+  display: flex;
+  justify-content: space-between; }
+  .account-header .account-fields {
+    justify-content: flex-start; }
+  .account-header .account-actions {
+    justify-content: flex-end; }
+  .account-header .account-fields, .account-header .account-actions {
+    display: flex;
+    align-items: center; }
+  .account-header .account-field {
+    margin-right: 2rem; }
+    .account-header .account-field span {
+      display: inline; }
+    .account-header .account-field .field-label {
+      font-size: 0.75rem;
+      margin-right: 0.625em; }
+    .account-header .account-field .field-value {
+      font-size: 1.75rem;
+      font-weight: lighter;
+      text-transform: uppercase; }
+  .account-header .account-action {
+    margin-left: 0.625em; }
+    .account-header .account-action button {
+      font-size: 0.875em;
+      font-weight: bold;
+      color: #0070D2;
+      background-color: #FFF;
+      border: 1px solid #D8DDE6;
+      line-height: 2.5rem; }
+      .account-header .account-action button:hover {
+        background-color: #D8DDE6;
+        color: #0070D2; }
+    .account-header .account-action:first-child button {
+      background-color: #0070D2;
+      color: #FFF;
+      border: 1px solid #0070D2; }

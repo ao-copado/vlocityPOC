@@ -1,0 +1,60 @@
+.vlocity .console-account-info table {
+  padding-right: 4px; }
+  .vlocity .console-account-info table td strong {
+    font-size: 12px;
+    text-transform: uppercase; }
+
+.vlocity .console-account-info .spacer {
+  background-color: white;
+  height: 40px;
+  box-sizing: border-box;
+  text-transform: uppercase;
+  text-align: left;
+  font-size: 12px;
+  color: black;
+  box-sizing: border-box;
+  padding: 9px;
+  width: inherit;
+  border-top: 2px solid #e6e6ec;
+  border-bottom: 2px solid #e6e6ec;
+  cursor: pointer; }
+
+.vlocity .console-account-info .spacer:hover {
+  color: #05a6df; }
+
+.vlocity .console-account-info .spacer i::before {
+  color: #1397db;
+  font-size: 14px; }
+
+.vlocity .console-account-info .acct-info {
+  background-color: white; }
+
+.vlocity .console-account-info .acct-info td {
+  padding: 9px;
+  font-size: 12px;
+  vertical-align: top; }
+
+.vlocity .console-account-info #mailing-address {
+  text-transform: capitalize; }
+
+.vlocity .console-account-info .acct-links {
+  text-align: center;
+  font-size: 10px;
+  padding: 10px;
+  overflow: auto; }
+  .vlocity .console-account-info .acct-links ul {
+    padding: 0;
+    display: inline-block; }
+    .vlocity .console-account-info .acct-links ul li {
+      list-style-type: none;
+      float: left;
+      margin: 10px 0px 0px 0px; }
+      .vlocity .console-account-info .acct-links ul li a {
+        color: #1397db;
+        font-size: 10px;
+        padding: 5px;
+        cursor: pointer;
+        text-transform: uppercase; }
+      .vlocity .console-account-info .acct-links ul li .separator {
+        line-height: 15px;
+        padding: 0px 2px; }

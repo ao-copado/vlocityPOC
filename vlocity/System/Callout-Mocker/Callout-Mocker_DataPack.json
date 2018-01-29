@@ -1,0 +1,9 @@
+{
+    "%vlocity_namespace%__GlobalKey__c": "",
+    "%vlocity_namespace%__SystemInterface__c": "Callout-Mocker_SystemInterfaces.json",
+    "%vlocity_namespace%__URL__c": "https://tranquil-fjord-95123.herokuapp.com/",
+    "Name": "Callout Mocker",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__System__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__System__c/Callout Mocker"
+}

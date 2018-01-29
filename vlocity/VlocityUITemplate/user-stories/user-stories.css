@@ -1,0 +1,115 @@
+.vlocity .account-story .spacer {
+  background-color: white;
+  height: 40px;
+  box-sizing: border-box;
+  text-transform: uppercase;
+  text-align: left;
+  font-size: 12px;
+  color: black;
+  box-sizing: border-box;
+  padding: 9px;
+  width: inherit;
+  border-top: 2px solid #e6e6ec;
+  border-bottom: 2px solid #e6e6ec;
+  cursor: pointer; }
+
+.vlocity .account-story .spacer:hover {
+  color: #05a6df; }
+
+.vlocity .account-story .spacer i::before {
+  color: #1397db;
+  font-size: 14px; }
+
+.vlocity .account-story #story-time {
+  background-color: white; }
+
+.vlocity .account-story .story-type {
+  font-size: 12px;
+  margin-left: 5px; }
+
+.vlocity .account-story .story-numberOfDays {
+  font-size: 12px;
+  margin-left: 5px;
+  margin-top: 10px;
+  padding-left: 0; }
+
+.vlocity .account-story .story-numberOfDays label {
+  display: inline; }
+
+.vlocity .account-story .story {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 11px;
+  /*position: relative;
+        height: 65px;*/
+  position: static;
+  height: auto;
+  width: 100%;
+  padding: 10px 0;
+  cursor: pointer; }
+  .vlocity .account-story .story:hover {
+    background-color: #f2f2f2; }
+  .vlocity .account-story .story.open-oppty {
+    background-color: rgba(0, 164, 83, 0.2); }
+  .vlocity .account-story .story.open-case {
+    background-color: rgba(235, 33, 46, 0.2); }
+
+.vlocity .account-story #story-time .story .line {
+  height: 40px;
+  width: 1px;
+  background-color: #ccc;
+  color: black; }
+
+.vlocity .account-story #story-time .story:last-child .line {
+  height: 0;
+  width: 0px; }
+
+.vlocity .account-story .icon-segment {
+  float: left;
+  position: relative;
+  /* added */ }
+  .vlocity .account-story .icon-segment .story-icon {
+    font-size: 24px;
+    line-height: 24px;
+    color: #05a6df;
+    width: 30px; }
+    .vlocity .account-story .icon-segment .story-icon:before {
+      font-weight: 100;
+      line-height: 24px; }
+
+.vlocity .account-story .icon-segment img {
+  position: absolute;
+  left: 9px;
+  top: 11px;
+  height: 22px; }
+
+.vlocity .account-story .icon-segment i::before {
+  color: #1397db; }
+
+.vlocity .account-story .icon-segment .line {
+  position: absolute;
+  left: 20px;
+  top: 35px;
+  z-index: 1; }
+
+.vlocity .account-story #story-time .story .story-info {
+  /*position:absolute;
+        left: 40px;*/
+  position: relative;
+  margin-left: 40px;
+  width: 80%; }
+  .vlocity .account-story #story-time .story .story-info div + div:not(.story-date) {
+    font-size: 11px; }
+  .vlocity .account-story #story-time .story .story-info > div:first-of-type strong, .vlocity .account-story #story-time .story .story-info .story-date {
+    font-size: 11px; }
+  .vlocity .account-story #story-time .story .story-info div {
+    text-transform: capitalize; }
+  .vlocity .account-story #story-time .story .story-info .story-type {
+    text-transform: uppercase;
+    padding-bottom: 5px; }
+  .vlocity .account-story #story-time .story .story-info .story-date {
+    position: absolute;
+    right: 0px;
+    top: 0px; }
+  @media (max-width: 300px) {
+    .vlocity .account-story #story-time .story .story-info .story-date {
+      position: static; } }

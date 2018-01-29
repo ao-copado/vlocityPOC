@@ -1,0 +1,70 @@
+/*** MIXINS ***/
+/*** VARIABLES ***/
+.campaign-member-detail-top .member-information {
+  width: 100%;
+  padding: 0 0 0.5rem 0;
+  min-height: 5.95rem; }
+  .campaign-member-detail-top .member-information:before, .campaign-member-detail-top .member-information:after {
+    content: " ";
+    display: table; }
+  .campaign-member-detail-top .member-information:after {
+    clear: both; }
+  .campaign-member-detail-top .member-information .left h2 {
+    font-size: 1.35rem;
+    line-height: 1.4em;
+    color: #383838k; }
+  .campaign-member-detail-top .member-information .left span.line {
+    display: block;
+    line-height: 1.8em;
+    color: #333; }
+    .campaign-member-detail-top .member-information .left span.line.title-employer {
+      font-size: 1rem; }
+    .campaign-member-detail-top .member-information .left span.line.phone-email {
+      font-size: 0.75rem; }
+  .campaign-member-detail-top .member-information .right {
+    position: relative; }
+    .campaign-member-detail-top .member-information .right .member-status-select {
+      width: 100%; }
+      .campaign-member-detail-top .member-information .right .member-status-select .slds-button, .campaign-member-detail-top .member-information .right .member-status-select .slds-dropdown {
+        text-align: left;
+        width: 100%; }
+      .campaign-member-detail-top .member-information .right .member-status-select .slds-dropdown {
+        width: auto; }
+
+.campaign-member-detail-top .member-actions {
+  padding: 0; }
+  .campaign-member-detail-top .member-actions:before, .campaign-member-detail-top .member-actions:after {
+    content: " ";
+    display: table; }
+  .campaign-member-detail-top .member-actions:after {
+    clear: both; }
+  .campaign-member-detail-top .member-actions .target-call-date-wrapper {
+    float: left; }
+    .campaign-member-detail-top .member-actions .target-call-date-wrapper .slds-text-heading--label {
+      line-height: 1.3em; }
+    .campaign-member-detail-top .member-actions .target-call-date-wrapper span.target-call-date {
+      color: #333;
+      font-size: 0.75rem; }
+  .campaign-member-detail-top .member-actions button.slds-button {
+    margin-right: 0.5rem;
+    background-color: #ff0000;
+    border-color: #ff0000;
+    user-select: none;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem; }
+    .campaign-member-detail-top .member-actions button.slds-button:hover, .campaign-member-detail-top .member-actions button.slds-button:active, .campaign-member-detail-top .member-actions button.slds-button:focus {
+      background-color: #cc0000; }
+    .campaign-member-detail-top .member-actions button.slds-button .slds-button__icon {
+      width: 1.3rem;
+      height: 1.3rem;
+      position: relative;
+      top: -2px; }
+    .campaign-member-detail-top .member-actions button.slds-button.delete-action {
+      float: right;
+      margin-right: 0;
+      background-color: #00ff00;
+      border-color: #00ff00; }
+      .campaign-member-detail-top .member-actions button.slds-button.delete-action:hover, .campaign-member-detail-top .member-actions button.slds-button.delete-action:active, .campaign-member-detail-top .member-actions button.slds-button.delete-action:focus {
+        background-color: #00cc00; }
+      .campaign-member-detail-top .member-actions button.slds-button.delete-action .slds-button__icon {
+        margin: 0; }

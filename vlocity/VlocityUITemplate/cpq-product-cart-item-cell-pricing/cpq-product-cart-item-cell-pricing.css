@@ -1,0 +1,36 @@
+/*** CPQ Theme VARIABLES ***/
+/*** 
+   ***** CPQ THEME VARIABLES ****
+   Add only the theme file here. Don't add any code here.
+   It's easier to swap the theme here rather than swapping in every other template.
+   If you swap the theme here, all templates will automatically get the latest.
+   Note: You need to re save all the templates once you change the theme. Also, if you change theme files, refresh the browser and then save the templates.
+***/
+/*** CPQ BASE THEME VARIABLES ***/
+/*** CPQ BASE VARIABLES ***/
+/*** 
+    Do not modify this variables, Instead use Themes.
+    Modify only when you are sure what you are doing and the impact it may have.
+    These variables are used in different templates/themes.
+**/
+/*** SLDS VARIABLES ***/
+.vlocity .cpq-product-cart-item-cell-pricing {
+  /* Overwrite slds-picklist width */ }
+  .vlocity .cpq-product-cart-item-cell-pricing .cpq-product-cart-item-cell-pricing-tabs {
+    display: inline-flex; }
+  .vlocity .cpq-product-cart-item-cell-pricing input::-webkit-input-placeholder {
+    color: #c7c7c7; }
+  .vlocity .cpq-product-cart-item-cell-pricing .cpq-error-msg {
+    color: #f65327; }
+  .vlocity .cpq-product-cart-item-cell-pricing .cpq-success-msg {
+    color: #58a300; }
+  .vlocity .cpq-product-cart-item-cell-pricing .cpq-cell-pricing-modal__border {
+    border-top: 2px solid #d8dde6; }
+  .vlocity .cpq-product-cart-item-cell-pricing .cpq-pricing-picklist {
+    width: 100%; }
+    .vlocity .cpq-product-cart-item-cell-pricing .cpq-pricing-picklist .cpq-pricing-picklist__label, .vlocity .cpq-product-cart-item-cell-pricing .cpq-pricing-picklist .cpq-pricing-picklist-dropdown {
+      width: 100%; }
+  .vlocity .cpq-product-cart-item-cell-pricing .cpq-pricing-mandatory-input {
+    border: 1px solid #f65327; }
+  .vlocity .cpq-product-cart-item-cell-pricing .cpq-pricing-block-center {
+    margin: auto; }

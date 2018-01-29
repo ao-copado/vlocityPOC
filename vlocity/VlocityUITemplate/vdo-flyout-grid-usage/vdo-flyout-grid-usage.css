@@ -1,0 +1,31 @@
+.vlocity .flyout .flyout-content {
+  padding: 5px; }
+  .vlocity .flyout .flyout-content .items {
+    overflow: auto;
+    width: calc(100%-450px); }
+  .vlocity .flyout .flyout-content .usage {
+    width: 450px; }
+    .vlocity .flyout .flyout-content .usage .usagetitle {
+      font-weight: bold;
+      padding: 20px 0px 10px 0px; }
+    .vlocity .flyout .flyout-content .usage .usageChartFlyout {
+      margin: 10px;
+      float: left; }
+
+@media only screen and (max-width: 725px) {
+  .vlocity .flyout .flyout-content .flyout-actions {
+    padding-bottom: 20px; }
+  .vlocity .flyout .flyout-content .items {
+    padding: 10px 0px 0px; } }
+
+@media only screen and (min-width: 725px) {
+  .vlocity .flyout .flyout-content {
+    display: table; }
+    .vlocity .flyout .flyout-content .flyout-actions {
+      display: table-cell;
+      vertical-align: top;
+      border-right: 2px solid #efefef; }
+    .vlocity .flyout .flyout-content .items {
+      display: table-cell;
+      width: 75%;
+      vertical-align: top; } }

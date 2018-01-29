@@ -1,0 +1,139 @@
+.vlocity {
+  /* Uncomment for Vlocity Editor preview */
+  min-height: 640px; }
+  .vlocity .home-container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 1rem;
+    background-size: cover; }
+    .vlocity .home-container .column-divider {
+      position: absolute;
+      top: 2.5em;
+      bottom: 2.5em;
+      left: 50%;
+      width: 2px;
+      background-color: rgba(231, 236, 243, 0.54); }
+    .vlocity .home-container .left-coloumn {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 50%;
+      bottom: 0;
+      margin: 0;
+      padding: 0; }
+    .vlocity .home-container .right-coloumn {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 50%;
+      right: 0;
+      margin: 0;
+      padding: 0; }
+    .vlocity .home-container .left-wrapper, .vlocity .home-container .right-wrapper {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      margin: 2em 2em 2em;
+      padding: 0; }
+      .vlocity .home-container .left-wrapper .home-actions, .vlocity .home-container .right-wrapper .home-actions {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0; }
+    .vlocity .home-container .welcome-image {
+      width: 100%;
+      display: block;
+      margin: auto;
+      margin-top: -10px; }
+    .vlocity .home-container .cards-container {
+      overflow: visible; }
+    .vlocity .home-container .left-wrapper {
+      border-radius: 5px;
+      overflow: hidden;
+      background: #fcfcfc;
+      background: -moz-linear-gradient(top, #F8FBFE 0%, #EDF2F8 53%, #EDF2F8 53%, #EDF2F8 57%, #D1D9E9 100%);
+      background: -webkit-linear-gradient(top, #F8FBFE 0%, #EDF2F8 53%, #EDF2F8 53%, #EDF2F8 57%, #D1D9E9 100%);
+      background: linear-gradient(to bottom, #F8FBFE 0%, #EDF2F8 53%, #EDF2F8 53%, #EDF2F8 57%, #D1D9E9 100%);
+      filter: progid:npImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#dbdbdb',GradientType=0 ); }
+    .vlocity .home-container .home-logo {
+      background-image: url(https://vdo-cmt--c.na30.content.force.com/servlet/servlet.ImageServer?id=01536000003KbcD&oid=00D36000000qC4j&lastMod=1508518237000);
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center top;
+      position: absolute;
+      top: 14%;
+      left: 15%;
+      right: 15%;
+      height: 20%; }
+    .vlocity .home-container .left-content {
+      position: absolute;
+      top: 35%;
+      bottom: 5em;
+      left: 1em;
+      right: 1em; }
+    .vlocity .home-container .search-box input {
+      background-color: #e8eef5;
+      border: none;
+      font-size: 0.8em;
+      color: #16325c;
+      padding: 0.5rem 1rem; }
+      .vlocity .home-container .search-box input::placeholder {
+        color: #16325c; }
+      .vlocity .home-container .search-box input::-webkit-input-placeholder {
+        color: #16325c; }
+    .vlocity .home-container .welcome-message {
+      text-align: center;
+      margin-top: 30px;
+      font-size: 2em;
+      font-weight: lighter;
+      color: #16325c; }
+      .vlocity .home-container .welcome-message span {
+        font-size: 18px; }
+    .vlocity .home-container .learn-more-link {
+      margin-top: 1em;
+      text-align: center; }
+      .vlocity .home-container .learn-more-link a {
+        padding-bottom: 0.25em;
+        color: #0070d2;
+        font-size: 18px; }
+        .vlocity .home-container .learn-more-link a:link, .vlocity .home-container .learn-more-link a:active, .vlocity .home-container .learn-more-link a:hover, .vlocity .home-container .learn-more-link a:visited {
+          text-decoration: none; }
+    .vlocity .home-container .search-results {
+      position: absolute;
+      top: 2em;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      margin-top: 0.25em;
+      background: white;
+      overflow-y: auto;
+      border-radius: 5px; }
+      .vlocity .home-container .search-results li {
+        position: relative;
+        border-bottom: 1px solid #E0E5EE;
+        padding: 1em; }
+      .vlocity .home-container .search-results .search-result-name {
+        color: #061C3F; }
+      .vlocity .home-container .search-results .search-result-phone {
+        color: #4B749A; }
+      .vlocity .home-container .search-results .search-result-location {
+        position: absolute;
+        top: 1em;
+        right: 1em;
+        color: #4B749A; }
+    .vlocity .home-container .sign-out-btn {
+      position: absolute;
+      bottom: 1.8em;
+      width: 100%;
+      text-align: center; }
+      .vlocity .home-container .sign-out-btn button {
+        color: #FFF;
+        font-size: 1em; }

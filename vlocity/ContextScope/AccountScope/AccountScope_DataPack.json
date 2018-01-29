@@ -1,0 +1,12 @@
+{
+    "%vlocity_namespace%__Code__c": "SCOPE-ACC",
+    "%vlocity_namespace%__Description__c": "Order.Account",
+    "%vlocity_namespace%__EntityPath__c": "Account",
+    "%vlocity_namespace%__Entity__c": "Order",
+    "%vlocity_namespace%__GlobalKey__c": "",
+    "%vlocity_namespace%__ScopeType__c": "Entity",
+    "Name": "AccountScope",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__ContextScope__c",
+    "VlocityRecordSourceKey": "VlocityRecordSourceKey:a3r1N000000R6gdQAC"
+}

@@ -1,0 +1,11 @@
+<div class="flyout-content">
+    <div class="flyout-actions">
+        <ng-include src="'flyout-grid-actions'"></ng-include>
+    </div>
+    <div class="items">
+        <!--<ng-include src="'flyout-grid-items'"></ng-include>-->
+        <!--<vloc-layout layout-name="Items" ctx-id="{{records.obj.Id}}"></vloc-layout>-->
+        <!--<vloc-layout layout-name="Items" records="records.obj.Contacts.records"></vloc-layout>-->
+        <vloc-card ng-repeat="card in cards |orderBy:order|filter: searchFunc(card)" ctrl="{{ctrl}}" ng-model="card" data="card" records="records" index="{{$index}}" session-id="{{sessionId}}"></vloc-card>
+    </div>
+</div>

@@ -1,0 +1,58 @@
+/* variables */
+/* colors */
+/* font sizes */
+/* line heights */
+/*** Styles ***/
+.vlocity {
+  /* Always use vlocity class as a wrapper */ }
+  .vlocity ::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; }
+  .vlocity ::-webkit-scrollbar-thumb {
+    background: #ffffff; }
+  .vlocity .np-product-category {
+    flex: none; }
+  .vlocity .np-list-scrollable-canvas {
+    color: #16325c; }
+    .vlocity .np-list-scrollable-canvas.np-border {
+      border: 1px solid rgba(231, 236, 243, 0.54); }
+    .vlocity .np-list-scrollable-canvas h3 {
+      color: #16325c; }
+    .vlocity .np-list-scrollable-canvas .test {
+      overflow-x: auto; }
+    .vlocity .np-list-scrollable-canvas
+.np-card {
+      background: #ffffff;
+      border-color: rgba(231, 236, 243, 0.54); }
+    .vlocity .np-list-scrollable-canvas .np-session--title {
+      font-size: 32px; }
+      .vlocity .np-list-scrollable-canvas .np-session--title:after {
+        content: "";
+        background: #ff7900;
+        position: absolute;
+        bottom: -20px;
+        left: 0;
+        width: 50px;
+        height: 3px; }
+    .vlocity .np-list-scrollable-canvas .np-vloc-card-margin {
+      margin: 0 auto; }
+  .vlocity .np-actions-and-filter {
+    background: #fff; }
+    .vlocity .np-actions-and-filter a {
+      color: #0070D2;
+      font-size: 16px; }
+    .vlocity .np-actions-and-filter h1 {
+      font-size: 46px;
+      position: relative;
+      text-align: center; }
+      .vlocity .np-actions-and-filter h1:before {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 34px;
+        border: 2px solid rgba(231, 236, 243, 0.54); }
+      .vlocity .np-actions-and-filter h1 span {
+        background: #fff;
+        position: relative;
+        padding: 0 10px; }

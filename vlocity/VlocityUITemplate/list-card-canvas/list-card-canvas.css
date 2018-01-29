@@ -1,0 +1,20 @@
+/*** VARIABLES ***/
+/*** VARIABLES ***/
+/*** MIXINS ***/
+/*** MIXINS ***/
+.list-card-canvas .row.headers {
+  padding: 20px 0;
+  box-shadow: 0 5px 7px -3px #dfdfdf; }
+
+.list-card-canvas .headers div {
+  text-transform: uppercase;
+  color: #7c7c7c;
+  font-weight: bold;
+  font-size: 12px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  cursor: pointer; }
+  .list-card-canvas .headers div .caret {
+    cursor: pointer;
+    color: #7c7c7c; }

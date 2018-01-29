@@ -1,0 +1,62 @@
+[
+    {
+        "%vlocity_namespace%__VqMachineId__c": {
+            "Name": "Banners",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__VqMachine__c/Banners",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachine__c"
+        },
+        "%vlocity_namespace%__VqMachineId__r.Name": "Banners",
+        "%vlocity_namespace%__VqResourceId__c": {
+            "Name": "Essential Phone",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__VqResource__c/Essential Phone",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqResource__c"
+        },
+        "%vlocity_namespace%__VqResourceId__r.Name": "Essential Phone",
+        "Name": "Essential Phone",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachineResource__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__VqMachineResource__c/Essential Phone"
+    },
+    {
+        "%vlocity_namespace%__VqMachineId__c": {
+            "Name": "Banners",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__VqMachine__c/Banners",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachine__c"
+        },
+        "%vlocity_namespace%__VqMachineId__r.Name": "Banners",
+        "%vlocity_namespace%__VqResourceId__c": {
+            "Name": "Pixel 2",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__VqResource__c/Pixel 2",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqResource__c"
+        },
+        "%vlocity_namespace%__VqResourceId__r.Name": "Pixel 2",
+        "Name": "Pixel 2",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachineResource__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__VqMachineResource__c/Pixel 2"
+    },
+    {
+        "%vlocity_namespace%__VqMachineId__c": {
+            "Name": "Banners",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__VqMachine__c/Banners",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachine__c"
+        },
+        "%vlocity_namespace%__VqMachineId__r.Name": "Banners",
+        "%vlocity_namespace%__VqResourceId__c": {
+            "Name": "iPhone X",
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__VqResource__c/iPhone X",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__VqResource__c"
+        },
+        "%vlocity_namespace%__VqResourceId__r.Name": "iPhone X",
+        "Name": "iPhone X",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachineResource__c",
+        "VlocityRecordSourceKey": "%vlocity_namespace%__VqMachineResource__c/iPhone X"
+    }
+]

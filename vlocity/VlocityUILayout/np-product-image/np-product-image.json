@@ -1,0 +1,30 @@
+{
+    "Cards": [
+        "np-product-image"
+    ],
+    "dataSource": {
+        "contextVariables": [
+            {
+                "name": "attrs.productid",
+                "val": "a2H1I000000Q6veUAC"
+            }
+        ],
+        "type": "Query",
+        "value": {
+            "body": "[\n    {\n        \"attributes\": {\n            \"type\": \"Attachment\",\n            \"url\": \"/services/data/v40.0/sobjects/Attachment/00P1I000000pjrpUAA\"\n        },\n        \"Id\": \"00P1I000000pjrpUAA\",\n        \"Name\": \"galaxy-s7.jpg\"\n    }\n]",
+            "query": "SELECT Id,Name FROM Attachment where ParentId='{{attrs.productid}}'",
+            "resultVar": ""
+        }
+    },
+    "sessionVars": [
+        {
+            "name": "Border",
+            "val": "false"
+        }
+    ],
+    "templates": {
+        "0": {
+            "templateUrl": "np-blank-canvas"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Cards": [
+        "Home Action"
+    ],
+    "dataSource": {
+        "contextVariables": [
+        ],
+        "type": "Query",
+        "value": {
+            "body": "{\"result\":[]}",
+            "query": "SELECT Id, User_Role__c, Store_Associate_Status__c FROM User Where Id = '{{params.userId}}'",
+            "resultVar": ""
+        }
+    },
+    "templates": {
+        "0": {
+            "templateUrl": "card-canvas-1x-simple-slds"
+        }
+    }
+}

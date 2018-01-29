@@ -1,0 +1,90 @@
+/*** MIXINS ***/
+ng-include[src="'campaign-column'"] {
+  height: 100%;
+  display: block; }
+  ng-include[src="'campaign-column'"] > div {
+    height: 100%; }
+    ng-include[src="'campaign-column'"] > div > div {
+      height: 100%; }
+
+ng-include[src="'campaign-detail'"] {
+  height: 100%;
+  display: block; }
+  ng-include[src="'campaign-detail'"] .campaign-detail {
+    transition: padding 500ms ease-in;
+    position: relative;
+    height: 100%;
+    background-color: #f4f6f9;
+    padding: 3.75rem 1rem;
+    border-left: 1px solid #d8dde6; }
+    ng-include[src="'campaign-detail'"] .campaign-detail:before, ng-include[src="'campaign-detail'"] .campaign-detail:after {
+      content: " ";
+      display: table; }
+    ng-include[src="'campaign-detail'"] .campaign-detail:after {
+      clear: both; }
+    ng-include[src="'campaign-detail'"] .campaign-detail .campaign-progress .campaign-progress-bar {
+      width: 100%;
+      height: 1rem;
+      position: relative; }
+      ng-include[src="'campaign-detail'"] .campaign-detail .campaign-progress .campaign-progress-bar:before, ng-include[src="'campaign-detail'"] .campaign-detail .campaign-progress .campaign-progress-bar:after {
+        content: " ";
+        display: table; }
+      ng-include[src="'campaign-detail'"] .campaign-detail .campaign-progress .campaign-progress-bar:after {
+        clear: both; }
+      ng-include[src="'campaign-detail'"] .campaign-detail .campaign-progress .campaign-progress-bar .campaign-member-status {
+        background-color: #4A90E2;
+        display: inline-block;
+        float: left;
+        height: 100%; }
+        ng-include[src="'campaign-detail'"] .campaign-detail .campaign-progress .campaign-progress-bar .campaign-member-status.campaign-member-status-0 {
+          background-color: #00396B; }
+        ng-include[src="'campaign-detail'"] .campaign-detail .campaign-progress .campaign-progress-bar .campaign-member-status.campaign-member-status-1 {
+          background-color: #005FB2; }
+        ng-include[src="'campaign-detail'"] .campaign-detail .campaign-progress .campaign-progress-bar .campaign-member-status.campaign-member-status-2 {
+          background-color: #0070D2; }
+        ng-include[src="'campaign-detail'"] .campaign-detail .campaign-progress .campaign-progress-bar .campaign-member-status.campaign-member-status-3 {
+          background-color: #0C8EFF; }
+        ng-include[src="'campaign-detail'"] .campaign-detail .campaign-progress .campaign-progress-bar .campaign-member-status + .slds-popover--tooltip {
+          width: 6rem;
+          text-align: center;
+          position: absolute;
+          top: -2.8rem !important; }
+          ng-include[src="'campaign-detail'"] .campaign-detail .campaign-progress .campaign-progress-bar .campaign-member-status + .slds-popover--tooltip .slds-popover__body {
+            line-height: 1rem; }
+    ng-include[src="'campaign-detail'"] .campaign-detail .campaign-detail-header {
+      height: 3rem;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background-color: #EEF1F6;
+      border-bottom: 1px solid #d8dde6; }
+      ng-include[src="'campaign-detail'"] .campaign-detail .campaign-detail-header .slds-icon_container {
+        position: absolute;
+        left: 0.5rem;
+        top: 50%;
+        transform: translateY(-50%);
+        z-index: 2;
+        cursor: pointer; }
+      ng-include[src="'campaign-detail'"] .campaign-detail .campaign-detail-header .slds-text-heading--small {
+        line-height: 3rem;
+        padding-left: 3.1rem; }
+    ng-include[src="'campaign-detail'"] .campaign-detail .toggle-panel {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 3rem;
+      background-color: #EEF1F6;
+      border-top: 1px solid #d8dde6; }
+      ng-include[src="'campaign-detail'"] .campaign-detail .toggle-panel .slds-icon_container {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 0.75rem;
+        z-index: 2;
+        cursor: pointer; }
+        ng-include[src="'campaign-detail'"] .campaign-detail .toggle-panel .slds-icon_container .slds-icon {
+          fill: #4F6A92; }
+    ng-include[src="'campaign-detail'"] .campaign-detail.toggle-right-collapsed {
+      padding-left: 3rem; }

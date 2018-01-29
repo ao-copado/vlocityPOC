@@ -1,0 +1,69 @@
+/*** CPQ Theme VARIABLES ***/
+/*** 
+   ***** CPQ THEME VARIABLES ****
+   Add only the theme file here. Don't add any code here.
+   It's easier to swap the theme here rather than swapping in every other template.
+   If you swap the theme here, all templates will automatically get the latest.
+   Note: You need to re save all the templates once you change the theme. Also, if you change theme files, refresh the browser and then save the templates.
+***/
+/*** CPQ BASE THEME VARIABLES ***/
+/*** CPQ BASE VARIABLES ***/
+/*** 
+    Do not modify this variables, Instead use Themes.
+    Modify only when you are sure what you are doing and the impact it may have.
+    These variables are used in different templates/themes.
+**/
+/*** SLDS VARIABLES ***/
+/*** MIXINS ***/
+/*** MIXINS ***/
+/*** STYLES ***/
+.vlocity .cpq-product-cart-item-addon-separate-section .slds-section {
+  margin: 0; }
+  .vlocity .cpq-product-cart-item-addon-separate-section .slds-section .slds-section__title {
+    padding: 5px 0; }
+  .vlocity .cpq-product-cart-item-addon-separate-section .slds-section .slds-section__content {
+    padding-top: 0; }
+
+.vlocity .cpq-product-cart-item-addon-separate-section .cpq-cart-item-section-components, .vlocity .cpq-product-cart-item-addon-separate-section .cpq-cart-item-section-addons {
+  padding-left: 18px; }
+  .vlocity .cpq-product-cart-item-addon-separate-section .cpq-cart-item-section-components .cpq-cart-item-child-product, .vlocity .cpq-product-cart-item-addon-separate-section .cpq-cart-item-section-addons .cpq-cart-item-child-product {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+    padding: 0.2rem 0; }
+    .vlocity .cpq-product-cart-item-addon-separate-section .cpq-cart-item-section-components .cpq-cart-item-child-product .cpq-cart-item-child-product-name, .vlocity .cpq-product-cart-item-addon-separate-section .cpq-cart-item-section-addons .cpq-cart-item-child-product .cpq-cart-item-child-product-name {
+      flex-grow: 1; }
+    .vlocity .cpq-product-cart-item-addon-separate-section .cpq-cart-item-section-components .cpq-cart-item-child-product .cpq-cart-item-child-product-input, .vlocity .cpq-product-cart-item-addon-separate-section .cpq-cart-item-section-addons .cpq-cart-item-child-product .cpq-cart-item-child-product-input {
+      flex: 0 0 80px; }
+    .vlocity .cpq-product-cart-item-addon-separate-section .cpq-cart-item-section-components .cpq-cart-item-child-product .cpq-cart-item-child-product-price, .vlocity .cpq-product-cart-item-addon-separate-section .cpq-cart-item-section-addons .cpq-cart-item-child-product .cpq-cart-item-child-product-price {
+      flex: 0 0 120px; }
+    .vlocity .cpq-product-cart-item-addon-separate-section .cpq-cart-item-section-components .cpq-cart-item-child-product .cpq-cart-item-child-product-actions, .vlocity .cpq-product-cart-item-addon-separate-section .cpq-cart-item-section-addons .cpq-cart-item-child-product .cpq-cart-item-child-product-actions {
+      flex: 0 0 120px; }
+
+.vlocity .cpq-product-cart-item-addon-separate-section .cpq-cart-item-currency-value {
+  font-weight: 600;
+  color: #7c7c7c;
+  padding-top: 5px; }
+
+.vlocity .cpq-product-cart-item-addon-separate-section .cpq-cart-item-input {
+  padding: 0 3px;
+  margin-top: 2px;
+  text-align: center;
+  width: 50px;
+  height: 25px;
+  min-height: calc(25px + 2px); }
+
+.vlocity .cpq-product-cart-item-addon-separate-section .cpq-component-content {
+  display: none; }
+
+.vlocity .cpq-product-cart-item-addon-separate-section .slds-section.slds-is-open .cpq-component-content {
+  display: block; }
+
+.vlocity .cpq-product-cart-item-addon-separate-section .fix-slds-close-switch {
+  transform: rotate(-90deg) !important; }
+
+.vlocity .cpq-product-cart-item-addon-separate-section .cpq-product-cart-item-section-heading {
+  font-size: 15px; }
+
+.vlocity .cpq-product-cart-item-addon-separate-section .cpq-cmp-config-panel {
+  padding-left: 25px; }

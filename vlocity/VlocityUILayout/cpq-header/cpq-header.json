@@ -1,0 +1,10 @@
+{
+    "Cards": [
+        "vdo-cpq-header"
+    ],
+    "templates": {
+        "0": {
+            "templateUrl": "cpq-base-header"
+        }
+    }
+}

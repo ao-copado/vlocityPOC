@@ -1,0 +1,62 @@
+/*** CPQ Theme VARIABLES ***/
+/*** 
+   ***** CPQ THEME VARIABLES ****
+   Add only the theme file here. Don't add any code here.
+   It's easier to swap the theme here rather than swapping in every other template.
+   If you swap the theme here, all templates will automatically get the latest.
+   Note: You need to re save all the templates once you change the theme. Also, if you change theme files, refresh the browser and then save the templates.
+***/
+/*** CPQ BASE THEME VARIABLES ***/
+/*** CPQ BASE VARIABLES ***/
+/*** 
+    Do not modify this variables, Instead use Themes.
+    Modify only when you are sure what you are doing and the impact it may have.
+    These variables are used in different templates/themes.
+**/
+/*** SLDS VARIABLES ***/
+/*** MIXINS ***/
+/*** MIXINS ***/
+/*** STYLES ***/
+.vlocity .cpq-product-cart-item-addon .cpq-cart-item-attr-value {
+  font-weight: 600;
+  color: #7c7c7c; }
+
+.vlocity .cpq-product-cart-item-addon .cpq-cart-item-input {
+  padding: 0 3px;
+  margin-top: 2px;
+  text-align: center;
+  width: 50px;
+  height: 25px;
+  min-height: calc(25px + 2px); }
+
+.vlocity .cpq-product-cart-item-addon .cpq-line-item-container {
+  max-width: 100%; }
+
+.vlocity .cpq-product-cart-item-addon .cpq-component-content {
+  display: none; }
+
+.vlocity .cpq-product-cart-item-addon .slds-section.slds-is-open .cpq-component-content {
+  display: block; }
+
+.vlocity .cpq-product-cart-item-addon .cpq-cart-promo-item {
+  background-color: #F9FCF3;
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 2px;
+  border-color: #CCE29C;
+  margin-left: 20px;
+  padding: 16px; }
+  .vlocity .cpq-product-cart-item-addon .cpq-cart-promo-item .u-Flex-childProduct {
+    flex: 0 0 240px; }
+  .vlocity .cpq-product-cart-item-addon .cpq-cart-promo-item .add-button {
+    background-color: #9ECC3B;
+    border: 0px; }
+
+.vlocity .cpq-product-cart-item-addon .fix-slds-close-switch {
+  transform: rotate(-90deg) !important; }
+
+.vlocity .cpq-product-cart-item-section-heading {
+  font-size: 15px; }
+
+.vlocity .cpq-cmp-config-panel {
+  padding-left: 25px; }

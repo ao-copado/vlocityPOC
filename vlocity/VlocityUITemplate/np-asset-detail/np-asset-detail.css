@@ -1,0 +1,36 @@
+/* variables */
+/* colors */
+/* font sizes */
+/* line heights */
+/*** STYLES ***/
+.vlocity {
+  /* Always use vlocity class as a wrapper */ }
+  .vlocity .np-table-list {
+    position: relative;
+    font-size: 16px; }
+    .vlocity .np-table-list .np-asset-plus-title {
+      font-size: 32px;
+      position: relative; }
+      .vlocity .np-table-list .np-asset-plus-title:after {
+        content: "";
+        background: #ff7900;
+        position: absolute;
+        bottom: -10px;
+        left: 0;
+        width: 50px;
+        height: 3px; }
+    .vlocity .np-table-list .np-table-list-plus-text {
+      font-size: 16px; }
+    .vlocity .np-table-list .vloc-attr-showmore {
+      position: absolute;
+      right: .6rem;
+      top: .9rem; }
+  .vlocity
+.custom-link--color {
+    color: #0070D2; }
+  .vlocity
+.custom-field-label {
+    color: #16325c; }
+  .vlocity
+.custom-text-bold {
+    font-weight: bold; }

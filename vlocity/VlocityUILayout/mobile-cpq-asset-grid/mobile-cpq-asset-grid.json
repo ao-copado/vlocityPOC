@@ -1,0 +1,24 @@
+{
+    "Cards": [
+        "Asset Card",
+        "UsageStatsText",
+        "UsageBarChart"
+    ],
+    "dataSource": {
+        "contextVariables": [
+            {
+                "name": "params.id",
+                "val": "0014100000HENR3"
+            }
+        ],
+        "type": "Query",
+        "value": {
+            "query": "SELECT Id,%vlocity_namespace%__ParentItemId__c,is_root__c,Account.Name,LastModifiedDate,Product2.Name,Product2.%vlocity_namespace%__Type__c,Product2.%vlocity_namespace%__JSONAttribute__c, Product2.Family, Product2.%vlocity_namespace%__SubType__c ,%vlocity_namespace%__BillingAccountId__r.Name,Name, Price,SerialNumber, %vlocity_namespace%__LineNumber__c, Product_Family__c,Product_Family_Image__c, PurchaseDate,InstallDate,Status,Mobile_Number__c, %vlocity_namespace%__RecurringTotal__c,Description, Quantity FROM Asset WHERE AccountId = '{{params.id}}'"
+        }
+    },
+    "templates": {
+        "0": {
+            "templateUrl": "mobile-cpq-card-canvas"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "Cards": [
+        "VDO Business Community Account Card"
+    ],
+    "dataSource": {
+        "type": "Query",
+        "value": {
+            "query": "SELECT id, RecordType.Name, Alerts__c, ParentId, Name, Phone, %vlocity_namespace%__Status__c, NumberOfEmployees FROM Account WHERE RecordType.Name = 'Business' AND ParentId != ''"
+        }
+    },
+    "templates": {
+        "0": {
+            "templateUrl": "vdo-business-console-account-home"
+        }
+    }
+}

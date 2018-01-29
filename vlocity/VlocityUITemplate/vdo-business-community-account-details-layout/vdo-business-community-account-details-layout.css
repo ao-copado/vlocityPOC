@@ -1,0 +1,18 @@
+.via-slds {
+  background: #fff !important; }
+  .via-slds .vdo-ban-details {
+    margin: 0px;
+    padding: 20px; }
+    .via-slds .vdo-ban-details .vdo-ban-tabs .vdo-ban-tabs-link.slds-tabs--default__link {
+      font-weight: bold;
+      font-size: 130%;
+      border-bottom: 4px solid transparent; }
+    .via-slds .vdo-ban-details .vdo-ban-tab-content {
+      background-color: #fff;
+      min-height: 250px; }
+  .via-slds .vdo-tabs-wrapper {
+    padding-left: 0px !important;
+    padding-right: 0px !important; }
+
+.via-slds .slds-tabs--default__item:after {
+  background: none !important; }

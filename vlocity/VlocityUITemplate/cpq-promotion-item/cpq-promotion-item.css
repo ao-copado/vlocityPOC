@@ -1,0 +1,50 @@
+/*** CPQ Theme VARIABLES ***/
+/*** 
+   ***** CPQ THEME VARIABLES ****
+   Add only the theme file here. Don't add any code here.
+   It's easier to swap the theme here rather than swapping in every other template.
+   If you swap the theme here, all templates will automatically get the latest.
+   Note: You need to re save all the templates once you change the theme. Also, if you change theme files, refresh the browser and then save the templates.
+***/
+/*** CPQ BASE THEME VARIABLES ***/
+/*** CPQ BASE VARIABLES ***/
+/*** 
+    Do not modify this variables, Instead use Themes.
+    Modify only when you are sure what you are doing and the impact it may have.
+    These variables are used in different templates/themes.
+**/
+/*** SLDS VARIABLES ***/
+/*** MIXINS ***/
+/*** MIXINS ***/
+/*** STYLES ***/
+.vlocity .cpq-promo-item {
+  border-bottom: 3px solid #f4f6f9; }
+  .vlocity .cpq-promo-item .cpq-promo-item-container {
+    padding: 10px 0px;
+    margin: 0px 16px; }
+    .vlocity .cpq-promo-item .cpq-promo-item-container .cpq-product-item-select-checkbox {
+      padding: 10px;
+      margin-top: -5px; }
+    .vlocity .cpq-promo-item .cpq-promo-item-container .promo-name {
+      font-weight: 600;
+      line-height: 30px; }
+    .vlocity .cpq-promo-item .cpq-promo-item-container .promo-info div {
+      padding-right: 16px;
+      padding-top: 10px;
+      color: #7c7c7c; }
+      .vlocity .cpq-promo-item .cpq-promo-item-container .promo-info div:last-child {
+        padding-bottom: 10px; }
+      .vlocity .cpq-promo-item .cpq-promo-item-container .promo-info div .promo-label {
+        font-size: 11px; }
+    .vlocity .cpq-promo-item .cpq-promo-item-container .promo-info .cpq-item-promotion-messages {
+      font-size: 95%; }
+      .vlocity .cpq-promo-item .cpq-promo-item-container .promo-info .cpq-item-promotion-messages .cpq-error-msg {
+        color: #f65327; }
+      .vlocity .cpq-promo-item .cpq-promo-item-container .promo-info .cpq-item-promotion-messages .cpq-warning-msg {
+        color: #eac438; }
+  .vlocity .cpq-promo-item .cpq-promo-actions {
+    padding-top: 10px;
+    padding-bottom: 10px; }
+    .vlocity .cpq-promo-item .cpq-promo-actions .add-button {
+      padding-left: 10px;
+      padding-right: 10px; }

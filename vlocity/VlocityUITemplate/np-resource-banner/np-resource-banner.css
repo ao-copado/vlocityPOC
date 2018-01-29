@@ -1,0 +1,22 @@
+/* variables */
+/* colors */
+/* font sizes */
+/* line heights */
+.vlocity {
+  /* Always use vlocity class as a wrapper */ }
+  .vlocity .np-resource-action-link {
+    color: #fff;
+    display: block;
+    text-align: left;
+    font-size: 16px;
+    text-decoration: none; }
+    .vlocity .np-resource-action-link:hover {
+      color: #fff;
+      display: block;
+      text-decoration: none; }
+  .vlocity .np-hero-resource-card--desc h2 {
+    line-height: 1.5em;
+    font-size: 56px; }
+  @media (max-width: 30em) {
+    .vlocity.via-slds .np-hero-resource-card--desc h2 {
+      font-size: 36px; } }

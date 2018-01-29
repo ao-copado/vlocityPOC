@@ -1,0 +1,38 @@
+/*** CPQ THEME VARIABLES ***/
+/*** MIXINS ***/
+/*** MIXINS ***/
+.card-header {
+  display: none !important; }
+
+/*** STYLES ***/
+.campaign-base-grid {
+  background-color: white; }
+  .campaign-base-grid .campaign-container {
+    height: 100%;
+    width: 100%;
+    transition: width 500ms ease-in; }
+    .campaign-base-grid .campaign-container .slds-col {
+      overflow-y: auto;
+      height: 100%; }
+    .campaign-base-grid .campaign-container .campaign-member-container {
+      width: 100%;
+      height: 100%; }
+    .campaign-base-grid .campaign-container .campaign-member-list-container {
+      border-right: 1px solid #d8dde6; }
+    .campaign-base-grid .campaign-container .campaign-member-detail {
+      transition: all 500ms ease-in;
+      padding-right: 0; }
+      .campaign-base-grid .campaign-container .campaign-member-detail.toggle-right-collapsed {
+        padding-right: 3rem; }
+      .campaign-base-grid .campaign-container .campaign-member-detail.toggle-right-expanded {
+        padding-right: 0; }
+      .campaign-base-grid .campaign-container .campaign-member-detail .campaign-member-container {
+        border-right: none; }
+    .campaign-base-grid .campaign-container .campaign-details-right {
+      border-right: none;
+      transition: right 500ms ease-in;
+      right: 0; }
+      .campaign-base-grid .campaign-container .campaign-details-right.toggle-right-collapsed {
+        right: 3rem; }
+      .campaign-base-grid .campaign-container .campaign-details-right.toggle-right-expanded {
+        right: 0; }

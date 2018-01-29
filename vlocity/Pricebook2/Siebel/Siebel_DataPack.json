@@ -1,0 +1,15 @@
+{
+    "%vlocity_namespace%__IsDefault__c": false,
+    "%vlocity_namespace%__IsOpportunityDefault__c": false,
+    "%vlocity_namespace%__IsOrderDefault__c": true,
+    "%vlocity_namespace%__isQuoteDefault__c": false,
+    "Description": "",
+    "IsActive": true,
+    "IsArchived": false,
+    "IsStandard": false,
+    "Name": "Siebel",
+    "PricebookEntry": "Siebel_PricebookEntries.json",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "Pricebook2",
+    "VlocityRecordSourceKey": "Pricebook2/Siebel"
+}

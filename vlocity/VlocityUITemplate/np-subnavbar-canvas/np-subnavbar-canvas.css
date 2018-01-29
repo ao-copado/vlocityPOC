@@ -1,0 +1,127 @@
+/* variables */
+/* colors */
+/* font sizes */
+/* line heights */
+/*** Styles ***/
+.vlocity {
+  /* Always use vlocity class as a wrapper */ }
+  .vlocity a.np-nav-card-style.np-overview-card {
+    border-left: 1px solid rgba(0, 0, 0, 0.1) !important; }
+  .vlocity .np-subnav-card-active {
+    display: flex;
+    -moz-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    height: 100%;
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    border-left: 0;
+    padding: 10px;
+    cursor: pointer;
+    border-bottom: 1px solid #dfe2e4;
+    background: #f8fbfe;
+    color: #16325c; }
+    .vlocity .np-subnav-card-active.tabSelected {
+      border-left: 1px solid rgba(0, 0, 0, 0.1);
+      background: #ff6e0d;
+      border-bottom: 0;
+      color: #fff; }
+      .vlocity .np-subnav-card-active.tabSelected img {
+        -webkit-filter: brightness(0.25);
+        filter: brightness(5); }
+      .vlocity .np-subnav-card-active.tabSelected:hover {
+        border-bottom-color: transparent; }
+    .vlocity .np-subnav-card-active.tabSelected .card-top {
+      vertical-align: middle;
+      margin: auto; }
+  .vlocity
+.np-subnav-card-active.tabSelected
+.cardValues h2:first-child {
+    font-size: 18px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    line-height: 17px;
+    height: 36px;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical; }
+  .vlocity .np-custom-svg {
+    pointer-events: none;
+    height: 60px; }
+  .vlocity .np-overview-card {
+    -webkit-animation: cssAnimation 0.55s forwards;
+    animation: cssAnimation 0.55s forwards;
+    max-width: 150px;
+    width: 90px;
+    max-height: 173px; }
+
+@keyframes cssAnimation {
+  0% {
+    opacity: 0; }
+  90% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
+
+@-webkit-keyframes cssAnimation {
+  0% {
+    opacity: 0; }
+  90% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
+  .vlocity ::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+    display: none; }
+  .vlocity ::-webkit-scrollbar-thumb {
+    background: background-color-1; }
+  .vlocity .cfp-hotkeys-container.fade {
+    display: none !important; }
+  .vlocity .np-subnav-wrapper {
+    padding-bottom: 10px; }
+    .vlocity .np-subnav-wrapper .slds-scrollable--x {
+      width: 100%; }
+    .vlocity .np-subnav-wrapper
+.np-subnav-wrapper-inner {
+      background: #F8FBFE;
+      padding-left: 40px;
+      padding-right: 40px;
+      border-bottom: 0px solid rgba(0, 0, 0, 0.04);
+      max-width: 1980px;
+      margin: auto; }
+      .vlocity .np-subnav-wrapper
+.np-subnav-wrapper-inner
+.np-nav-card-style:first-child {
+        border-left: 0px solid rgba(0, 0, 0, 0.1);
+        text-decoration: none; }
+  .vlocity .np-nav-card-style {
+    position: relative;
+    width: 100%;
+    min-width: 140px;
+    height: 173px;
+    text-decoration: none; }
+    .vlocity .np-nav-card-style.active {
+      border-left: 1px solid rgba(0, 0, 0, 0.1);
+      -webkit-box-shadow: 0px 10px 0px 0px #ff6e0d;
+      -moz-box-shadow: 0px 10px 0px 0px #ff6e0d;
+      box-shadow: 0px 10px 0px 0px #ff6e0d;
+      background: #ff6e0d; }
+      .vlocity .np-nav-card-style.active img {
+        -webkit-filter: brightness(0.25);
+        filter: brightness(255); }
+      .vlocity .np-nav-card-style.active .dx-subnav-card-active {
+        border-bottom: 0;
+        color: #fff; }
+    .vlocity .np-nav-card-style:last-of-type .np-subnav-card-active .np-submenu--hover, .vlocity .np-nav-card-style:nth-child(7) .np-subnav-card-active .np-submenu--hover, .vlocity .np-nav-card-style:nth-child(6) .np-subnav-card-active .np-submenu--hover {
+      right: 0;
+      left: initial; }
+  .vlocity .np-subnav-wrapper {
+    position: relative;
+    background: #F8FBFE;
+    border-bottom: 1px solid #dfe2e4;
+    padding: 0px; }
+  @media only screen and (max-width: 767px) {
+    .vlocity
+.np-subnav-wrapper-inner {
+      padding-left: 10px !important;
+      padding-right: 10px !important; } }

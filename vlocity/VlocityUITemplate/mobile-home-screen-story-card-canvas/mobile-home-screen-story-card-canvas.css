@@ -1,0 +1,13 @@
+.via-slds-story-cards--header {
+  border-bottom: 1px solid #d8dde6;
+  border-top: 1px solid #d8dde6; }
+
+.via-slds-story-cards--header-title {
+  position: relative; }
+
+.via-slds-story-cards--container {
+  position: relative; }
+  .via-slds-story-cards--container li.via-slds-story-cards--loading {
+    display: none; }
+  .via-slds-story-cards--container li.via-slds-story-cards--loading:first-child {
+    display: inline-block; }

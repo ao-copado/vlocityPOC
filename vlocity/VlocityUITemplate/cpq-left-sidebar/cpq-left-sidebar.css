@@ -1,0 +1,65 @@
+/*** CPQ Theme VARIABLES ***/
+/*** 
+   ***** CPQ THEME VARIABLES ****
+   Add only the theme file here. Don't add any code here.
+   It's easier to swap the theme here rather than swapping in every other template.
+   If you swap the theme here, all templates will automatically get the latest.
+   Note: You need to re save all the templates once you change the theme. Also, if you change theme files, refresh the browser and then save the templates.
+***/
+/*** CPQ BASE THEME VARIABLES ***/
+/*** CPQ BASE VARIABLES ***/
+/*** 
+    Do not modify this variables, Instead use Themes.
+    Modify only when you are sure what you are doing and the impact it may have.
+    These variables are used in different templates/themes.
+**/
+/*** SLDS VARIABLES ***/
+/*** MIXINS ***/
+/*** MIXINS ***/
+/*** STYLES ***/
+.vlocity .cpq-sidebar-container {
+  position: absolute;
+  top: 0;
+  right: 8px;
+  bottom: 0;
+  left: 8px; }
+
+.vlocity .cpq-searchbox {
+  vertical-align: middle;
+  margin-bottom: 10px; }
+  .vlocity .cpq-searchbox input {
+    background-color: #FFFFFF;
+    border-radius: 0px;
+    border: 1px solid #FFFFFF; }
+
+.vlocity .cpq-tabs-container {
+  padding-bottom: 10px; }
+
+.vlocity .cpq-filter-container {
+  background-color: #FFFFFF;
+  margin-bottom: 3px; }
+  .vlocity .cpq-filter-container section {
+    padding: 6px 0px;
+    margin: 0px 16px; }
+  .vlocity .cpq-filter-container a {
+    text-decoration: none;
+    color: #16325c; }
+    .vlocity .cpq-filter-container a:hover {
+      color: #008ab3; }
+
+.vlocity .cpq-items-container {
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+  background-color: #FFFFFF; }
+  .vlocity .cpq-items-container .cpq-no-products-msg {
+    padding: 10px; }
+
+.vlocity hr {
+  margin: 1em 0; }
+
+@media screen and (max-width: 64em) {
+  .vlocity .cpq-sidebar-container {
+    top: 12px;
+    right: 12px;
+    bottom: 12px;
+    left: 12px; } }

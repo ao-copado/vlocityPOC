@@ -1,0 +1,23 @@
+{
+    "Cards": [
+        "profile-account-slds",
+        "profile-account-info-slds"
+    ],
+    "dataSource": {
+        "contextVariables": [
+            {
+                "name": "params.id",
+                "val": "0013600000Gpnys"
+            }
+        ],
+        "type": "Query",
+        "value": {
+            "query": "SELECT Id, Name, BillingAddress, AccountNumber, Vlocity_Demo_Image__c, Vlocity_Demo_Name__c, RecordType.Name, Phone, PhotoURL, Type, Industry, Website FROM Account WHERE Id = '{{params.id || params.Id}}'"
+        }
+    },
+    "templates": {
+        "0": {
+            "templateUrl": "console-sidebar-slds"
+        }
+    }
+}

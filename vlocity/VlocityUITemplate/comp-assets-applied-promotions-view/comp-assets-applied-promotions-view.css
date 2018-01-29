@@ -1,0 +1,33 @@
+/*** CPQ BASE THEME VARIABLES ***/
+/*** CPQ BASE VARIABLES ***/
+/*** 
+    Do not modify this variables, Instead use Themes.
+    Modify only when you are sure what you are doing and the impact it may have.
+    These variables are used in different templates/themes.
+**/
+/*** SLDS VARIABLES ***/
+.vlocity .assets-promotions-view .assets-promo-items-tab-content {
+  padding-top: 0px;
+  /* slds override */ }
+
+.vlocity .assets-promotions-view .assets-promo-item-border, .vlocity .assets-promotions-view .assets-base-promo.assets-promo-header, .vlocity .assets-promotions-view .assets-base-promo.assets-promo-item {
+  padding: 10px 0px;
+  margin: 0px 16px;
+  border-bottom: 1px solid #d8dde6; }
+
+.vlocity .assets-promotions-view .assets-base-promo {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-end; }
+  .vlocity .assets-promotions-view .assets-base-promo.assets-promo-header {
+    font-size: 11px; }
+  .vlocity .assets-promotions-view .assets-base-promo .assets-promo-name {
+    flex: 5;
+    padding: 0 6px 0 0; }
+    .vlocity .assets-promotions-view .assets-base-promo .assets-promo-name .assets-promo-item-bookmark-change, .vlocity .assets-promotions-view .assets-base-promo .assets-promo-name .assets-promo-item-bookmark-existing, .vlocity .assets-promotions-view .assets-base-promo .assets-promo-name .assets-promo-item-bookmark-disconnect {
+      color: #f65327; }
+    .vlocity .assets-promotions-view .assets-base-promo .assets-promo-name .assets-promo-item-bookmark-add, .vlocity .assets-promotions-view .assets-base-promo .assets-promo-name .assets-promo-item-bookmark-default {
+      color: #0058C6; }
+
+.vlocity .assets-promotions-view .assets-no-items-msg {
+  padding: 40px 10px; }

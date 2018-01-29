@@ -1,0 +1,32 @@
+.vlocity .flyout-actions-card {
+  float: left;
+  margin-right: 10px; }
+  .vlocity .flyout-actions-card .title {
+    font-weight: bold;
+    padding-bottom: 10px;
+    text-transform: uppercase; }
+  .vlocity .flyout-actions-card ul {
+    width: 350px;
+    max-width: 400px; }
+    .vlocity .flyout-actions-card ul li {
+      float: left;
+      width: 170px;
+      height: 40px;
+      padding: 10px 10px 10px 0px; }
+      .vlocity .flyout-actions-card ul li a {
+        font-size: 12px; }
+        .vlocity .flyout-actions-card ul li a:hover span {
+          color: #05a6df; }
+        .vlocity .flyout-actions-card ul li a i {
+          display: table-cell;
+          vertical-align: middle;
+          font-size: 25px;
+          line-height: 25px;
+          color: #05a6df;
+          width: 35px; }
+        .vlocity .flyout-actions-card ul li a span {
+          display: table-cell;
+          vertical-align: middle;
+          color: #9999a7;
+          font-size: 12px;
+          line-height: 16px; }

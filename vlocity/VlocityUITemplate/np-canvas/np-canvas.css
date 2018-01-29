@@ -1,0 +1,22 @@
+/*** STYLES ***/
+/* variables */
+/* colors */
+/* font sizes */
+/* line heights */
+.vlocity {
+  /* Always use vlocity class as a wrapper */ }
+  .vlocity .np-canvas {
+    background: #ffffff;
+    color: #16325c; }
+    .vlocity .np-canvas.np-border {
+      border: 0px solid rgba(231, 236, 243, 0.54); }
+    .vlocity .np-canvas .np-session--title {
+      font-size: 32px; }
+      .vlocity .np-canvas .np-session--title:after {
+        content: "";
+        background: #ff7900;
+        position: absolute;
+        bottom: -20px;
+        left: 0;
+        width: 50px;
+        height: 3px; }

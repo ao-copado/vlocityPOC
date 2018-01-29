@@ -1,0 +1,24 @@
+/* variables */
+/* colors */
+/* font sizes */
+/* line heights */
+/*** STYLES ***/
+.vlocity {
+  /* Always use vlocity class as a wrapper */ }
+  .vlocity .npStatement-media-canvas {
+    color: #16325c; }
+    .vlocity .npStatement-media-canvas h3 {
+      color: #16325c; }
+    .vlocity .npStatement-media-canvas
+.np-card {
+      background: #fff;
+      border-color: #fff; }
+    .vlocity .npStatement-media-canvas .np-session--title {
+      font-size: 28px; }
+      .vlocity .npStatement-media-canvas .np-session--title:after {
+        content: "";
+        position: absolute;
+        bottom: -20px;
+        left: 0;
+        width: 50px;
+        height: 3px; }

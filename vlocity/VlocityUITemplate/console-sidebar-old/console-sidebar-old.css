@@ -1,0 +1,8 @@
+.vlocity .slob .col-xs-7, .vlocity .slob .col-xs-5 {
+  padding: 0px; }
+
+@media (max-width: 400px) {
+  .vlocity .slob {
+    padding: 0px; }
+    .vlocity .slob .col-xs-7, .vlocity .slob .col-xs-5 {
+      width: 100%; } }

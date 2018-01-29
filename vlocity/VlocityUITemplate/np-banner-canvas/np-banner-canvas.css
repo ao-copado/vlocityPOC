@@ -1,0 +1,46 @@
+/* variables */
+/* colors */
+/* font sizes */
+/* line heights */
+.vlocity {
+  /* Always use vlocity class as a wrapper */ }
+  .vlocity .np-hero-resource-card {
+    position: relative; }
+    .vlocity .np-hero-resource-card .np-hero-resource-card-carouse--buttons input {
+      display: none; }
+    .vlocity .np-hero-resource-card .np-hero-resource-card-carouse--buttons {
+      left: 0;
+      right: 0;
+      bottom: 20px;
+      position: absolute;
+      text-align: center; }
+      .vlocity .np-hero-resource-card .np-hero-resource-card-carouse--buttons li {
+        padding: 0 10px;
+        display: inline-block; }
+        .vlocity .np-hero-resource-card .np-hero-resource-card-carouse--buttons li label {
+          background-color: #EEF1F6;
+          bottom: 0;
+          border-radius: 100%;
+          cursor: pointer;
+          height: 8px;
+          transition: .25s;
+          width: 8px;
+          z-index: 10;
+          left: 50%; }
+    .vlocity .np-hero-resource-card .np-hero-resource-card-carouse--buttons input:checked + label {
+      background-color: #e06a1a; }
+    .vlocity .np-hero-resource-card .np-hero-resource-card--desc {
+      color: #fff;
+      font-size: 56px;
+      position: absolute;
+      top: 12%;
+      left: 5%;
+      padding-right: 10%;
+      line-height: 62px; }
+      .vlocity .np-hero-resource-card .np-hero-resource-card--desc .np-hero-resource-card--link {
+        color: #fff;
+        font-size: 12px; }
+  @media screen and (max-width: 767px) {
+    .vlocity.via-slds .np-hero-resource-card .np-hero-resource-card--desc {
+      font-size: 36px;
+      line-height: 42px; } }

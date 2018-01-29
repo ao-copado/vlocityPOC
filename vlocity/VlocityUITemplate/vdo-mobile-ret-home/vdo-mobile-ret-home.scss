@@ -1,0 +1,211 @@
+.vlocity {
+    /* Uncomment for Vlocity Editor preview */
+    min-height: 640px;
+    
+    .home-container {
+        $card-padding-top: 2em;
+        $card-padding-horizontal: 2em;
+        $card-padding-bottom: 2em;
+        $card-padding: $card-padding-top
+                       $card-padding-horizontal
+                       $card-padding-bottom;
+        
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: 0;
+        padding: 0;
+        
+        font-size: 1rem;
+        
+        background-size: cover;
+        
+        .column-divider {
+            position: absolute;
+            top: $card-padding-top + 0.5em;
+            bottom: $card-padding-bottom + 0.5em;
+            left: 50%;
+            width: 2px;
+            background-color: rgba(231, 236, 243, 0.54);
+        }
+        
+        .left-coloumn {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 50%;
+            bottom: 0;
+            
+            margin: 0;
+            padding: 0;
+        }
+        
+        
+        .right-coloumn {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 50%;
+            right: 0;
+            
+            margin: 0;
+            padding: 0;
+        }
+        
+        .left-wrapper, .right-wrapper {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            margin: $card-padding;
+            padding: 0;
+            
+            .home-actions {
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                left: 0;
+                right: 0;
+            }
+        }
+        
+        .welcome-image{
+            width:100%;
+            display:block;
+            margin:auto;
+            margin-top:-10px;
+        }
+        
+        .cards-container{
+            overflow: visible;
+        }
+            
+        .left-wrapper {
+            border-radius: 5px;
+            overflow:hidden;
+            background: #fcfcfc;
+            background: -moz-linear-gradient(top, #F8FBFE 0%, #EDF2F8 53%, #EDF2F8 53%, #EDF2F8 57%, #D1D9E9 100%);
+            background: -webkit-linear-gradient(top, #F8FBFE 0%, #EDF2F8 53%, #EDF2F8 53%, #EDF2F8 57%, #D1D9E9 100%);
+            background: linear-gradient(to bottom, #F8FBFE 0%, #EDF2F8 53%, #EDF2F8 53%, #EDF2F8 57%, #D1D9E9 100%);
+            filter: progid:npImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#dbdbdb',GradientType=0 );
+            
+        }
+        
+        .home-logo {
+        
+            background-image: url(https://vdo-cmt--c.na30.content.force.com/servlet/servlet.ImageServer?id=01536000003KbcD&oid=00D36000000qC4j&lastMod=1508518237000);
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center top;
+            
+            position: absolute;
+            top: 14%;
+            left: 15%;
+            right: 15%;
+            height: 20%;
+         }
+         
+        .left-content {
+            position: absolute;
+            top: 35%;
+            bottom: 5em;
+            left: 1em;
+            right: 1em;
+        }
+         
+        .search-box {
+            input {
+                background-color: #e8eef5;
+                border: none;
+                font-size: 0.8em;
+                color:#16325c;
+                padding: 0.5rem 1rem;
+                 
+                &::placeholder {
+                    color:#16325c;
+                }
+                
+                &::-webkit-input-placeholder {
+                    color:#16325c;
+                }
+            }
+        }
+         
+        .welcome-message {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 2em;
+			font-weight: lighter;
+			color: #16325c;
+			
+			span{
+			    font-size:18px;
+			}
+        }
+        
+        .learn-more-link {
+            margin-top: 1em;
+            text-align: center;
+            
+            a {
+                padding-bottom: 0.25em;
+                color:#0070d2;
+                font-size:18px;
+                
+                &:link, &:active, &:hover, &:visited {
+                    text-decoration: none;
+                }
+            }
+        }
+        
+        .search-results {
+            position: absolute;
+            top: 2em;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            margin-top: 0.25em;
+            background: white;
+            overflow-y: auto;
+            
+            border-radius: 5px;
+
+            li {
+                position: relative;
+                border-bottom: 1px solid #E0E5EE;
+                padding: 1em;
+            }
+            
+            .search-result-name {
+                color: #061C3F;
+            }
+            
+            .search-result-phone {
+                color: #4B749A;
+            }
+            
+            .search-result-location {
+                position: absolute;
+                top: 1em;
+                right: 1em;
+                
+                color: #4B749A;
+            }
+        }
+         
+        .sign-out-btn {
+            position: absolute;
+            bottom: 1.8em;
+            width: 100%;
+            text-align: center;
+            
+            button {
+                color: #FFF;
+                font-size: 1em;
+            }
+        }
+   }
+}

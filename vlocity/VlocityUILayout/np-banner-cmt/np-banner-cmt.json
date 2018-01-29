@@ -1,0 +1,12 @@
+{
+    "Cards": [
+        "np-resource-banner"
+    ],
+    "templates": {
+        "0": {
+            "templateUrl": "np-banner-canvas"
+        }
+    },
+    "zones": {
+    }
+}

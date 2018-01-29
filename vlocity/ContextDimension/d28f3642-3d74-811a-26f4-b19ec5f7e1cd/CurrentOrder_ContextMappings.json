@@ -1,0 +1,24 @@
+[
+    {
+        "%vlocity_namespace%__ContextScopeId__c": {
+            "%vlocity_namespace%__GlobalKey__c": null,
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:a3r1N000000R6geQAC",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__ContextScope__c"
+        },
+        "%vlocity_namespace%__Dimension__c": {
+            "%vlocity_namespace%__GlobalKey__c": "d28f3642-3d74-811a-26f4-b19ec5f7e1cd",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__ContextDimension__c/d28f3642-3d74-811a-26f4-b19ec5f7e1cd",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__ContextDimension__c"
+        },
+        "%vlocity_namespace%__EffectiveFromDate__c": "2017-01-01T00:00:00.000Z",
+        "%vlocity_namespace%__InitializationPolicy__c": "Do Not Reinitialize",
+        "%vlocity_namespace%__InitializationType__c": "Scope SObject",
+        "%vlocity_namespace%__IsActive__c": true,
+        "%vlocity_namespace%__Scope__c": "Order",
+        "%vlocity_namespace%__Sequence__c": 0,
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__ContextMapping__c"
+    }
+]

@@ -1,0 +1,29 @@
+/* variables */
+/* colors */
+/* font sizes */
+/* line heights */
+/*** STYLES ***/
+.vlocity {
+  /* Always use vlocity class as a wrapper */ }
+  .vlocity .policy-asset-drivers--card {
+    position: relative;
+    cursor: pointer; }
+    .vlocity .policy-asset-drivers--card p {
+      font-size: 16px; }
+    .vlocity .policy-asset-drivers--card
+.custom-button-close {
+      position: absolute;
+      top: 8px;
+      right: 8px;
+      cursor: pointer; }
+    .vlocity .policy-asset-drivers--card.custom-bg {
+      background: #F9FBFE;
+      border: none;
+      border-radius: 0px;
+      height: 100%;
+      min-width: 190px; }
+    .vlocity .policy-asset-drivers--card img {
+      width: 60px;
+      border-radius: 60px; }
+    .vlocity .policy-asset-drivers--card:hover {
+      background: #e8eef5; }

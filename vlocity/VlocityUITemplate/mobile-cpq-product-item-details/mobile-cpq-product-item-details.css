@@ -1,0 +1,56 @@
+.cpq-product-item-details .product-order-form {
+  display: flex;
+  justify-items: flex-start; }
+
+.cpq-product-item-details .product-gallery {
+  flex-grow: 0;
+  flex-shrink: 0;
+  width: 25%;
+  margin-right: 2em;
+  /* Ensure only first image is shown until carousel support is added */ }
+  .cpq-product-item-details .product-gallery ul li {
+    display: none; }
+  .cpq-product-item-details .product-gallery ul li:first-child {
+    display: block; }
+
+.cpq-product-item-details .product-details {
+  flex-grow: 1;
+  position: relative; }
+
+.cpq-product-item-details .product-name {
+  font-size: 2.25em;
+  color: #061C3F;
+  margin-bottom: 1.5rem; }
+
+.cpq-product-item-details .rating {
+  margin-bottom: 1em; }
+  .cpq-product-item-details .rating .star {
+    display: inline-block;
+    margin-right: 0.25em;
+    width: 1em;
+    height: 1em;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain; }
+  .cpq-product-item-details .rating .star-filled {
+    background-image: url("https://c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000001gHjd&oid=00D41000002IGRk&lastMod=1488000483000"); }
+  .cpq-product-item-details .rating .star-unfilled {
+    background-image: url("https://c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000001gHji&oid=00D41000002IGRk&lastMod=1488000571000"); }
+
+.cpq-product-item-details .description {
+  font-size: 1em;
+  color: #54698D;
+  margin-bottom: 2.5em; }
+
+.cpq-product-item-details .product-features .features-label {
+  margin-bottom: 0.25em; }
+
+.cpq-product-item-details .pricing-options {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 2.5em;
+  padding-left: 2em; }
+  .cpq-product-item-details .pricing-options .price {
+    margin-right: 3em;
+    font-size: 1.375em;
+    color: #061C3F; }

@@ -1,0 +1,23 @@
+.via-slds .vdo-consumer-layout .slds-active .slds-tabs--scoped__link {
+  border: none; }
+
+.via-slds .vdo-consumer-layout .slds-tabs--scoped__nav {
+  margin-bottom: 0px; }
+
+.via-slds .vdo-consumer-layout .slds-tabs--scoped__link {
+  height: 170px;
+  padding: 2.5rem 2rem 1.5rem;
+  line-height: 1.5rem; }
+  .via-slds .vdo-consumer-layout .slds-tabs--scoped__link svg {
+    display: block;
+    margin: auto;
+    margin-bottom: 10px; }
+
+.via-slds .vdo-consumer-layout .slds-tabs--scoped__nav, .via-slds .vdo-consumer-layout .slds-tabs--scoped__content {
+  border: none; }
+
+.via-slds .vdo-consumer-layout .vdo-tab-add {
+  opacity: 0.7; }
+
+.via-slds .vdo-consumer-layout .vdo-device-type {
+  text-transform: uppercase; }

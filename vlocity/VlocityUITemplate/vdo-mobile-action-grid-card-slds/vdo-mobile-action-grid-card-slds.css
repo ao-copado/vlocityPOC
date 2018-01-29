@@ -1,0 +1,39 @@
+.via-slds .via-slds-action-grid-card {
+  flex-wrap: wrap; }
+  .via-slds .via-slds-action-grid-card .via-icon {
+    font-size: 2.5em;
+    color: #0070d2; }
+  .via-slds .via-slds-action-grid-card .via-slds-button {
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    color: #54698d; }
+    .via-slds .via-slds-action-grid-card .via-slds-button p {
+      font-size: 12px;
+      line-height: 20px;
+      color: #0070d2;
+      overflow-wrap: normal;
+      margin-top: 5px; }
+  .via-slds .via-slds-action-grid-card .via-slds-button:hover {
+    text-decoration: none;
+    color: #FF6E0D; }
+    .via-slds .via-slds-action-grid-card .via-slds-button:hover p {
+      color: #FF6E0D; }
+  .via-slds .via-slds-action-grid-card .via-action-icon:before {
+    font-size: 250%; }
+  .via-slds .via-slds-action-grid-card .retail-action {
+    width: 25% !important;
+    height: 85px; }
+  .via-slds .via-slds-action-grid-card .recommend {
+    position: absolute;
+    top: 10px;
+    left: -13px; }
+  .via-slds .via-slds-action-grid-card .recommend img {
+    width: 40px !important;
+    height: 40px;
+    border: 5px solid #EEF1F6;
+    border-radius: 35px;
+    position: relative;
+    top: -20px;
+    left: 5px; }

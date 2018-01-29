@@ -1,0 +1,68 @@
+.asset-detail.slds-card.slds-card--narrow {
+  padding: 1.25rem 2rem 1.75rem;
+  background-color: #FFF; }
+  .asset-detail.slds-card.slds-card--narrow .slds-card__header {
+    position: relative;
+    padding: 0; }
+
+.asset-detail .slds-text-heading--small {
+  font-size: 0.875rem;
+  font-weight: bold; }
+
+.asset-detail .slds-text-heading--warning {
+  color: #C23934; }
+
+.asset-detail .more-options-button {
+  position: absolute;
+  top: 0;
+  right: 0; }
+
+.asset-detail .slds-card__body .asset-information {
+  justify-content: flex-start;
+  margin-bottom: 3em; }
+
+.asset-detail .slds-card__body .asset-actions {
+  justify-content: space-between;
+  padding: 0 1em; }
+
+.asset-detail .slds-card__body .account-data, .asset-detail .slds-card__body .plan-details {
+  margin-left: 2.5em; }
+
+.asset-detail .slds-card__body .asset-preview {
+  flex-grow: 0;
+  width: 80px; }
+  .asset-detail .slds-card__body .asset-preview img {
+    max-width: 100%;
+    max-height: 100%; }
+
+.asset-detail .slds-card__body .account-data {
+  flex-grow: 0; }
+  .asset-detail .slds-card__body .account-data .account-type {
+    font-size: 0.875rem;
+    font-weight: bold;
+    color: #00A3E3;
+    text-transform: uppercase; }
+  .asset-detail .slds-card__body .account-data .account-holder {
+    font-size: 1.125rem;
+    color: #061C3F; }
+  .asset-detail .slds-card__body .account-data .model-name {
+    font-size: 0.875rem;
+    color: #061C3F; }
+
+.asset-detail .slds-card__body .plan-details {
+  width: 30%; }
+  .asset-detail .slds-card__body .plan-details .field-label {
+    color: #54698D;
+    padding-right: 1.5em; }
+  .asset-detail .slds-card__body .plan-details .field-value {
+    color: #061C3F;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; }
+
+.asset-detail .slds-card__body .asset-actions .slds-button {
+  width: 20%;
+  font-size: 0.875rem;
+  font-weight: bold;
+  color: #0070D2;
+  line-height: 2.75em; }

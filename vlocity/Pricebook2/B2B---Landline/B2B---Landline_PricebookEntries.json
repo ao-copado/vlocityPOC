@@ -1,0 +1,405 @@
+[
+    {
+        "%vlocity_namespace%__FloorPrice__c": "",
+        "%vlocity_namespace%__OverageCharge__c": "",
+        "%vlocity_namespace%__OverageUOM__c": "",
+        "%vlocity_namespace%__RecurringPrice__c": 0,
+        "%vlocity_namespace%__RecurringUOM__c": "Monthly",
+        "IsActive": true,
+        "Name": "Business Phone - 1000 Series",
+        "One_Time_Cost__c": "",
+        "Pricebook2.Name": "B2B - Landline",
+        "Pricebook2Id": {
+            "Name": "B2B - Landline",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Pricebook2/B2B - Landline",
+            "VlocityRecordSObjectType": "Pricebook2"
+        },
+        "Product2Id": {
+            "%vlocity_namespace%__GlobalKey__c": null,
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYcWQAX",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "ProductCode": "VLO-PHN-0006",
+        "Recurring_Cost__c": "",
+        "SOHO_One_Time_Discount__c": "",
+        "UnitPrice": 50,
+        "UseStandardPrice": true,
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "PricebookEntry",
+        "VlocityRecordSourceKey": "PricebookEntry/Pricebook2/B2B - Landline/VlocityRecordSourceKey:01t1N00000EUYcWQAX"
+    },
+    {
+        "%vlocity_namespace%__FloorPrice__c": "",
+        "%vlocity_namespace%__OverageCharge__c": "",
+        "%vlocity_namespace%__OverageUOM__c": "",
+        "%vlocity_namespace%__RecurringPrice__c": 0,
+        "%vlocity_namespace%__RecurringUOM__c": "Monthly",
+        "IsActive": true,
+        "Name": "Business Phone - 2000 Series",
+        "One_Time_Cost__c": "",
+        "Pricebook2.Name": "B2B - Landline",
+        "Pricebook2Id": {
+            "Name": "B2B - Landline",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Pricebook2/B2B - Landline",
+            "VlocityRecordSObjectType": "Pricebook2"
+        },
+        "Product2Id": {
+            "%vlocity_namespace%__GlobalKey__c": null,
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYcXQAX",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "ProductCode": "VLO-PHN-0007",
+        "Recurring_Cost__c": "",
+        "SOHO_One_Time_Discount__c": "",
+        "UnitPrice": 75,
+        "UseStandardPrice": true,
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "PricebookEntry",
+        "VlocityRecordSourceKey": "PricebookEntry/Pricebook2/B2B - Landline/VlocityRecordSourceKey:01t1N00000EUYcXQAX"
+    },
+    {
+        "%vlocity_namespace%__FloorPrice__c": "",
+        "%vlocity_namespace%__OverageCharge__c": "",
+        "%vlocity_namespace%__OverageUOM__c": "",
+        "%vlocity_namespace%__RecurringPrice__c": 0,
+        "%vlocity_namespace%__RecurringUOM__c": "Monthly",
+        "IsActive": true,
+        "Name": "Business Phone - 3000 Series",
+        "One_Time_Cost__c": "",
+        "Pricebook2.Name": "B2B - Landline",
+        "Pricebook2Id": {
+            "Name": "B2B - Landline",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Pricebook2/B2B - Landline",
+            "VlocityRecordSObjectType": "Pricebook2"
+        },
+        "Product2Id": {
+            "%vlocity_namespace%__GlobalKey__c": null,
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYcYQAX",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "ProductCode": "VLO-PHN-0008",
+        "Recurring_Cost__c": "",
+        "SOHO_One_Time_Discount__c": "",
+        "UnitPrice": 100,
+        "UseStandardPrice": true,
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "PricebookEntry",
+        "VlocityRecordSourceKey": "PricebookEntry/Pricebook2/B2B - Landline/VlocityRecordSourceKey:01t1N00000EUYcYQAX"
+    },
+    {
+        "%vlocity_namespace%__FloorPrice__c": "",
+        "%vlocity_namespace%__OverageCharge__c": "",
+        "%vlocity_namespace%__OverageUOM__c": "",
+        "%vlocity_namespace%__RecurringPrice__c": 35,
+        "%vlocity_namespace%__RecurringUOM__c": "Monthly",
+        "IsActive": true,
+        "Name": "Business Landline Large",
+        "One_Time_Cost__c": "",
+        "Pricebook2.Name": "B2B - Landline",
+        "Pricebook2Id": {
+            "Name": "B2B - Landline",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Pricebook2/B2B - Landline",
+            "VlocityRecordSObjectType": "Pricebook2"
+        },
+        "Product2Id": {
+            "%vlocity_namespace%__GlobalKey__c": null,
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYcpQAH",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "ProductCode": "VLO-PHN-0003",
+        "Recurring_Cost__c": "",
+        "SOHO_One_Time_Discount__c": "",
+        "UnitPrice": 0,
+        "UseStandardPrice": true,
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "PricebookEntry",
+        "VlocityRecordSourceKey": "PricebookEntry/Pricebook2/B2B - Landline/VlocityRecordSourceKey:01t1N00000EUYcpQAH"
+    },
+    {
+        "%vlocity_namespace%__FloorPrice__c": "",
+        "%vlocity_namespace%__OverageCharge__c": "",
+        "%vlocity_namespace%__OverageUOM__c": "",
+        "%vlocity_namespace%__RecurringPrice__c": 50,
+        "%vlocity_namespace%__RecurringUOM__c": "Monthly",
+        "IsActive": true,
+        "Name": "Business Landline Extra Large",
+        "One_Time_Cost__c": "",
+        "Pricebook2.Name": "B2B - Landline",
+        "Pricebook2Id": {
+            "Name": "B2B - Landline",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Pricebook2/B2B - Landline",
+            "VlocityRecordSObjectType": "Pricebook2"
+        },
+        "Product2Id": {
+            "%vlocity_namespace%__GlobalKey__c": null,
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYcqQAH",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "ProductCode": "VLO-PHN-0004",
+        "Recurring_Cost__c": "",
+        "SOHO_One_Time_Discount__c": "",
+        "UnitPrice": 0,
+        "UseStandardPrice": true,
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "PricebookEntry",
+        "VlocityRecordSourceKey": "PricebookEntry/Pricebook2/B2B - Landline/VlocityRecordSourceKey:01t1N00000EUYcqQAH"
+    },
+    {
+        "%vlocity_namespace%__FloorPrice__c": "",
+        "%vlocity_namespace%__OverageCharge__c": "",
+        "%vlocity_namespace%__OverageUOM__c": "",
+        "%vlocity_namespace%__RecurringPrice__c": 25,
+        "%vlocity_namespace%__RecurringUOM__c": "Monthly",
+        "IsActive": true,
+        "Name": "Business Landline Medium",
+        "One_Time_Cost__c": "",
+        "Pricebook2.Name": "B2B - Landline",
+        "Pricebook2Id": {
+            "Name": "B2B - Landline",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Pricebook2/B2B - Landline",
+            "VlocityRecordSObjectType": "Pricebook2"
+        },
+        "Product2Id": {
+            "%vlocity_namespace%__GlobalKey__c": null,
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYcrQAH",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "ProductCode": "VLO-PHN-0002",
+        "Recurring_Cost__c": "",
+        "SOHO_One_Time_Discount__c": "",
+        "UnitPrice": 0,
+        "UseStandardPrice": true,
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "PricebookEntry",
+        "VlocityRecordSourceKey": "PricebookEntry/Pricebook2/B2B - Landline/VlocityRecordSourceKey:01t1N00000EUYcrQAH"
+    },
+    {
+        "%vlocity_namespace%__FloorPrice__c": "",
+        "%vlocity_namespace%__OverageCharge__c": "",
+        "%vlocity_namespace%__OverageUOM__c": "",
+        "%vlocity_namespace%__RecurringPrice__c": 15,
+        "%vlocity_namespace%__RecurringUOM__c": "Monthly",
+        "IsActive": true,
+        "Name": "Business Landline Small",
+        "One_Time_Cost__c": "",
+        "Pricebook2.Name": "B2B - Landline",
+        "Pricebook2Id": {
+            "Name": "B2B - Landline",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Pricebook2/B2B - Landline",
+            "VlocityRecordSObjectType": "Pricebook2"
+        },
+        "Product2Id": {
+            "%vlocity_namespace%__GlobalKey__c": null,
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYcsQAH",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "ProductCode": "VLO-PHN-0001",
+        "Recurring_Cost__c": "",
+        "SOHO_One_Time_Discount__c": "",
+        "UnitPrice": 0,
+        "UseStandardPrice": true,
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "PricebookEntry",
+        "VlocityRecordSourceKey": "PricebookEntry/Pricebook2/B2B - Landline/VlocityRecordSourceKey:01t1N00000EUYcsQAH"
+    },
+    {
+        "%vlocity_namespace%__FloorPrice__c": "",
+        "%vlocity_namespace%__OverageCharge__c": "",
+        "%vlocity_namespace%__OverageUOM__c": "",
+        "%vlocity_namespace%__RecurringPrice__c": 0,
+        "%vlocity_namespace%__RecurringUOM__c": "Monthly",
+        "IsActive": true,
+        "Name": "Premise PBX",
+        "One_Time_Cost__c": "",
+        "Pricebook2.Name": "B2B - Landline",
+        "Pricebook2Id": {
+            "Name": "B2B - Landline",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Pricebook2/B2B - Landline",
+            "VlocityRecordSObjectType": "Pricebook2"
+        },
+        "Product2Id": {
+            "%vlocity_namespace%__GlobalKey__c": null,
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYeYQAX",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "ProductCode": "VLO-PHN-0012",
+        "Recurring_Cost__c": "",
+        "SOHO_One_Time_Discount__c": "",
+        "UnitPrice": 650,
+        "UseStandardPrice": true,
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "PricebookEntry",
+        "VlocityRecordSourceKey": "PricebookEntry/Pricebook2/B2B - Landline/VlocityRecordSourceKey:01t1N00000EUYeYQAX"
+    },
+    {
+        "%vlocity_namespace%__FloorPrice__c": "",
+        "%vlocity_namespace%__OverageCharge__c": "",
+        "%vlocity_namespace%__OverageUOM__c": "",
+        "%vlocity_namespace%__RecurringPrice__c": 100,
+        "%vlocity_namespace%__RecurringUOM__c": "Monthly",
+        "IsActive": true,
+        "Name": "Virtual PBX",
+        "One_Time_Cost__c": "",
+        "Pricebook2.Name": "B2B - Landline",
+        "Pricebook2Id": {
+            "Name": "B2B - Landline",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Pricebook2/B2B - Landline",
+            "VlocityRecordSObjectType": "Pricebook2"
+        },
+        "Product2Id": {
+            "%vlocity_namespace%__GlobalKey__c": null,
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYeZQAX",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "ProductCode": "VLO-PHN-0011",
+        "Recurring_Cost__c": "",
+        "SOHO_One_Time_Discount__c": "",
+        "UnitPrice": 0,
+        "UseStandardPrice": true,
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "PricebookEntry",
+        "VlocityRecordSourceKey": "PricebookEntry/Pricebook2/B2B - Landline/VlocityRecordSourceKey:01t1N00000EUYeZQAX"
+    },
+    {
+        "%vlocity_namespace%__FloorPrice__c": "",
+        "%vlocity_namespace%__OverageCharge__c": "",
+        "%vlocity_namespace%__OverageUOM__c": "",
+        "%vlocity_namespace%__RecurringPrice__c": 0,
+        "%vlocity_namespace%__RecurringUOM__c": "Monthly",
+        "IsActive": true,
+        "Name": "Landline Installation and Activation",
+        "One_Time_Cost__c": "",
+        "Pricebook2.Name": "B2B - Landline",
+        "Pricebook2Id": {
+            "Name": "B2B - Landline",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Pricebook2/B2B - Landline",
+            "VlocityRecordSObjectType": "Pricebook2"
+        },
+        "Product2Id": {
+            "%vlocity_namespace%__GlobalKey__c": null,
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYeaQAH",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "ProductCode": "VLO-PHN-0010",
+        "Recurring_Cost__c": "",
+        "SOHO_One_Time_Discount__c": "",
+        "UnitPrice": 250,
+        "UseStandardPrice": true,
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "PricebookEntry",
+        "VlocityRecordSourceKey": "PricebookEntry/Pricebook2/B2B - Landline/VlocityRecordSourceKey:01t1N00000EUYeaQAH"
+    },
+    {
+        "%vlocity_namespace%__FloorPrice__c": "",
+        "%vlocity_namespace%__OverageCharge__c": "",
+        "%vlocity_namespace%__OverageUOM__c": "",
+        "%vlocity_namespace%__RecurringPrice__c": 25,
+        "%vlocity_namespace%__RecurringUOM__c": "Monthly",
+        "IsActive": true,
+        "Name": "Business VOIP",
+        "One_Time_Cost__c": "",
+        "Pricebook2.Name": "B2B - Landline",
+        "Pricebook2Id": {
+            "Name": "B2B - Landline",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Pricebook2/B2B - Landline",
+            "VlocityRecordSObjectType": "Pricebook2"
+        },
+        "Product2Id": {
+            "%vlocity_namespace%__GlobalKey__c": null,
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYebQAH",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "ProductCode": "VLO-PHN-0009",
+        "Recurring_Cost__c": "",
+        "SOHO_One_Time_Discount__c": "",
+        "UnitPrice": 50,
+        "UseStandardPrice": true,
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "PricebookEntry",
+        "VlocityRecordSourceKey": "PricebookEntry/Pricebook2/B2B - Landline/VlocityRecordSourceKey:01t1N00000EUYebQAH"
+    },
+    {
+        "%vlocity_namespace%__FloorPrice__c": "",
+        "%vlocity_namespace%__OverageCharge__c": "",
+        "%vlocity_namespace%__OverageUOM__c": "",
+        "%vlocity_namespace%__RecurringPrice__c": 250,
+        "%vlocity_namespace%__RecurringUOM__c": "Monthly",
+        "IsActive": true,
+        "Name": "Premium Service & Support Contract",
+        "One_Time_Cost__c": "",
+        "Pricebook2.Name": "B2B - Landline",
+        "Pricebook2Id": {
+            "Name": "B2B - Landline",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Pricebook2/B2B - Landline",
+            "VlocityRecordSObjectType": "Pricebook2"
+        },
+        "Product2Id": {
+            "%vlocity_namespace%__GlobalKey__c": null,
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYehQAH",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "ProductCode": "VLO-SUP-0002",
+        "Recurring_Cost__c": "",
+        "SOHO_One_Time_Discount__c": "",
+        "UnitPrice": 0,
+        "UseStandardPrice": true,
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "PricebookEntry",
+        "VlocityRecordSourceKey": "PricebookEntry/Pricebook2/B2B - Landline/VlocityRecordSourceKey:01t1N00000EUYehQAH"
+    },
+    {
+        "%vlocity_namespace%__FloorPrice__c": "",
+        "%vlocity_namespace%__OverageCharge__c": "",
+        "%vlocity_namespace%__OverageUOM__c": "",
+        "%vlocity_namespace%__RecurringPrice__c": 100,
+        "%vlocity_namespace%__RecurringUOM__c": "Monthly",
+        "IsActive": true,
+        "Name": "Standard Service & Support Contract",
+        "One_Time_Cost__c": "",
+        "Pricebook2.Name": "B2B - Landline",
+        "Pricebook2Id": {
+            "Name": "B2B - Landline",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "Pricebook2/B2B - Landline",
+            "VlocityRecordSObjectType": "Pricebook2"
+        },
+        "Product2Id": {
+            "%vlocity_namespace%__GlobalKey__c": null,
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYeiQAH",
+            "VlocityRecordSObjectType": "Product2"
+        },
+        "ProductCode": "VLO-SUP-0001",
+        "Recurring_Cost__c": "",
+        "SOHO_One_Time_Discount__c": "",
+        "UnitPrice": 0,
+        "UseStandardPrice": true,
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "PricebookEntry",
+        "VlocityRecordSourceKey": "PricebookEntry/Pricebook2/B2B - Landline/VlocityRecordSourceKey:01t1N00000EUYeiQAH"
+    }
+]
