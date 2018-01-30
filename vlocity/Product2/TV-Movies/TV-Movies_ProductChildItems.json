@@ -15,7 +15,7 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYbfQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErcQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 1,
@@ -25,14 +25,14 @@
         "Name": "Root TV Movies",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458hmQAA"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kkpQAA"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "1",
         "%vlocity_namespace%__ChildProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYbVQAX",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErBQAU",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__CollapseHierarchy__c": false,
@@ -48,7 +48,7 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYbfQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErcQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 1,
@@ -58,14 +58,14 @@
         "Name": "HD TV",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458kGQAQ"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000knJQAQ"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "2",
         "%vlocity_namespace%__ChildProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYbPQAX",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErCQAU",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__CollapseHierarchy__c": false,
@@ -81,7 +81,7 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYbfQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErcQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 1,
@@ -91,14 +91,14 @@
         "Name": "Base Channels",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458kJQAQ"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000knMQAQ"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "3",
         "%vlocity_namespace%__ChildProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYbMQAX",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErDQAU",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__CollapseHierarchy__c": false,
@@ -114,7 +114,7 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYbfQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErcQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 1,
@@ -124,14 +124,14 @@
         "Name": "Entertainment Channels",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458kKQAQ"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000knNQAQ"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "4",
         "%vlocity_namespace%__ChildProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYbLQAX",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017Et1QAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__CollapseHierarchy__c": false,
@@ -147,7 +147,7 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYbfQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErcQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 1,
@@ -157,14 +157,14 @@
         "Name": "Movie Channels",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458kLQAQ"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000knOQAQ"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "5",
         "%vlocity_namespace%__ChildProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYekQAH",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErEQAU",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__CollapseHierarchy__c": false,
@@ -180,7 +180,7 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYbfQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErcQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 1,
@@ -190,6 +190,6 @@
         "Name": "TV Installation and Activation",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458kMQAQ"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000knPQAQ"
     }
 ]

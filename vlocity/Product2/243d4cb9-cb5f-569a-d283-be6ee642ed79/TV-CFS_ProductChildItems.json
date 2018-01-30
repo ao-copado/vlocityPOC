@@ -25,7 +25,7 @@
         "Name": "Root PCI",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458mgQAA"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kpfQAA"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "1",
@@ -58,7 +58,7 @@
         "Name": "Base Channels Technical Pack",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458miQAA"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kphQAA"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "2",
@@ -91,7 +91,7 @@
         "Name": "Kids Channels Technical Pack",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458mjQAA"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kpiQAA"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "3",
@@ -124,7 +124,7 @@
         "Name": "Sports Channel Technical Pack",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458mlQAA"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kpkQAA"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "4",
@@ -157,6 +157,6 @@
         "Name": "Movie Channels Technical Pack",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458mkQAA"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kpjQAA"
     }
 ]

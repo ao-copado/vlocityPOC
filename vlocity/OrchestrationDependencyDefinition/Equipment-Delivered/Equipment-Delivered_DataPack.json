@@ -15,15 +15,15 @@
     "%vlocity_namespace%__DependencyType__c": "Depends On",
     "%vlocity_namespace%__GlobalKey__c": "",
     "%vlocity_namespace%__OrchestrationItemDefinitionId__c": {
-        "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Professional Installation",
-        "Name": "Professional Installation Complete",
+        "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Broadband Internet CFS",
+        "Name": "Router Installed",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Professional Installation Complete/%vlocity_namespace%__OrchestrationPlanDefinition__c/Professional Installation",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Router Installed/%vlocity_namespace%__OrchestrationPlanDefinition__c/Broadband Internet CFS",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__Scope__c": "",
     "Name": "Equipment Delivered",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationDependencyDefinition__c",
-    "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2Y1N000000Wa3OUAS"
+    "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2Y1I000000XvXRUA0"
 }

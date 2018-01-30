@@ -15,7 +15,7 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYe4QAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EsfQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 1,
@@ -25,6 +25,6 @@
         "Name": "Root 200 Minutes and Messages Roaming Upgrade",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458gpQAA"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kjsQAA"
     }
 ]

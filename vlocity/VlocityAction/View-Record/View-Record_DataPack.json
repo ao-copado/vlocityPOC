@@ -11,7 +11,7 @@
     "%vlocity_namespace%__InvokeMethodName__c": "",
     "%vlocity_namespace%__IsSeedAction__c": false,
     "%vlocity_namespace%__LinkType__c": "Other",
-    "%vlocity_namespace%__OpenURLMode__c": "New Tab / Window",
+    "%vlocity_namespace%__OpenURLMode__c": "Current Window",
     "%vlocity_namespace%__StateId__c": "",
     "%vlocity_namespace%__StateModelId__c": "",
     "%vlocity_namespace%__URL__c": "/{0}",

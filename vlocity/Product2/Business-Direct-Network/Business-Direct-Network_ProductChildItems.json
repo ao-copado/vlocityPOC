@@ -15,7 +15,7 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYcgQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EtoQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 1,
@@ -25,14 +25,14 @@
         "Name": "Root Business Direct Network",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458hcQAA"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kkfQAA"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "1",
         "%vlocity_namespace%__ChildProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYcaQAH",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EtmQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__CollapseHierarchy__c": false,
@@ -48,7 +48,7 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYcgQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EtoQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 5,
@@ -58,6 +58,6 @@
         "Name": "Router - 3000 Series",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458iIQAQ"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000klLQAQ"
     }
 ]

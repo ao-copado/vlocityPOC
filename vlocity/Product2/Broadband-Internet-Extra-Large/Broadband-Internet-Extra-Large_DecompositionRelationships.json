@@ -20,13 +20,13 @@
         "%vlocity_namespace%__SourceProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYckQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017Er9QAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__XORGroup__c": "",
         "Name": "Broadband Internet CFS",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/Broadband Internet CFS/VlocityRecordSourceKey:01t1N00000EUYckQAH"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/Broadband Internet CFS/VlocityRecordSourceKey:01t1I0000017Er9QAE"
     }
 ]

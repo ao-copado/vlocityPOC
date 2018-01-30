@@ -15,7 +15,7 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYcsQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErOQAU",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 1,
@@ -25,14 +25,14 @@
         "Name": "Root Business Landline Small",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458hOQAQ"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kkRQAQ"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "1",
         "%vlocity_namespace%__ChildProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYcWQAX",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErPQAU",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__CollapseHierarchy__c": false,
@@ -48,7 +48,7 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYcsQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErOQAU",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 1,
@@ -58,14 +58,14 @@
         "Name": "Business Phone - 1000 Series",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458iaQAA"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kldQAA"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "2",
         "%vlocity_namespace%__ChildProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYeZQAX",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017Er5QAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__CollapseHierarchy__c": false,
@@ -81,7 +81,7 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYcsQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErOQAU",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 1,
@@ -91,14 +91,14 @@
         "Name": "Virtual PBX",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458ieQAA"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000klhQAA"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "3",
         "%vlocity_namespace%__ChildProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYeaQAH",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017Er6QAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__CollapseHierarchy__c": false,
@@ -114,7 +114,7 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYcsQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErOQAU",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 1,
@@ -124,6 +124,6 @@
         "Name": "Landline Installation and Activation",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458iiQAA"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kllQAA"
     }
 ]

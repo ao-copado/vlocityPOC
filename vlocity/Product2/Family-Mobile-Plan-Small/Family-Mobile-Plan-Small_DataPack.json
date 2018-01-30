@@ -2,7 +2,7 @@
     "%vlocity_namespace%__ApprovedBy__c": "",
     "%vlocity_namespace%__ApprovedOn__c": "",
     "%vlocity_namespace%__AttributeAssignment__c": "Family-Mobile-Plan-Small_AttributeAssignments.json",
-    "%vlocity_namespace%__AttributeDefaultValues__c": "{\"ATTRIBUTE-015\":\"1000\",\"ATTRIBUTE-014\":\"1GB\",\"ATTRIBUTE-013\":\"1000\"}",
+    "%vlocity_namespace%__AttributeDefaultValues__c": "",
     "%vlocity_namespace%__CategoryData__c": [
         {
             "actions": {
@@ -64,7 +64,7 @@
     "%vlocity_namespace%__ProductTemplateProductId__c": {
         "%vlocity_namespace%__GlobalKey__c": null,
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYfpQAH",
+        "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EvRQAU",
         "VlocityRecordSObjectType": "Product2"
     },
     "%vlocity_namespace%__Scope__c": "",
@@ -120,6 +120,7 @@
     "Number__c": "",
     "PBX_Type__c": "",
     "Price__c": "",
+    "PricebookEntry": "Family-Mobile-Plan-Small_StandardPricebookEntry.json",
     "ProductCode": "VLO-MOB-0020",
     "Product_Channel__c": "All",
     "Product_Owner__c": "",
@@ -144,7 +145,7 @@
     "TV_Content__c": "",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "Product2",
-    "VlocityRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYfjQAH",
+    "VlocityRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017Eu0QAE",
     "Voicemail__c": "",
     "Wifi_Band__c": "",
     "Wifi_Standard__c": ""

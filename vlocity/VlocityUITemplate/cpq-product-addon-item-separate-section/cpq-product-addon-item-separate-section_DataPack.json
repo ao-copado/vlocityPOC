@@ -1,6 +1,5 @@
 {
     "%vlocity_namespace%__Author__c": "Vlocity",
-    "%vlocity_namespace%__CSS__c": "cpq-product-addon-item-separate-section.css",
     "%vlocity_namespace%__CustomJavascript__c": "",
     "%vlocity_namespace%__Definition__c": "",
     "%vlocity_namespace%__Description__c": "1) In this template: Component section ONLY displays lineItems that are NOT Addons (lineItem.defaultQuantity > 0).\n2) In this template: There is a SEPARATE Addon Section, which displays BOTH Addons that have NOT been added to cart, and those that have been added (lineItem.defaultQuantity == 0))",

@@ -22,12 +22,8 @@
         "accessibleInFutureSteps": false,
         "conditionType": "Hide if False",
         "controlWidth": 12,
-        "documentNames": [
-            "test"
-        ],
         "help": false,
         "helpText": "",
-        "hide": false,
         "label": "On a scale of 1 to 5, 1 being not likely and 5 being very likely, how likely are you to recommend our services to your friends?",
         "rangeHigh": 5,
         "rangeLow": 1,

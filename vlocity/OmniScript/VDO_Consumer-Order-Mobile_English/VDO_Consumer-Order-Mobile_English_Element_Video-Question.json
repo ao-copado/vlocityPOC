@@ -23,9 +23,6 @@
         "checkLabel": "Do you watch videos on Netflix or a similar service?",
         "conditionType": "Hide if False",
         "controlWidth": 12,
-        "documentNames": [
-            "test"
-        ],
         "help": false,
         "helpText": "",
         "label": "Do you watch videos on Netflix or a similar service?",

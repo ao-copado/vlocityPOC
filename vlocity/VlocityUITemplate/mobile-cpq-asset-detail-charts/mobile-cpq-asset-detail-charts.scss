@@ -1,42 +1,12 @@
 .asset-detail-charts-container  {
-    background: transparent;
-    width:990px !important;
-    box-sizing:border-box;
-    padding:0px !important;
-    margin:0px !important;
-}
-
-.via-slds .slds-text-heading--large {
-    font-weight: 300 !important;
-    font-size: 1.75rem;
-    line-height: 1.25;
-    color:#16325c !important;
+    background-color: #f2f2f2;
 }
 .asset-detail-charts-container .slds-card {
     min-width:100%;
 }
-article.slds-col.slds-card.slds-theme--default.slds-card--narrow{
-    padding:0px !important;
-    background: #fcfcfc;
-            background: -moz-linear-gradient(top, #F8FBFE 0%, #EDF2F8 53%, #EDF2F8 53%, #EDF2F8 57%, #D1D9E9 100%);
-            background: -webkit-linear-gradient(top, #F8FBFE 0%, #EDF2F8 53%, #EDF2F8 53%, #EDF2F8 57%, #D1D9E9 100%);
-            background: linear-gradient(to bottom, #F8FBFE 0%, #EDF2F8 53%, #EDF2F8 53%, #EDF2F8 57%, #D1D9E9 100%);
-            filter: progid:npImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#dbdbdb',GradientType=0 );
-            border:0px;
-    
-}
+
 .asset-detail-charts-container .slds-card .slds-card__header a {
     font-size: 0.6rem;
-}
-
-.slds-card__header.slds-grid{
-    padding:20px !important
-    
-}
-
-.slds-card__body.slds-p-around--large{
-    padding:20px !important
-
 }
  
 @keyframes spin {
@@ -51,7 +21,7 @@ article.slds-col.slds-card.slds-theme--default.slds-card--narrow{
   width: 70vw; 
   height: 70vw;
   border-radius: 50%;
-  background: #FF6E0D;
+  background: #4bdddb;
   background-image:
   linear-gradient(to right, transparent 50%, #d8dde6 0);
 }
@@ -75,7 +45,7 @@ article.slds-col.slds-card.slds-theme--default.slds-card--narrow{
     width: 60vw; 
     height: 60vw;
     border-radius: 50%;
-    background: #e8eef5;
+    background: #fff;
     margin-top: 5vw;
     margin-left: 5vw;
 }

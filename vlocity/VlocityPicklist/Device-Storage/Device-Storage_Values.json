@@ -14,7 +14,7 @@
         "%vlocity_namespace%__PicklistId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:a1W1N0000084XdBUAU",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:a1W1I000000VQWxUAO",
             "VlocityRecordSObjectType": "%vlocity_namespace%__Picklist__c"
         },
         "%vlocity_namespace%__Sequence__c": 4,
@@ -24,7 +24,7 @@
         "Name": "128GB",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__PicklistValue__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2j1N000001wS6SQAU"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2j1I000000LNx4QAG"
     },
     {
         "%vlocity_namespace%__Abbreviation__c": "16GB",
@@ -41,7 +41,7 @@
         "%vlocity_namespace%__PicklistId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:a1W1N0000084XdBUAU",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:a1W1I000000VQWxUAO",
             "VlocityRecordSObjectType": "%vlocity_namespace%__Picklist__c"
         },
         "%vlocity_namespace%__Sequence__c": 1,
@@ -51,7 +51,7 @@
         "Name": "16GB",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__PicklistValue__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2j1N000001wS6PQAU"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2j1I000000LNx1QAG"
     },
     {
         "%vlocity_namespace%__Abbreviation__c": "32GB",
@@ -68,7 +68,7 @@
         "%vlocity_namespace%__PicklistId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:a1W1N0000084XdBUAU",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:a1W1I000000VQWxUAO",
             "VlocityRecordSObjectType": "%vlocity_namespace%__Picklist__c"
         },
         "%vlocity_namespace%__Sequence__c": 2,
@@ -78,7 +78,7 @@
         "Name": "32GB",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__PicklistValue__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2j1N000001wS6QQAU"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2j1I000000LNx2QAG"
     },
     {
         "%vlocity_namespace%__Abbreviation__c": "64GB",
@@ -95,7 +95,7 @@
         "%vlocity_namespace%__PicklistId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:a1W1N0000084XdBUAU",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:a1W1I000000VQWxUAO",
             "VlocityRecordSObjectType": "%vlocity_namespace%__Picklist__c"
         },
         "%vlocity_namespace%__Sequence__c": 3,
@@ -105,6 +105,6 @@
         "Name": "64GB",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__PicklistValue__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2j1N000001wS6RQAU"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2j1I000000LNx3QAG"
     }
 ]

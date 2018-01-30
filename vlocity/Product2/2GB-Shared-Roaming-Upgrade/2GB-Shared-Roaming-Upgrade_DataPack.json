@@ -74,6 +74,7 @@
     "Number__c": "",
     "PBX_Type__c": "",
     "Price__c": "",
+    "PricebookEntry": "2GB-Shared-Roaming-Upgrade_StandardPricebookEntry.json",
     "ProductCode": "VLO-MOB-0088",
     "Product_Channel__c": "All",
     "Product_Owner__c": "",
@@ -98,7 +99,7 @@
     "TV_Content__c": "",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "Product2",
-    "VlocityRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYdtQAH",
+    "VlocityRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EsUQAU",
     "Voicemail__c": "",
     "Wifi_Band__c": "",
     "Wifi_Standard__c": ""

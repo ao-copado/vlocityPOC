@@ -79,6 +79,7 @@
     "Number__c": "",
     "PBX_Type__c": "",
     "Price__c": "",
+    "PricebookEntry": "CloudVoice-Mobile-App_StandardPricebookEntry.json",
     "ProductCode": "VLO-INT-0046",
     "Product_Channel__c": "All",
     "Product_Owner__c": "",

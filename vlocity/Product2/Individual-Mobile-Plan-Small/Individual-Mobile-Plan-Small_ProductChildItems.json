@@ -15,7 +15,7 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYd2QAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EtwQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 1,
@@ -25,14 +25,14 @@
         "Name": "Root Individual Mobile Plan Small",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458gLQAQ"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kjOQAQ"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "1",
         "%vlocity_namespace%__ChildProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYfPQAX",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErGQAU",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__CollapseHierarchy__c": false,
@@ -48,7 +48,7 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYd2QAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EtwQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 1,
@@ -58,7 +58,7 @@
         "Name": "SIM Card",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458jCQAQ"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kmFQAQ"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "2",
@@ -81,7 +81,7 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYd2QAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EtwQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 1,
@@ -91,7 +91,7 @@
         "Name": "Local Mobile Tariff",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458l0QAA"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000ko3QAA"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "3",
@@ -114,7 +114,7 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYd2QAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EtwQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 1,
@@ -124,7 +124,7 @@
         "Name": "Roaming Mobile Tariff",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458l1QAA"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000ko4QAA"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "4",
@@ -147,7 +147,7 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYd2QAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EtwQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 1,
@@ -157,7 +157,7 @@
         "Name": "Local Data 1GB",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458l2QAA"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000ko5QAA"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "5",
@@ -180,7 +180,7 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYd2QAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EtwQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 1,
@@ -190,7 +190,7 @@
         "Name": "Local Voice 500 Minutes",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458l3QAA"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000ko6QAA"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "6",
@@ -213,7 +213,7 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYd2QAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EtwQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 1,
@@ -223,6 +223,6 @@
         "Name": "Local SMS 500 Texts",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458l4QAA"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000ko7QAA"
     }
 ]

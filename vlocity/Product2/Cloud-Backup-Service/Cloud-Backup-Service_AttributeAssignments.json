@@ -53,7 +53,7 @@
         "%vlocity_namespace%__ObjectId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYccQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErrQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__ObjectType__c": "Product2",
@@ -103,7 +103,7 @@
         "Name": "ATTRIBUTE-090",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTRIBUTE-090/VlocityRecordSourceKey:01t1N00000EUYccQAH"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTRIBUTE-090/VlocityRecordSourceKey:01t1I0000017ErrQAE"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -159,7 +159,7 @@
         "%vlocity_namespace%__ObjectId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYccQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErrQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__ObjectType__c": "Product2",
@@ -216,6 +216,6 @@
         "Name": "ATTRIBUTE-089",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTRIBUTE-089/VlocityRecordSourceKey:01t1N00000EUYccQAH"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTRIBUTE-089/VlocityRecordSourceKey:01t1I0000017ErrQAE"
     }
 ]

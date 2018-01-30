@@ -1,6 +1,5 @@
 {
     "allowSaveForLater": false,
-    "autoFocus": false,
     "autoSaveOnStepNext": false,
     "cancelRedirectPageName": "OmniScriptCancelled",
     "cancelRedirectTemplateUrl": "vlcCancelled.html",
@@ -72,8 +71,6 @@
     "saveForLaterRedirectTemplateUrl": "vlcSaveForLaterAcknowledge.html",
     "saveNameTemplate": null,
     "saveObjectId": "%ContextId%",
-    "saveURLPatterns": {
-    },
     "seedDataJSON": {
     },
     "ssm": false,

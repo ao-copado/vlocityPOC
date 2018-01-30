@@ -25,7 +25,7 @@
         "Name": "Root Business Essentials Large Bundle Billing Spec",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458fCQAQ"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kiFQAQ"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "1",
@@ -58,7 +58,7 @@
         "Name": "Broadband Router Billing Spec",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458kyQAA"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000ko1QAA"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "2",
@@ -91,6 +91,6 @@
         "Name": "Static IP Billing Spec",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458kzQAA"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000ko2QAA"
     }
 ]

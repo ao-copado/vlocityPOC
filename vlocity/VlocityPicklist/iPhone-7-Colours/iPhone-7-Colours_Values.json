@@ -14,7 +14,7 @@
         "%vlocity_namespace%__PicklistId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:a1W1N0000084XdIUAU",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:a1W1I000000VQX6UAO",
             "VlocityRecordSObjectType": "%vlocity_namespace%__Picklist__c"
         },
         "%vlocity_namespace%__Sequence__c": 4,
@@ -24,7 +24,7 @@
         "Name": "Black",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__PicklistValue__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2j1N000001wS5gQAE"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2j1I000000LNwjQAG"
     },
     {
         "%vlocity_namespace%__Abbreviation__c": "Gold",
@@ -41,7 +41,7 @@
         "%vlocity_namespace%__PicklistId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:a1W1N0000084XdIUAU",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:a1W1I000000VQX6UAO",
             "VlocityRecordSObjectType": "%vlocity_namespace%__Picklist__c"
         },
         "%vlocity_namespace%__Sequence__c": 1,
@@ -51,7 +51,7 @@
         "Name": "Gold",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__PicklistValue__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2j1N000001wS5dQAE"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2j1I000000LNwgQAG"
     },
     {
         "%vlocity_namespace%__Abbreviation__c": "Jet Black",
@@ -68,7 +68,7 @@
         "%vlocity_namespace%__PicklistId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:a1W1N0000084XdIUAU",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:a1W1I000000VQX6UAO",
             "VlocityRecordSObjectType": "%vlocity_namespace%__Picklist__c"
         },
         "%vlocity_namespace%__Sequence__c": 5,
@@ -78,7 +78,7 @@
         "Name": "Jet Black",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__PicklistValue__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2j1N000001wS5hQAE"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2j1I000000LNwkQAG"
     },
     {
         "%vlocity_namespace%__Abbreviation__c": "Rose Gold",
@@ -95,7 +95,7 @@
         "%vlocity_namespace%__PicklistId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:a1W1N0000084XdIUAU",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:a1W1I000000VQX6UAO",
             "VlocityRecordSObjectType": "%vlocity_namespace%__Picklist__c"
         },
         "%vlocity_namespace%__Sequence__c": 2,
@@ -105,7 +105,7 @@
         "Name": "Rose Gold",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__PicklistValue__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2j1N000001wS5eQAE"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2j1I000000LNwhQAG"
     },
     {
         "%vlocity_namespace%__Abbreviation__c": "Silver",
@@ -122,7 +122,7 @@
         "%vlocity_namespace%__PicklistId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:a1W1N0000084XdIUAU",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:a1W1I000000VQX6UAO",
             "VlocityRecordSObjectType": "%vlocity_namespace%__Picklist__c"
         },
         "%vlocity_namespace%__Sequence__c": 3,
@@ -132,6 +132,6 @@
         "Name": "Silver",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__PicklistValue__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2j1N000001wS5fQAE"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2j1I000000LNwiQAG"
     }
 ]

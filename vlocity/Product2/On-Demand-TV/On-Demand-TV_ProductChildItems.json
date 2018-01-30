@@ -15,7 +15,7 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYbZQAX",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErXQAU",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 1,
@@ -25,6 +25,6 @@
         "Name": "Root On Demand TV",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458hkQAA"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kknQAA"
     }
 ]

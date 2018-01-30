@@ -28,7 +28,7 @@
     "%vlocity_namespace%__ProductTemplateProductId__c": {
         "%vlocity_namespace%__GlobalKey__c": null,
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYfrQAH",
+        "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EvTQAU",
         "VlocityRecordSObjectType": "Product2"
     },
     "%vlocity_namespace%__Scope__c": "",
@@ -84,6 +84,7 @@
     "Number__c": "",
     "PBX_Type__c": "",
     "Price__c": "",
+    "PricebookEntry": "250000-Minutes-and-Messages-Shared-Upgrade_StandardPricebookEntry.json",
     "ProductCode": "VLO-MOB-0109",
     "Product_Channel__c": "All",
     "Product_Owner__c": "",
@@ -108,7 +109,7 @@
     "TV_Content__c": "",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "Product2",
-    "VlocityRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYeEQAX",
+    "VlocityRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EspQAE",
     "Voicemail__c": "",
     "Wifi_Band__c": "",
     "Wifi_Standard__c": ""

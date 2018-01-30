@@ -22,12 +22,8 @@
         "accessibleInFutureSteps": false,
         "conditionType": "Hide if False",
         "controlWidth": 12,
-        "documentNames": [
-            "test"
-        ],
         "help": false,
         "helpText": "",
-        "hide": false,
         "label": "On a scale of 1 to 5, 1 being poor and 5 being excellent, how would you rate your overall experience today?",
         "rangeHigh": 5,
         "rangeLow": 1,

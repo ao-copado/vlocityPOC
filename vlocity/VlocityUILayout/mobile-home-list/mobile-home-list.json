@@ -1,5 +1,6 @@
 {
     "Cards": [
+        "Event Story"
     ],
     "dataSource": {
         "contextVariables": [
@@ -11,7 +12,7 @@
     },
     "templates": {
         "0": {
-            "templateUrl": "vdo-mobile-consumer-home"
+            "templateUrl": "mobile-home-screen-story-card-canvas"
         }
     }
 }

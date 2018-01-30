@@ -1,7 +1,7 @@
 {
     "%vlocity_namespace%__ActionIcon__c": "",
     "%vlocity_namespace%__AdditionalFilter__c": "",
-    "%vlocity_namespace%__ApplicableTypes__c": "Asset;Order;Task;Event;Case;Campaign;Note",
+    "%vlocity_namespace%__ApplicableTypes__c": "Order;Task;Event;Case;Campaign;Note",
     "%vlocity_namespace%__ApplicableUserProfiles__c": "All",
     "%vlocity_namespace%__DisplayLabel__c": "View Details",
     "%vlocity_namespace%__DisplayOn__c": "All",

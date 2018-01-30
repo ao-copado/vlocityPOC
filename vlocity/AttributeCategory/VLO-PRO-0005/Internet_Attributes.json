@@ -70,7 +70,7 @@
         "%vlocity_namespace%__PicklistId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:a1W1N0000084XdKUAU",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:a1W1I000000VQX8UAO",
             "VlocityRecordSObjectType": "%vlocity_namespace%__Picklist__c"
         },
         "%vlocity_namespace%__RunTime__c": "",
@@ -114,7 +114,7 @@
         "%vlocity_namespace%__PicklistId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:a1W1N0000084XdLUAU",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:a1W1I000000VQX9UAO",
             "VlocityRecordSObjectType": "%vlocity_namespace%__Picklist__c"
         },
         "%vlocity_namespace%__RunTime__c": "",

@@ -1,6 +1,5 @@
 {
     "%vlocity_namespace%__Author__c": "Vlocity",
-    "%vlocity_namespace%__CSS__c": "left-profile-slds.css",
     "%vlocity_namespace%__CustomJavascript__c": "left-profile-slds.js",
     "%vlocity_namespace%__Definition__c": "",
     "%vlocity_namespace%__Description__c": "left-profile-slds\n\nLightning Design System based left profile card. Designed for use in console-sidebar-slds",

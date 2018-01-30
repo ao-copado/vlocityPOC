@@ -15,15 +15,15 @@
     "%vlocity_namespace%__DependencyType__c": "Depends On",
     "%vlocity_namespace%__GlobalKey__c": "",
     "%vlocity_namespace%__OrchestrationItemDefinitionId__c": {
-        "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "On-Net Provisioning and Testing",
-        "Name": "Network Access Provisioning",
+        "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Logistics",
+        "Name": "Equipment Delivered",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Network Access Provisioning/%vlocity_namespace%__OrchestrationPlanDefinition__c/On-Net Provisioning and Testing",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Equipment Delivered/%vlocity_namespace%__OrchestrationPlanDefinition__c/Logistics",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__Scope__c": "",
     "Name": "Order Equipment",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationDependencyDefinition__c",
-    "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2Y1N000000Wa3EUAS"
+    "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2Y1I000000XvXJUA0"
 }

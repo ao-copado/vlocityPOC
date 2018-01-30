@@ -6,7 +6,7 @@
         "contextVariables": [
             {
                 "name": "params.id",
-                "val": "a0s410000027d2N"
+                "val": "a3L36000000Hy60EAC"
             }
         ],
         "type": "ApexRemote",
@@ -15,12 +15,12 @@
                 "interactionId": "{{params.id}}"
             },
             "optionsMap": {
-                "vlcClass": "GetObjectFromInteraction"
+                "vlcClass": "%vlocity_namespace%.GetObjectFromInteraction"
             },
-            "query": "SELECT \nId, Name, BillingAddress, Phone, PhotoURL, Type, Industry, Website, CustomerValue__c FROM Account WHERE Id = '{{params.id}}'",
+            "query": "SELECT \nId, Name, BillingAddress, Phone, PhotoURL, Type, Industry, Website, %vlocity_namespace%__CustomerValue__c FROM Account WHERE Id = '{{params.id}}'",
             "remoteClass": "GetObjectFromInteraction",
             "remoteMethod": "getObjectIdFromInteractionObject",
-            "remoteNSPrefix": "",
+            "remoteNSPrefix": "%vlocity_namespace%",
             "resultVar": "records"
         }
     },

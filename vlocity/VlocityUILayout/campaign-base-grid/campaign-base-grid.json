@@ -3,7 +3,7 @@
     ],
     "templates": {
         "0": {
-            "templateUrl": "vdo-campaign-base-grid"
+            "templateUrl": "campaign-base-grid"
         }
     }
 }

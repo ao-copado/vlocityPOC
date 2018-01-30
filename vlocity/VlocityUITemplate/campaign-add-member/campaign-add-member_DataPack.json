@@ -1,8 +1,7 @@
 {
     "%vlocity_namespace%__Author__c": "Vlocity",
-    "%vlocity_namespace%__CSS__c": "campaign-add-member.css",
     "%vlocity_namespace%__CustomJavascript__c": "",
-    "%vlocity_namespace%__Definition__c": "",
+    "%vlocity_namespace%__Definition__c": "{\"zones\":[{\"name\":\"Copado\",\"label\":\"Copado\",\"$$hashKey\":\"object:2386\"}],\"placeholders\":[{\"name\":\"Insert Text Here\",\"label\":\"\",\"$$hashKey\":\"object:4326\"}]}",
     "%vlocity_namespace%__Description__c": "",
     "%vlocity_namespace%__DisplayOn__c": "",
     "%vlocity_namespace%__ExternalID__c": "campaign-add-member/1/vlocity-rm/1469640443852",

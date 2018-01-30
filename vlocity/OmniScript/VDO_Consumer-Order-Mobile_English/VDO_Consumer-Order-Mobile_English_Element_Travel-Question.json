@@ -23,9 +23,6 @@
         "checkLabel": "Do you travel a lot and use your phone abroad?",
         "conditionType": "Hide if False",
         "controlWidth": 12,
-        "documentNames": [
-            "test"
-        ],
         "help": false,
         "helpText": "",
         "label": "Do you travel a lot and use your phone abroad?",

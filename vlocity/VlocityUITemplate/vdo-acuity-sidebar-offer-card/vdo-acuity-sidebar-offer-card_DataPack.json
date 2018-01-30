@@ -1,6 +1,5 @@
 {
     "%vlocity_namespace%__Author__c": "Vlocity Demo Org",
-    "%vlocity_namespace%__CSS__c": "vdo-acuity-sidebar-offer-card.css",
     "%vlocity_namespace%__CustomJavascript__c": "vdo-acuity-sidebar-offer-card.js",
     "%vlocity_namespace%__Definition__c": "",
     "%vlocity_namespace%__Description__c": "acuity-sidebar-offer-card\n\nLightning Design System based Acuity Offer Card.\n\nFor use in sidebars",

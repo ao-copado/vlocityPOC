@@ -30,7 +30,7 @@
         "Name": "Broadband Router CFS",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458kwQAA"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000knzQAA"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "2",
@@ -63,6 +63,6 @@
         "Name": "Static IP CFS",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458kxQAA"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000ko0QAA"
     }
 ]

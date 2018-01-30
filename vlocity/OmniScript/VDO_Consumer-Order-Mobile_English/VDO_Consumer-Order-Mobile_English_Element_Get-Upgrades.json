@@ -10,15 +10,11 @@
     "%vlocity_namespace%__Order__c": 8,
     "%vlocity_namespace%__PropertySet__c": {
         "controlWidth": 12,
-        "extraPayload": {
-        },
         "failureAbortLabel": "Abort",
         "failureAbortMessage": "Are you sure?",
         "failureNextLabel": "Continue",
         "inProgressMessage": "In Progress",
         "label": "Loading Upgrades",
-        "message": {
-        },
         "postMessage": "Done",
         "postTransformBundle": "",
         "preTransformBundle": "",
@@ -41,9 +37,7 @@
         "showPersistentComponent": [
             true
         ],
-        "ssm": false,
-        "validationRequired": "None",
-        "wpm": false
+        "validationRequired": "None"
     },
     "%vlocity_namespace%__ReusableOmniScript__c": false,
     "%vlocity_namespace%__Type__c": "Remote Action",

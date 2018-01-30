@@ -79,6 +79,7 @@
     "Number__c": "",
     "PBX_Type__c": "",
     "Price__c": "",
+    "PricebookEntry": "Phone-Trade-In_StandardPricebookEntry.json",
     "ProductCode": "VLO-MOB-0149",
     "Product_Channel__c": "Web",
     "Product_Owner__c": "",

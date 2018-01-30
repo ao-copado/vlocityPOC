@@ -1,0 +1,18 @@
+{
+    "%vlocity_namespace%__AttributeAssignment__c": "iPhone-7_AttributeAssignments.json",
+    "%vlocity_namespace%__DataSourceType__c": "",
+    "%vlocity_namespace%__DataSource__c": "",
+    "%vlocity_namespace%__Description__c": "iPhone 7 dramatically improves the most important aspects of the iPhone experience.",
+    "%vlocity_namespace%__EffectiveDate__c": "",
+    "%vlocity_namespace%__ExpirationDate__c": "",
+    "%vlocity_namespace%__Headline__c": "",
+    "%vlocity_namespace%__IsActive__c": true,
+    "%vlocity_namespace%__SubTitle__c": "",
+    "%vlocity_namespace%__TargetObjectKey__c": "Mobile Order",
+    "%vlocity_namespace%__TargetObjectType__c": "VlocityAction",
+    "Attachment": "iPhone-7_Attachments.json",
+    "Name": "iPhone 7",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__VqResource__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__VqResource__c/iPhone 7"
+}

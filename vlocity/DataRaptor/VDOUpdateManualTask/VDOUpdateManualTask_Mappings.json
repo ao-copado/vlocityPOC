@@ -4,7 +4,7 @@
         "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
         "%vlocity_namespace%__DomainObjectFieldAPIName__c": "%vlocity_namespace%__State__c",
         "%vlocity_namespace%__FormulaOrder__c": 0,
-        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Review:Manual Task Status",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "Returned Credit Information:Manual Task Status",
         "%vlocity_namespace%__InterfaceObjectName__c": "json",
         "%vlocity_namespace%__IsDisabled__c": false,
         "%vlocity_namespace%__IsRequiredForUpsert__c": false,

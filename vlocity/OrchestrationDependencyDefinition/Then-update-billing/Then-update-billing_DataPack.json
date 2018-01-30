@@ -25,5 +25,5 @@
     "Name": "Then update billing",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationDependencyDefinition__c",
-    "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2Y1N000000Wa30UAC"
+    "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2Y1I000000XvXkUAK"
 }

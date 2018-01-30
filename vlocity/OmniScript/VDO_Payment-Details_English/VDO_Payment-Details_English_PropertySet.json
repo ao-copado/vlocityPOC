@@ -1,5 +1,5 @@
 {
-    "allowSaveForLater": true,
+    "allowSaveForLater": false,
     "autoFocus": false,
     "autoSaveOnStepNext": false,
     "cancelRedirectPageName": "OmniScriptCancelled",
@@ -10,6 +10,7 @@
     "elementTypeToHTMLTemplateMapping": {
     },
     "enableKnowledge": false,
+    "includeCustomization": true,
     "knowledgeArticleTypeQueryFieldsMap": {
     },
     "message": {
@@ -66,8 +67,6 @@
     "saveForLaterRedirectTemplateUrl": "vlcSaveForLaterAcknowledge.html",
     "saveNameTemplate": null,
     "saveObjectId": "%ContextId%",
-    "saveURLPatterns": {
-    },
     "seedDataJSON": {
     },
     "ssm": false,

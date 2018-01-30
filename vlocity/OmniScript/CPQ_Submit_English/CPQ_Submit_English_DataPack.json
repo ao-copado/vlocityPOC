@@ -2,7 +2,7 @@
     "%vlocity_namespace%__AdditionalInformation__c": "This OS calls CPQSubmit and Navigates to the Account View",
     "%vlocity_namespace%__Element__c": [
         "CPQ_Submit_English_Element_Create-Assets.json",
-        "CPQ_Submit_English_Element_Navigate-to-Order.json"
+        "CPQ_Submit_English_Element_Navigate-to-Account.json"
     ],
     "%vlocity_namespace%__IsActive__c": true,
     "%vlocity_namespace%__IsProcedure__c": false,

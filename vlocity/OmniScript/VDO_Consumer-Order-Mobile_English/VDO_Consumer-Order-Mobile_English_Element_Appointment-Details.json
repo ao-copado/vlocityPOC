@@ -23,9 +23,6 @@
         "collapse": false,
         "conditionType": "Hide if False",
         "controlWidth": 6,
-        "documentNames": [
-            "test"
-        ],
         "hide": false,
         "label": null,
         "repeat": false,

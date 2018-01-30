@@ -3,42 +3,7 @@
     "%vlocity_namespace%__ApprovedOn__c": "",
     "%vlocity_namespace%__AttributeAssignment__c": "Samsung-Galaxy-S8-Plus_AttributeAssignments.json",
     "%vlocity_namespace%__AttributeDefaultValues__c": "",
-    "%vlocity_namespace%__CategoryData__c": [
-        {
-            "actions": {
-            },
-            "childCategories": [
-                {
-                    "actions": {
-                    },
-                    "childCategories": [
-                    ],
-                    "displaySequence": -1,
-                    "fields": {
-                    },
-                    "id": "a2H360000014jFHEAY",
-                    "messages": [
-                    ],
-                    "name": "Phones",
-                    "nameResult": {
-                    },
-                    "uiStates": {
-                    }
-                }
-            ],
-            "displaySequence": -1,
-            "fields": {
-            },
-            "id": "a2H360000014jF2EAI",
-            "messages": [
-            ],
-            "name": "Root",
-            "nameResult": {
-            },
-            "uiStates": {
-            }
-        }
-    ],
+    "%vlocity_namespace%__CategoryData__c": "",
     "%vlocity_namespace%__ChangeDetectorImplementation__c": "",
     "%vlocity_namespace%__ClassId__c": "",
     "%vlocity_namespace%__EffectiveDate__c": "2017-08-31",
@@ -114,6 +79,7 @@
     "Number__c": "",
     "PBX_Type__c": "",
     "Price__c": "",
+    "PricebookEntry": "Samsung-Galaxy-S8-Plus_StandardPricebookEntry.json",
     "ProductCode": "VLO-MOB-0159",
     "Product_Channel__c": "All",
     "Product_Owner__c": "",

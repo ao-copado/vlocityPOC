@@ -3,7 +3,42 @@
     "%vlocity_namespace%__ApprovedOn__c": "",
     "%vlocity_namespace%__AttributeAssignment__c": "Microsoft-Lumia-550_AttributeAssignments.json",
     "%vlocity_namespace%__AttributeDefaultValues__c": "",
-    "%vlocity_namespace%__CategoryData__c": "",
+    "%vlocity_namespace%__CategoryData__c": [
+        {
+            "actions": {
+            },
+            "childCategories": [
+                {
+                    "actions": {
+                    },
+                    "childCategories": [
+                    ],
+                    "displaySequence": -1,
+                    "fields": {
+                    },
+                    "id": "a2H360000014jFHEAY",
+                    "messages": [
+                    ],
+                    "name": "Phones",
+                    "nameResult": {
+                    },
+                    "uiStates": {
+                    }
+                }
+            ],
+            "displaySequence": -1,
+            "fields": {
+            },
+            "id": "a2H360000014jF2EAI",
+            "messages": [
+            ],
+            "name": "Root",
+            "nameResult": {
+            },
+            "uiStates": {
+            }
+        }
+    ],
     "%vlocity_namespace%__ChangeDetectorImplementation__c": "",
     "%vlocity_namespace%__ClassId__c": "",
     "%vlocity_namespace%__DecompositionRelationship__c": "Microsoft-Lumia-550_DecompositionRelationships.json",
@@ -30,7 +65,7 @@
     "%vlocity_namespace%__ProductTemplateProductId__c": {
         "%vlocity_namespace%__GlobalKey__c": null,
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYfoQAH",
+        "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EvQQAU",
         "VlocityRecordSObjectType": "Product2"
     },
     "%vlocity_namespace%__Scope__c": "",
@@ -86,6 +121,7 @@
     "Number__c": "",
     "PBX_Type__c": "",
     "Price__c": "",
+    "PricebookEntry": "Microsoft-Lumia-550_StandardPricebookEntry.json",
     "ProductCode": "VLO-MOB-0008",
     "Product_Channel__c": "All",
     "Product_Owner__c": "",
@@ -110,7 +146,7 @@
     "TV_Content__c": "",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "Product2",
-    "VlocityRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYbnQAH",
+    "VlocityRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErjQAE",
     "Voicemail__c": "",
     "Wifi_Band__c": "",
     "Wifi_Standard__c": ""

@@ -23,9 +23,6 @@
         "checkLabel": "Screen Size",
         "conditionType": "Hide if False",
         "controlWidth": 6,
-        "documentNames": [
-            "test"
-        ],
         "help": false,
         "helpText": "",
         "label": "Screen Size",

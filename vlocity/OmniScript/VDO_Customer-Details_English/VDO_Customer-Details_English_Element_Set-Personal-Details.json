@@ -28,7 +28,7 @@
             "Phone": "02071234567",
             "Title": "Mrs."
         },
-        "label": "Retrieve Personal Details",
+        "label": "Set Personal Details",
         "message": {
         },
         "show": null,

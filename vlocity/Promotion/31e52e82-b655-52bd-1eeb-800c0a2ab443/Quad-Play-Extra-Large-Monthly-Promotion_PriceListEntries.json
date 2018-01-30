@@ -27,7 +27,7 @@
         "%vlocity_namespace%__ProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYctQAH",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017Er7QAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__PromotionId__c": {
@@ -39,7 +39,7 @@
         "%vlocity_namespace%__PromotionItemId__c": {
             "%vlocity_namespace%__PromotionId__r.%vlocity_namespace%__GlobalKey__c": "31e52e82-b655-52bd-1eeb-800c0a2ab443",
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__PromotionItem__c/%vlocity_namespace%__Promotion__c/31e52e82-b655-52bd-1eeb-800c0a2ab443/VlocityRecordSourceKey:01t1N00000EUYctQAH",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__PromotionItem__c/%vlocity_namespace%__Promotion__c/31e52e82-b655-52bd-1eeb-800c0a2ab443/VlocityRecordSourceKey:01t1I0000017Er7QAE",
             "VlocityRecordSObjectType": "%vlocity_namespace%__PromotionItem__c"
         },
         "%vlocity_namespace%__RulesDescription__c": "",
@@ -88,7 +88,7 @@
         "%vlocity_namespace%__ProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYctQAH",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017Er7QAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__PromotionId__c": {
@@ -100,7 +100,7 @@
         "%vlocity_namespace%__PromotionItemId__c": {
             "%vlocity_namespace%__PromotionId__r.%vlocity_namespace%__GlobalKey__c": "31e52e82-b655-52bd-1eeb-800c0a2ab443",
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__PromotionItem__c/%vlocity_namespace%__Promotion__c/31e52e82-b655-52bd-1eeb-800c0a2ab443/VlocityRecordSourceKey:01t1N00000EUYctQAH",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__PromotionItem__c/%vlocity_namespace%__Promotion__c/31e52e82-b655-52bd-1eeb-800c0a2ab443/VlocityRecordSourceKey:01t1I0000017Er7QAE",
             "VlocityRecordSObjectType": "%vlocity_namespace%__PromotionItem__c"
         },
         "%vlocity_namespace%__RulesDescription__c": "",

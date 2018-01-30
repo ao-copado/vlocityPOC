@@ -59,7 +59,7 @@
             false,
             false
         ],
-        "source": "/apex/%vlocity_namespace%__HybridCPQ?id=%fdoId%",
+        "source": "/apex/HybridCPQ?id=%fdoId%",
         "ssm": false,
         "type": "URL",
         "validationRequired": "Submit",

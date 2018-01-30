@@ -6,7 +6,12 @@
     "%vlocity_namespace%__FailureMessage__c": "Online orders only.",
     "%vlocity_namespace%__FallbackId__c": "",
     "%vlocity_namespace%__GlobalKey__c": "",
-    "%vlocity_namespace%__HeaderId__c": "",
+    "%vlocity_namespace%__HeaderId__c": {
+        "%vlocity_namespace%__GlobalKey__c": null,
+        "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__EntityFilter__c/Order Channel Is Online",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__EntityFilter__c"
+    },
     "%vlocity_namespace%__IsActive__c": true,
     "%vlocity_namespace%__ObjectName__c": "",
     "%vlocity_namespace%__Operation__c": "And",
@@ -17,5 +22,5 @@
     "Name": "Online Order Rule Set",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "%vlocity_namespace%__Rule__c",
-    "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1o1N000002siuiQAA"
+    "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1o1I000000ZxbzQAC"
 }

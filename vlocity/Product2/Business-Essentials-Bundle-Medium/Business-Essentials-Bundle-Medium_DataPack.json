@@ -81,6 +81,7 @@
     "Number__c": "",
     "PBX_Type__c": "",
     "Price__c": "",
+    "PricebookEntry": "Business-Essentials-Bundle-Medium_StandardPricebookEntry.json",
     "ProductCode": "VLO-BUN-0010",
     "Product_Channel__c": "All",
     "Product_Owner__c": "",
@@ -105,7 +106,7 @@
     "TV_Content__c": "",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "Product2",
-    "VlocityRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYbJQAX",
+    "VlocityRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErRQAU",
     "Voicemail__c": "",
     "Wifi_Band__c": "",
     "Wifi_Standard__c": ""

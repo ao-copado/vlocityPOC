@@ -3,7 +3,8 @@
     "%vlocity_namespace%__Element__c": [
         "VDO_Complete-Order_English_Element_Customer-Details-1.json",
         "VDO_Complete-Order_English_Element_Payment-Details-1.json",
-        "VDO_Complete-Order_English_Element_Retail-Home.json"
+        "VDO_Complete-Order_English_Element_Retail-Home.json",
+        "VDO_Complete-Order_English_Element_Send-Email.json"
     ],
     "%vlocity_namespace%__IsActive__c": true,
     "%vlocity_namespace%__IsProcedure__c": false,

@@ -1,6 +1,5 @@
 {
     "%vlocity_namespace%__Author__c": "Vlocity",
-    "%vlocity_namespace%__CSS__c": "offer-card-active-slds.css",
     "%vlocity_namespace%__CustomJavascript__c": "offer-card-active-slds.js",
     "%vlocity_namespace%__Definition__c": "",
     "%vlocity_namespace%__Description__c": "offer-card-active-slds\n\nLightning Design System based Open Card.\n\nFor use in card-canvas-3x-slds",

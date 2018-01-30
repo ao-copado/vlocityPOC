@@ -30,7 +30,7 @@
             "Number Of Employees": "0-10",
             "SIC Code": 123456
         },
-        "label": "Retrieve Company Details",
+        "label": "Demo Set Company Details",
         "message": {
         },
         "show": null,

@@ -3,46 +3,11 @@
     "%vlocity_namespace%__ApprovedOn__c": "",
     "%vlocity_namespace%__AttributeAssignment__c": "Samsung-Galaxy-S8_AttributeAssignments.json",
     "%vlocity_namespace%__AttributeDefaultValues__c": "",
-    "%vlocity_namespace%__CategoryData__c": [
-        {
-            "actions": {
-            },
-            "childCategories": [
-                {
-                    "actions": {
-                    },
-                    "childCategories": [
-                    ],
-                    "displaySequence": -1,
-                    "fields": {
-                    },
-                    "id": "a2H360000014jFHEAY",
-                    "messages": [
-                    ],
-                    "name": "Phones",
-                    "nameResult": {
-                    },
-                    "uiStates": {
-                    }
-                }
-            ],
-            "displaySequence": -1,
-            "fields": {
-            },
-            "id": "a2H360000014jF2EAI",
-            "messages": [
-            ],
-            "name": "Root",
-            "nameResult": {
-            },
-            "uiStates": {
-            }
-        }
-    ],
+    "%vlocity_namespace%__CategoryData__c": "",
     "%vlocity_namespace%__ChangeDetectorImplementation__c": "",
     "%vlocity_namespace%__ClassId__c": "",
     "%vlocity_namespace%__EffectiveDate__c": "2017-08-31",
-    "%vlocity_namespace%__EndDate__c": "2019-10-01",
+    "%vlocity_namespace%__EndDate__c": "",
     "%vlocity_namespace%__GlobalKey__c": "444f634a-5548-ad64-0118-c251b7f04514",
     "%vlocity_namespace%__HeaderData__c": "",
     "%vlocity_namespace%__HelpText__c": "",
@@ -88,7 +53,7 @@
     "Device_Operating_System__c": "",
     "Device_Storage__c": "",
     "Direct_Inward_Dialing__c": "",
-    "Discount__c": 7,
+    "Discount__c": "",
     "DisplayUrl": "",
     "Ethernet_Ports__c": "",
     "ExternalDataSourceId": "",
@@ -114,14 +79,10 @@
     "Number__c": "",
     "PBX_Type__c": "",
     "Price__c": "",
+    "PricebookEntry": "Samsung-Galaxy-S8_StandardPricebookEntry.json",
     "ProductCode": "VLO-MOB-0158",
     "Product_Channel__c": "All",
-    "Product_Owner__c": {
-        "Email": "arutland@vlocity.com",
-        "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:0051N000005nfUEQAY",
-        "VlocityRecordSObjectType": "User"
-    },
+    "Product_Owner__c": "",
     "QuantityInstallmentPeriod": "",
     "QuantityScheduleType": "",
     "QuantityUnitOfMeasure": "",

@@ -79,6 +79,7 @@
     "Number__c": "",
     "PBX_Type__c": "",
     "Price__c": "",
+    "PricebookEntry": "Apple-Lightning-EarPods_StandardPricebookEntry.json",
     "ProductCode": "VLO-MOB-0150",
     "Product_Channel__c": "Web",
     "Product_Owner__c": "",

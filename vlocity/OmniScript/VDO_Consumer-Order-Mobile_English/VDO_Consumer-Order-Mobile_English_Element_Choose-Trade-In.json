@@ -21,9 +21,6 @@
         "HTMLTemplateId": "vdoLargeGridConfig.html",
         "accessibleInFutureSteps": false,
         "dataJSON": false,
-        "documentNames": [
-            "test"
-        ],
         "itemsKey": "recSet",
         "label": null,
         "maxCompareSize": 4,

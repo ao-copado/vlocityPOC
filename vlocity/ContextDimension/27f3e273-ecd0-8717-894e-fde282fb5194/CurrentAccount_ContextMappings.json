@@ -3,7 +3,7 @@
         "%vlocity_namespace%__ContextScopeId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:a3r1N000000R6gdQAC",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:a3r1I000000UGzMQAW",
             "VlocityRecordSObjectType": "%vlocity_namespace%__ContextScope__c"
         },
         "%vlocity_namespace%__Dimension__c": {

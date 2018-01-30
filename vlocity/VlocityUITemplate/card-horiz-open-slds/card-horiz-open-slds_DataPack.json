@@ -1,6 +1,5 @@
 {
     "%vlocity_namespace%__Author__c": "Vlocity",
-    "%vlocity_namespace%__CSS__c": "card-horiz-open-slds.css",
     "%vlocity_namespace%__CustomJavascript__c": "",
     "%vlocity_namespace%__Definition__c": "",
     "%vlocity_namespace%__Description__c": "card-horiz-open-slds\n\nLightning Design System based horizontal open card.\n\nFor use in card-canvas-1x-slds",

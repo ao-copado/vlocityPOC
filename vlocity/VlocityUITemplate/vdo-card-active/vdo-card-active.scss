@@ -11,19 +11,19 @@
         float: left;
         margin: 10px;
         min-height: 412px;
-        background-color: #F8FBFE;
-        border: 1px solid #e8eef5;
+        background-color: $white;
+        border: 1px solid #dedede;
         border-radius:.25rem;
         
         &:hover{
             cursor:pointer;
-            background:#e8eef5;
+            background:$light-blue;
         }
 
         .card-top {
             padding: 15px 20px 15px;
-            background-color: #e8eef5;
-            border-bottom: 2px solid #e8eef5;
+            background-color: #f4f6f9;
+            border-bottom: 2px solid #d8dde6;
             @include clearfix;
 
             .card-image{

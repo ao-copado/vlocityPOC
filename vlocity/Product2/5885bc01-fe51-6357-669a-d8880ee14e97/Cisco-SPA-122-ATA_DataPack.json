@@ -79,6 +79,7 @@
     "Number__c": "",
     "PBX_Type__c": "",
     "Price__c": "",
+    "PricebookEntry": "Cisco-SPA-122-ATA_StandardPricebookEntry.json",
     "ProductCode": "VLO-INT-0033",
     "Product_Channel__c": "All",
     "Product_Owner__c": "",

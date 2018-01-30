@@ -53,7 +53,7 @@
         "%vlocity_namespace%__ObjectId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYeaQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017Er6QAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__ObjectType__c": "Product2",
@@ -75,7 +75,7 @@
         "Name": "ATTRIBUTE-082",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTRIBUTE-082/VlocityRecordSourceKey:01t1N00000EUYeaQAH"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTRIBUTE-082/VlocityRecordSourceKey:01t1I0000017Er6QAE"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -131,7 +131,7 @@
         "%vlocity_namespace%__ObjectId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYeaQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017Er6QAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__ObjectType__c": "Product2",
@@ -152,7 +152,7 @@
         "Name": "ATTRIBUTE-072",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTRIBUTE-072/VlocityRecordSourceKey:01t1N00000EUYeaQAH"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTRIBUTE-072/VlocityRecordSourceKey:01t1I0000017Er6QAE"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -208,7 +208,7 @@
         "%vlocity_namespace%__ObjectId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYeaQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017Er6QAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__ObjectType__c": "Product2",
@@ -229,7 +229,7 @@
         "Name": "ATTRIBUTE-073",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTRIBUTE-073/VlocityRecordSourceKey:01t1N00000EUYeaQAH"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTRIBUTE-073/VlocityRecordSourceKey:01t1I0000017Er6QAE"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -285,7 +285,7 @@
         "%vlocity_namespace%__ObjectId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYeaQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017Er6QAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__ObjectType__c": "Product2",
@@ -307,7 +307,7 @@
         "Name": "ATTRIBUTE-079",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTRIBUTE-079/VlocityRecordSourceKey:01t1N00000EUYeaQAH"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTRIBUTE-079/VlocityRecordSourceKey:01t1I0000017Er6QAE"
     },
     {
         "%vlocity_namespace%__AddDate__c": "",
@@ -363,7 +363,7 @@
         "%vlocity_namespace%__ObjectId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYeaQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017Er6QAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__ObjectType__c": "Product2",
@@ -384,6 +384,6 @@
         "Name": "ATTRIBUTE-074",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__AttributeAssignment__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTRIBUTE-074/VlocityRecordSourceKey:01t1N00000EUYeaQAH"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__AttributeAssignment__c/%vlocity_namespace%__Attribute__c/ATTRIBUTE-074/VlocityRecordSourceKey:01t1I0000017Er6QAE"
     }
 ]

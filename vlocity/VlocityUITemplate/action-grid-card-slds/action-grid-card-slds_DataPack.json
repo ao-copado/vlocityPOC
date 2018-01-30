@@ -1,6 +1,5 @@
 {
     "%vlocity_namespace%__Author__c": "Vlocity",
-    "%vlocity_namespace%__CSS__c": "action-grid-card-slds.css",
     "%vlocity_namespace%__CustomJavascript__c": "",
     "%vlocity_namespace%__Definition__c": "",
     "%vlocity_namespace%__Description__c": "action-grid-card-slds\n\nLightning Design System based Action grid. Displays actions in a responsive grid:\n\nlarge - 6 per row\nmedium: 4 per row\nsmall: 3 per row\ntiny: 2 per row",

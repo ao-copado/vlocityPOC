@@ -23,7 +23,6 @@
         "collapse": false,
         "conditionType": "Hide if False",
         "controlWidth": 12,
-        "hide": false,
         "label": "Order Details",
         "repeat": false,
         "repeatClone": false,

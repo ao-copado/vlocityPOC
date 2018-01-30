@@ -1,5 +1,11 @@
 [
     {
+        "%vlocity_namespace%__HeaderId__c": {
+            "%vlocity_namespace%__GlobalKey__c": null,
+            "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__EntityFilter__c/Account SLA Is Gold",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__EntityFilter__c"
+        },
         "%vlocity_namespace%__ObjectId__c": {
             "%vlocity_namespace%__GlobalKey__c": "c494e68f-c4dd-fe93-bb3d-8ede87dc1771",
             "VlocityDataPackType": "VlocityMatchingKeyObject",
@@ -9,7 +15,7 @@
         "%vlocity_namespace%__RuleId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:a1o1N000002siuhQAA",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:a1o1I000000ZxbxQAC",
             "VlocityRecordSObjectType": "%vlocity_namespace%__Rule__c"
         },
         "%vlocity_namespace%__RuleType__c": "Qualification",

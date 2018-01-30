@@ -79,6 +79,7 @@
     "Number__c": "",
     "PBX_Type__c": "",
     "Price__c": "",
+    "PricebookEntry": "Polycom-VVX-300_StandardPricebookEntry.json",
     "ProductCode": "VLO-INT-0037",
     "Product_Channel__c": "All",
     "Product_Owner__c": "",

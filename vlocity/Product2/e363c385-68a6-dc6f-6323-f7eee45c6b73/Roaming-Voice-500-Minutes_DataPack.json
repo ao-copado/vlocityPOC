@@ -78,6 +78,7 @@
     "Number__c": "",
     "PBX_Type__c": "",
     "Price__c": "",
+    "PricebookEntry": "Roaming-Voice-500-Minutes_StandardPricebookEntry.json",
     "ProductCode": "VLO-MOB-0129",
     "Product_Channel__c": "All",
     "Product_Owner__c": "",

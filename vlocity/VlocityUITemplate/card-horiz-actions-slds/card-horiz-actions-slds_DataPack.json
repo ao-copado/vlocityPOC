@@ -1,6 +1,5 @@
 {
     "%vlocity_namespace%__Author__c": "Vlocity",
-    "%vlocity_namespace%__CSS__c": "card-horiz-actions-slds.css",
     "%vlocity_namespace%__CustomJavascript__c": "",
     "%vlocity_namespace%__Definition__c": "",
     "%vlocity_namespace%__Description__c": "card-horiz-actions-slds\n\nLightning Design System based horizontal card with actions in card footer and additional actions overflow dropdown.\n\nTo be used in card-canvas-1x-slds.",

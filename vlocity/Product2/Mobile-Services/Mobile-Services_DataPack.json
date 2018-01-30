@@ -1,7 +1,6 @@
 {
     "%vlocity_namespace%__ApprovedBy__c": "",
     "%vlocity_namespace%__ApprovedOn__c": "",
-    "%vlocity_namespace%__AttributeAssignment__c": "Mobile-Services_AttributeAssignments.json",
     "%vlocity_namespace%__AttributeDefaultValues__c": "",
     "%vlocity_namespace%__CategoryData__c": "",
     "%vlocity_namespace%__ChangeDetectorImplementation__c": "",
@@ -79,6 +78,7 @@
     "Number__c": "",
     "PBX_Type__c": "",
     "Price__c": "",
+    "PricebookEntry": "Mobile-Services_StandardPricebookEntry.json",
     "ProductCode": "VLO-MOB-0118",
     "Product_Channel__c": "All",
     "Product_Owner__c": "",
@@ -103,7 +103,7 @@
     "TV_Content__c": "",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "Product2",
-    "VlocityRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYeqQAH",
+    "VlocityRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EupQAE",
     "Voicemail__c": "",
     "Wifi_Band__c": "",
     "Wifi_Standard__c": ""

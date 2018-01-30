@@ -11,14 +11,14 @@
         "%vlocity_namespace%__Product2Id__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYcwQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErvQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__SubAction__c": "",
-        "Name": "Quad Play Bundle Small MACD",
+        "Name": "MACD",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationScenario__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationScenario__c/Quad Play Bundle Small MACD/VlocityRecordSourceKey:01t1N00000EUYcwQAH"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationScenario__c/MACD/VlocityRecordSourceKey:01t1I0000017ErvQAE"
     },
     {
         "%vlocity_namespace%__Action__c": "Disconnect",
@@ -32,13 +32,13 @@
         "%vlocity_namespace%__Product2Id__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYcwQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErvQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__SubAction__c": "",
         "Name": "Cancel",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationScenario__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationScenario__c/Cancel/VlocityRecordSourceKey:01t1N00000EUYcwQAH"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationScenario__c/Cancel/VlocityRecordSourceKey:01t1I0000017ErvQAE"
     }
 ]

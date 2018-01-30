@@ -31,7 +31,7 @@
         "%vlocity_namespace%__PicklistId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:a1W1N0000084XdJUAU",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:a1W1I000000VQX7UAO",
             "VlocityRecordSObjectType": "%vlocity_namespace%__Picklist__c"
         },
         "%vlocity_namespace%__RunTime__c": "",
@@ -75,7 +75,7 @@
         "%vlocity_namespace%__PicklistId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:a1W1N0000084XdJUAU",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:a1W1I000000VQX7UAO",
             "VlocityRecordSObjectType": "%vlocity_namespace%__Picklist__c"
         },
         "%vlocity_namespace%__RunTime__c": "",
@@ -119,7 +119,7 @@
         "%vlocity_namespace%__PicklistId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:a1W1N0000084XdJUAU",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:a1W1I000000VQX7UAO",
             "VlocityRecordSObjectType": "%vlocity_namespace%__Picklist__c"
         },
         "%vlocity_namespace%__RunTime__c": "",

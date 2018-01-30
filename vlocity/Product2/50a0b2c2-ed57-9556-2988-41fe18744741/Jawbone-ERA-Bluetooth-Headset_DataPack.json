@@ -78,6 +78,7 @@
     "Number__c": "",
     "PBX_Type__c": "",
     "Price__c": "",
+    "PricebookEntry": "Jawbone-ERA-Bluetooth-Headset_StandardPricebookEntry.json",
     "ProductCode": "VLO-MOB-0147",
     "Product_Channel__c": "Web",
     "Product_Owner__c": "",

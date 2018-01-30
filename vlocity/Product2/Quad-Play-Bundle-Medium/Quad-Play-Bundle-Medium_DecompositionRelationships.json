@@ -20,13 +20,13 @@
         "%vlocity_namespace%__SourceProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYcvQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EruQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__XORGroup__c": "",
         "Name": "Quad Play Billing Spec",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/Quad Play Billing Spec/VlocityRecordSourceKey:01t1N00000EUYcvQAH"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/Quad Play Billing Spec/VlocityRecordSourceKey:01t1I0000017EruQAE"
     }
 ]

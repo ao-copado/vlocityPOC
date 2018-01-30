@@ -79,6 +79,7 @@
     "Number__c": "",
     "PBX_Type__c": "",
     "Price__c": "",
+    "PricebookEntry": "TV-Movies_StandardPricebookEntry.json",
     "ProductCode": "VLO-TV-0030",
     "Product_Channel__c": "Web",
     "Product_Owner__c": "",
@@ -103,7 +104,7 @@
     "TV_Content__c": "",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "Product2",
-    "VlocityRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYbfQAH",
+    "VlocityRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErcQAE",
     "Voicemail__c": "",
     "Wifi_Band__c": "",
     "Wifi_Standard__c": ""

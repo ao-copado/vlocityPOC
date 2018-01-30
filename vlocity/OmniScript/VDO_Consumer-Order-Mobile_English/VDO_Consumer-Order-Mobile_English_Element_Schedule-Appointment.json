@@ -21,9 +21,6 @@
         "HTMLTemplateId": "",
         "controlWidth": 12,
         "dataJSON": false,
-        "documentNames": [
-            "test"
-        ],
         "label": "Schedule Appointment",
         "show": null,
         "text": "<p>Need help deciding? Our in store experts are at hand to help you. Simply enter your preferred appointment time and come down to your local store.</p>"

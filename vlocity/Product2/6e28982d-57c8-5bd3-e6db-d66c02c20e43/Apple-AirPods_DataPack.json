@@ -78,6 +78,7 @@
     "Number__c": "",
     "PBX_Type__c": "",
     "Price__c": "",
+    "PricebookEntry": "Apple-AirPods_StandardPricebookEntry.json",
     "ProductCode": "VLO-MOB-0148",
     "Product_Channel__c": "Web",
     "Product_Owner__c": "",

@@ -14,7 +14,7 @@
     "%vlocity_namespace%__OpenURLMode__c": "Current Window",
     "%vlocity_namespace%__StateId__c": "",
     "%vlocity_namespace%__StateModelId__c": "",
-    "%vlocity_namespace%__URL__c": "/apex/c__VDOOmniscript?id={0}&OmniScriptType=VDO&OmniScriptSubType=Setup Bluetooth&OmniScriptLang=English&scriptMode=vertical&layout=lightning&ContextId={0}&InteractionId={1}&Role={2}",
+    "%vlocity_namespace%__URL__c": "/apex/VDOOmniscript?id={0}&OmniScriptType=VDO&OmniScriptSubType=Setup Bluetooth&OmniScriptLang=English&scriptMode=vertical&layout=lightning&ContextId={0}&InteractionId={1}&Role={2}",
     "%vlocity_namespace%__UrlParameters__c": "%vlocity_namespace%__AssetId__c,%vlocity_namespace%__CustomerInteractionId__c, Roles__c",
     "%vlocity_namespace%__ValidationClassName__c": "",
     "%vlocity_namespace%__ValidationMethodName__c": "",

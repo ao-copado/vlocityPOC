@@ -21,9 +21,6 @@
         "HTMLTemplateId": "",
         "controlWidth": 6,
         "dataJSON": false,
-        "documentNames": [
-            "test"
-        ],
         "label": "Store Map",
         "show": null,
         "text": "<p><img style=\"margin-top: 15px;\" src=\"https://maps.googleapis.com/maps/api/staticmap?center=6+Boundary+Row,London,SE1+8GN&amp;zoom=16&amp;size=600x300&amp;maptype=roadmap\n&amp;markers=color:blue%7C6+Boundary+Row,London,SE1+8GN&amp;key=AIzaSyA7waXYqFAadj530QdbRvLDfDfpZv-nBi0\" alt=\"\" /></p>"

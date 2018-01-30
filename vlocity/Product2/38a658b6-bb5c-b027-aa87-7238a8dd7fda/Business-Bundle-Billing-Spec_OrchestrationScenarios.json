@@ -16,9 +16,9 @@
         },
         "%vlocity_namespace%__Product2Id__r.%vlocity_namespace%__GlobalKey__c": "38a658b6-bb5c-b027-aa87-7238a8dd7fda",
         "%vlocity_namespace%__SubAction__c": "",
-        "Name": "Business Bundle Billing Spec Billing",
+        "Name": "Billing",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationScenario__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationScenario__c/Business Bundle Billing Spec Billing/Product2/38a658b6-bb5c-b027-aa87-7238a8dd7fda"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationScenario__c/Billing/Product2/38a658b6-bb5c-b027-aa87-7238a8dd7fda"
     }
 ]

@@ -1,7 +1,6 @@
 [
     {
         "%vlocity_namespace%__ActionType__c": "Add",
-        "%vlocity_namespace%__CardinalityCheckScope__c": "",
         "%vlocity_namespace%__ContextEntityFilterId__c": "",
         "%vlocity_namespace%__ContextProductId__c": "",
         "%vlocity_namespace%__Description__c": "",
@@ -15,13 +14,13 @@
         "%vlocity_namespace%__ProductHierarchyPath__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYbTQAX",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017Et6QAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__ProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYbTQAX",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017Et6QAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__PromotionId__c": {
@@ -33,10 +32,9 @@
         "%vlocity_namespace%__PromotionId__r.%vlocity_namespace%__GlobalKey__c": "64505c14-3764-c0a6-a09f-883ceb966c6b",
         "%vlocity_namespace%__Quantity__c": 1,
         "%vlocity_namespace%__UndoableMessage__c": "",
-        "%vlocity_namespace%__UpdateScope__c": "",
-        "Name": "a3S1N000000qWXp",
+        "Name": "a3S1I0000009vQ3",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__PromotionItem__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__PromotionItem__c/%vlocity_namespace%__Promotion__c/64505c14-3764-c0a6-a09f-883ceb966c6b/VlocityRecordSourceKey:01t1N00000EUYbTQAX"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__PromotionItem__c/%vlocity_namespace%__Promotion__c/64505c14-3764-c0a6-a09f-883ceb966c6b/VlocityRecordSourceKey:01t1I0000017Et6QAE"
     }
 ]

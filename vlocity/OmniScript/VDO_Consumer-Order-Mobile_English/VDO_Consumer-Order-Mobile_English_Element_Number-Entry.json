@@ -23,9 +23,6 @@
         "conditionType": "Hide if False",
         "controlWidth": 12,
         "debounceValue": 0,
-        "documentNames": [
-            "test"
-        ],
         "help": false,
         "helpText": "",
         "label": "Enter the mobile number you would like to port.",

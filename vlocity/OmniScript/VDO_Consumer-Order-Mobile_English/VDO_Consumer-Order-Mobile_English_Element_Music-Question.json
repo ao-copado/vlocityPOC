@@ -23,9 +23,6 @@
         "checkLabel": "Do you listen to music on Spotify or a similar service?",
         "conditionType": "Hide if False",
         "controlWidth": 12,
-        "documentNames": [
-            "test"
-        ],
         "help": false,
         "helpText": "",
         "label": "Do you listen to music on Spotify or a similar service?",

@@ -1,6 +1,5 @@
 {
     "%vlocity_namespace%__Author__c": "Vlocity",
-    "%vlocity_namespace%__CSS__c": "card-active-slds.css",
     "%vlocity_namespace%__CustomJavascript__c": "",
     "%vlocity_namespace%__Definition__c": "",
     "%vlocity_namespace%__Description__c": "card-active-slds\n\nLightning Design System based Active Card. Shows fields in left column and actions in the right column. Overflow actions appear in the dropdown on the top right of the card.\n\nRecommended to be used in card-canvas-3x-slds.",

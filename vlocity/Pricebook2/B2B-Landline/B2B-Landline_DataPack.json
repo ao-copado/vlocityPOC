@@ -1,0 +1,15 @@
+{
+    "%vlocity_namespace%__IsDefault__c": false,
+    "%vlocity_namespace%__IsOpportunityDefault__c": false,
+    "%vlocity_namespace%__IsOrderDefault__c": false,
+    "%vlocity_namespace%__isQuoteDefault__c": false,
+    "Description": "This pricebook contains all business landline products.",
+    "IsActive": true,
+    "IsArchived": false,
+    "IsStandard": false,
+    "Name": "B2B - Landline",
+    "PricebookEntry": "B2B-Landline_PricebookEntries.json",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "Pricebook2",
+    "VlocityRecordSourceKey": "Pricebook2/B2B - Landline"
+}

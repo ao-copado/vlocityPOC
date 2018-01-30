@@ -28,7 +28,7 @@
     "%vlocity_namespace%__ProductTemplateProductId__c": {
         "%vlocity_namespace%__GlobalKey__c": null,
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYfyQAH",
+        "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EvaQAE",
         "VlocityRecordSObjectType": "Product2"
     },
     "%vlocity_namespace%__Scope__c": "",
@@ -84,6 +84,7 @@
     "Number__c": "",
     "PBX_Type__c": "",
     "Price__c": "",
+    "PricebookEntry": "Configurable-Fibre-Internet_StandardPricebookEntry.json",
     "ProductCode": "VLO-INT-0027",
     "Product_Channel__c": "All",
     "Product_Owner__c": "",

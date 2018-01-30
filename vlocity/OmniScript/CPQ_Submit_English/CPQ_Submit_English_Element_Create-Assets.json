@@ -11,9 +11,6 @@
     "%vlocity_namespace%__PropertySet__c": {
         "HTMLTemplateId": "",
         "controlWidth": 12,
-        "extraPayload": {
-            "cartId": "%ContextId%"
-        },
         "failureAbortLabel": "Abort",
         "failureAbortMessage": "Are you sure?",
         "failureNextLabel": "Continue",

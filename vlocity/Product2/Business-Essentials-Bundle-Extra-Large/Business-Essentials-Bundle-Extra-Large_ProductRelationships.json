@@ -5,7 +5,7 @@
         "%vlocity_namespace%__AttributeModificationContext__c": "",
         "%vlocity_namespace%__Context__c": "",
         "%vlocity_namespace%__DefaultQuantity__c": 1,
-        "%vlocity_namespace%__Description__c": "",
+        "%vlocity_namespace%__Description__c": "For the complete business package we recommend you purchase Microsoft Office 365.",
         "%vlocity_namespace%__Family__c": "",
         "%vlocity_namespace%__GlobalKey__c": "",
         "%vlocity_namespace%__IsConditional__c": true,
@@ -14,21 +14,21 @@
         "%vlocity_namespace%__Product2Id__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYbIQAX",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErQQAU",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__RelatedProductFilterId__c": "",
         "%vlocity_namespace%__RelatedProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYcbQAH",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErqQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__RelationshipType__c": "Recommends",
         "Message__c": "",
-        "Name": "Business Essentials Bundle Extra Large Recommends Office 365",
+        "Name": "Microsoft Office 365",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductRelationship__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1e1N000004hT9SQAU"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1e1I000000ZOWvQAO"
     }
 ]

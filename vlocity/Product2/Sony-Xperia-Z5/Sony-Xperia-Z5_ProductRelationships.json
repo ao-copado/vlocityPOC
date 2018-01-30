@@ -14,14 +14,14 @@
         "%vlocity_namespace%__Product2Id__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYbrQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017ErnQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__RelatedProductFilterId__c": "",
         "%vlocity_namespace%__RelatedProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYbtQAH",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017Et9QAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__RelationshipType__c": "Recommends",
@@ -29,6 +29,6 @@
         "Name": "Sony Xperia Z5 Recommends Beats Powerbeats",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductRelationship__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1e1N000004hT9OQAU"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1e1I000000ZOWrQAO"
     }
 ]

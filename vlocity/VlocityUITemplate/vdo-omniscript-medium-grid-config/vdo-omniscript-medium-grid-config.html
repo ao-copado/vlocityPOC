@@ -1,0 +1,31 @@
+<div class="selecteableItem mediumgrid" ng-repeat="p in control.vlcSI[control.itemsKey] | orderBy:'Name'">
+    <div class="row result-box " ng-class="{'selected':p.added}">
+        <div class="img-container padding0">
+            <img ng-if="p.Image" src="{{p.Image}}"/>
+        </div>
+
+        <div class="product-info padding0" >
+            <h3 class="title">{{p.Name}}</h3>
+            <p class="description">
+               {{p.Description}}
+            </p>
+        </div>
+
+         <div class="flex" id="vlocity-price">
+            <div style="flex: 1;">
+                <span class="col-xs-6 col-sm-6 padding0">
+                    <h6>One Time</h6>
+                    <h2>{{p.OneTimeCost}}</h2>
+                </span>
+            </div>
+            <div class="action" ng-init=" p.isConfigurable == true ? operation = 'configureProd' : operation = 'Add' ">
+                <button class="btn btn-primary ng-scope" ng-if="!p.added" ng-click="configureItem(bpTree.response, control, this, p, operation, baseCtrl.customHandleSelectedItem, baseCtrl.customIsConfigurable)">
+                    Add To Cart
+                </button>
+                <button class="btn btn-success col-md-12" ng-if="p.added" ng-click="buttonClick(bpTree.response, control, this, p, 'Remove', baseCtrl.customHandleSelectedItem)">
+                    <span class="icon icon-v-check"></span>
+                </button>
+            </div>
+        </div>
+   </div>
+</div>

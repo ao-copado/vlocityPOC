@@ -5,7 +5,7 @@
         "%vlocity_namespace%__Product2Id__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYfgQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EqtQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__RuleBasis__c": "Account Record Type",

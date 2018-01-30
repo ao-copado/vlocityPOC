@@ -88,12 +88,12 @@
         },
         "%vlocity_namespace%__VqMachineId__r.Name": "Offers",
         "%vlocity_namespace%__VqResourceId__c": {
-            "Name": "Samsung Galaxy S8",
+            "Name": "Samsung Galaxy S7",
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__VqResource__c/Samsung Galaxy S8",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__VqResource__c/Samsung Galaxy S7",
             "VlocityRecordSObjectType": "%vlocity_namespace%__VqResource__c"
         },
-        "%vlocity_namespace%__VqResourceId__r.Name": "Samsung Galaxy S8",
+        "%vlocity_namespace%__VqResourceId__r.Name": "Samsung Galaxy S7",
         "Name": "Samsung Galaxy S7",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachineResource__c",
@@ -148,12 +148,12 @@
         },
         "%vlocity_namespace%__VqMachineId__r.Name": "Offers",
         "%vlocity_namespace%__VqResourceId__c": {
-            "Name": "iPhone 8",
+            "Name": "iPhone 7",
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__VqResource__c/iPhone 8",
+            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__VqResource__c/iPhone 7",
             "VlocityRecordSObjectType": "%vlocity_namespace%__VqResource__c"
         },
-        "%vlocity_namespace%__VqResourceId__r.Name": "iPhone 8",
+        "%vlocity_namespace%__VqResourceId__r.Name": "iPhone 7",
         "Name": "iPhone 7",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__VqMachineResource__c",

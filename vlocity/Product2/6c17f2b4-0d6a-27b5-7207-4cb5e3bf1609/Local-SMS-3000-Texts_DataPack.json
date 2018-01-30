@@ -78,6 +78,7 @@
     "Number__c": "",
     "PBX_Type__c": "",
     "Price__c": "",
+    "PricebookEntry": "Local-SMS-3000-Texts_StandardPricebookEntry.json",
     "ProductCode": "VLO-MOB-0139",
     "Product_Channel__c": "All",
     "Product_Owner__c": "",

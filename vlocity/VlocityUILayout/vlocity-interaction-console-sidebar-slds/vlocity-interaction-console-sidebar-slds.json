@@ -1,15 +1,15 @@
 {
     "Cards": [
-        "interaction-profile-account-slds",
-        "interaction-profile-account-info-slds",
-        "interaction-profile-contact",
-        "interaction-profile-contact-info"
+        "interaction-profile-account-slds2",
+        "interaction-profile-account-info-slds2",
+        "vdo-interaction-profile-contact2",
+        "vdo-interaction-profile-contact-info2"
     ],
     "dataSource": {
         "contextVariables": [
             {
                 "name": "params.id",
-                "val": "a3A150000005PBq"
+                "val": "a3L36000000HyBAEA0"
             }
         ],
         "type": "ApexRemote",

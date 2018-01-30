@@ -10,7 +10,7 @@
         "%vlocity_namespace%__RuleId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:a1o1N000002siuhQAA",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:a1o1I000000ZxbxQAC",
             "VlocityRecordSObjectType": "%vlocity_namespace%__Rule__c"
         },
         "%vlocity_namespace%__Sequence__c": 1,

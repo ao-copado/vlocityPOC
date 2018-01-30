@@ -20,13 +20,13 @@
         "%vlocity_namespace%__SourceProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYbTQAX",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017Et6QAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__XORGroup__c": "",
         "Name": "Sports Channel Technical Pack",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__DecompositionRelationship__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/Sports Channel Technical Pack/VlocityRecordSourceKey:01t1N00000EUYbTQAX"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__DecompositionRelationship__c/Sports Channel Technical Pack/VlocityRecordSourceKey:01t1I0000017Et6QAE"
     }
 ]

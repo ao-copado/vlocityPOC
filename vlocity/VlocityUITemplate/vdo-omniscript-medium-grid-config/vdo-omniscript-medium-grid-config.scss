@@ -1,0 +1,57 @@
+.mediumgrid .row{
+    background:transparent;
+}
+.mediumgrid {
+    width: 25%;
+    float: left;
+    padding: 20px;
+    border: 0px;
+    opacity:1;
+}
+.mediumgrid .result-box .product-info .title {
+    padding: 15px 0 20px 0;
+    margin: 0;
+    text-align: center;
+    font-size: 12px;
+    height:50px;
+}
+.mediumgrid .result-box .product-info .description{
+    height:80px;
+}
+.mediumgrid .result-box .img-container, .vlocity .mediumgrid .result-box .img-container img{
+    width:100%;
+    height:auto;
+    position:relative;
+    z-index:1;
+}
+.mediumgrid .selected{
+    border:0px;
+    opacity:1;
+}
+.mediumgrid .btn-success *{
+    top:0px;
+}
+.mediumgrid .result-box .img-container, .mediumgrid .result-box .product-info, .mediumgrid #vlocity-price, .mediumgrid #vlocity-price .item-actions{
+    position:initial;
+}
+.mediumgrid #vlocity-price, .vlocity .mediumgrid .btn{
+    width:100%;
+}
+.mediumgrid span.col-xs-6.col-sm-6.padding0 {
+    position: absolute;
+    top: -5px;
+    right: 10px;
+    width: 76px;
+    background: #16325C;
+    height: 76px;
+    padding: 25px 0px;
+    text-align: center;
+    border-radius: 38px;
+    color: #fff;
+    opacity:0.65;
+    z-index:1;
+}
+.mediumgrid h2, .vlocity .mediumgrid h6{
+    color:#FFF;
+    font-size:12px
+}

@@ -25,7 +25,7 @@
         "Name": "Root PCI",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458mHQAQ"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kpKQAQ"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "2",
@@ -58,7 +58,7 @@
         "Name": "Unlimited Extension",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458mIQAQ"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kpLQAQ"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "3",
@@ -91,7 +91,7 @@
         "Name": "CloudVoice Pro Add-On",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458mJQAQ"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kpMQAQ"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "4",
@@ -124,7 +124,7 @@
         "Name": "CloudVoice Mobile Collaborative License",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458mKQAQ"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kpNQAQ"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "5",
@@ -157,7 +157,7 @@
         "Name": "Polycom VVX 300",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458mLQAQ"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kpOQAQ"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "6",
@@ -190,7 +190,7 @@
         "Name": "Polycom VVX 400",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458mMQAQ"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kpPQAQ"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "7",
@@ -223,7 +223,7 @@
         "Name": "Polycom VVX 500",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458mNQAQ"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kpQQAQ"
     },
     {
         "%vlocity_namespace%__ChildLineNumber__c": "8",
@@ -256,6 +256,6 @@
         "Name": "Polycom VVX 600",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1N00000458mOQAQ"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I0000000kpRQAQ"
     }
 ]

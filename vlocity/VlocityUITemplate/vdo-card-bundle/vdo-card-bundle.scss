@@ -4,8 +4,8 @@
 .vlocity {
         /* Account details styles */
         .account-card {
-            background-color: #F8FBFE;
-            border:1px solid #e8eef5;
+            background-color: $white;
+            border:1px solid #dedede;
             margin:10px;
             border-radius:.25rem;
             float: left;
@@ -13,8 +13,8 @@
 
             .card-top {
                 padding: 15px 20px 15px;
-                background-color: #e8eef5;
-                border-bottom: 2px solid #e8eef5;
+                background-color: #f4f6f9;
+                border-bottom: 2px solid #d8dde6;
                 
                 h1 {
                     margin:0;

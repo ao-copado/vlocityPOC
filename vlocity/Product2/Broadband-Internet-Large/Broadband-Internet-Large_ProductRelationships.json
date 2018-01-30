@@ -14,14 +14,14 @@
         "%vlocity_namespace%__Product2Id__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYcjQAH",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EquQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__RelatedProductFilterId__c": "",
         "%vlocity_namespace%__RelatedProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYeTQAX",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017EqyQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__RelationshipType__c": "Recommends",
@@ -29,6 +29,6 @@
         "Name": "Broadband Internet Large Recommends Security Essentials",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductRelationship__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1e1N000004hT98QAE"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1e1I000000ZOWbQAO"
     }
 ]

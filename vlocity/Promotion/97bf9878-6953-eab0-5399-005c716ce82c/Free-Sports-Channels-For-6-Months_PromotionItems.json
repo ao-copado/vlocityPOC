@@ -1,7 +1,6 @@
 [
     {
         "%vlocity_namespace%__ActionType__c": "Add",
-        "%vlocity_namespace%__CardinalityCheckScope__c": "",
         "%vlocity_namespace%__ContextEntityFilterId__c": "",
         "%vlocity_namespace%__ContextProductId__c": "",
         "%vlocity_namespace%__Description__c": "",
@@ -14,14 +13,14 @@
         "%vlocity_namespace%__OfferId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYctQAH",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017Er7QAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__ProductHierarchyPath__c": "01t36000001iCLxAAM<01t36000001YxNsAAK<01t36000001CmNOAA0",
         "%vlocity_namespace%__ProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1N00000EUYbTQAX",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017Et6QAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__PromotionId__c": {
@@ -33,10 +32,9 @@
         "%vlocity_namespace%__PromotionId__r.%vlocity_namespace%__GlobalKey__c": "97bf9878-6953-eab0-5399-005c716ce82c",
         "%vlocity_namespace%__Quantity__c": 1,
         "%vlocity_namespace%__UndoableMessage__c": "",
-        "%vlocity_namespace%__UpdateScope__c": "",
-        "Name": "a3S1N000000qWXa",
+        "Name": "a3S1I0000009vPl",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__PromotionItem__c",
-        "VlocityRecordSourceKey": "%vlocity_namespace%__PromotionItem__c/%vlocity_namespace%__Promotion__c/97bf9878-6953-eab0-5399-005c716ce82c/VlocityRecordSourceKey:01t1N00000EUYbTQAX"
+        "VlocityRecordSourceKey": "%vlocity_namespace%__PromotionItem__c/%vlocity_namespace%__Promotion__c/97bf9878-6953-eab0-5399-005c716ce82c/VlocityRecordSourceKey:01t1I0000017Et6QAE"
     }
 ]

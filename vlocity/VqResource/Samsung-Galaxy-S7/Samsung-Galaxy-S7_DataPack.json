@@ -1,0 +1,18 @@
+{
+    "%vlocity_namespace%__AttributeAssignment__c": "Samsung-Galaxy-S7_AttributeAssignments.json",
+    "%vlocity_namespace%__DataSourceType__c": "",
+    "%vlocity_namespace%__DataSource__c": "",
+    "%vlocity_namespace%__Description__c": "This is what a perfect balance between form and function looks like. Find out why Galaxy S7 edge and S7 are the best yet.",
+    "%vlocity_namespace%__EffectiveDate__c": "",
+    "%vlocity_namespace%__ExpirationDate__c": "",
+    "%vlocity_namespace%__Headline__c": "",
+    "%vlocity_namespace%__IsActive__c": true,
+    "%vlocity_namespace%__SubTitle__c": "",
+    "%vlocity_namespace%__TargetObjectKey__c": "Mobile Order",
+    "%vlocity_namespace%__TargetObjectType__c": "VlocityAction",
+    "Attachment": "Samsung-Galaxy-S7_Attachments.json",
+    "Name": "Samsung Galaxy S7",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__VqResource__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__VqResource__c/Samsung Galaxy S7"
+}

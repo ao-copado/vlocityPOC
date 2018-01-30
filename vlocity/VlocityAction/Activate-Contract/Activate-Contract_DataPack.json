@@ -3,7 +3,7 @@
     "%vlocity_namespace%__AdditionalFilter__c": "",
     "%vlocity_namespace%__ApplicableTypes__c": "Contract",
     "%vlocity_namespace%__ApplicableUserProfiles__c": "All",
-    "%vlocity_namespace%__DisplayLabel__c": "Activate",
+    "%vlocity_namespace%__DisplayLabel__c": "Activate New Label",
     "%vlocity_namespace%__DisplayOn__c": "All",
     "%vlocity_namespace%__DisplaySequence__c": 8,
     "%vlocity_namespace%__Filter__c": "Status = 'Signed'",

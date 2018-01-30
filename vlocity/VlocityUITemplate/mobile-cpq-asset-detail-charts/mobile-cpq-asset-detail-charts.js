@@ -1,5 +1,5 @@
 vlocity.cardframework.registerModule.controller('assetDetailChartsCtrl', ['$scope', '$interpolate', function($scope, $interpolate) {
-        var colors = ['#FF6E0D', '#0070d2', '#04335d'];
+        var colors = ['#4bdddb', '#00a2e3', '#04335d'];
         
         $scope.card1Filter = $scope.card2Filter = $scope.card3Filter = 'thisperiod';
         

@@ -23,7 +23,6 @@
         "collapse": false,
         "conditionType": "Hide if False",
         "controlWidth": 12,
-        "hide": false,
         "label": "Customer Survey",
         "repeat": false,
         "repeatClone": false,
